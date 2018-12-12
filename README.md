@@ -2,7 +2,7 @@
 
 ## The resource
 
-Named entity annotations on top of Norwegian Dependency Treebank. 
+Named entity annotations on top of Norwegian Dependency Treebank. Created as a collaboration between [Schibsted Media Group](https://schibsted.com/), [Språkbanken](https://www.nb.no/forskning/sprakbanken/) and the [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/) at the University of Oslo.
 
 ### About the Norwegian Dependency Treebank (NDT)
 
