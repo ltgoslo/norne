@@ -1,6 +1,8 @@
-# Named Entity annotations in NDT
+# NORwegian Named Entities
 
 ## The resource
+
+Named entity annotations on top of Norwegian Dependency Treebank. 
 
 ### About the Norwegian Dependency Treebank (NDT)
 
