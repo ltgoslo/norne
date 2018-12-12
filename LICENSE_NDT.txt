@@ -1,0 +1,24 @@
+﻿Norwegian Dependency Treebank Version 1.0 (2014-03-28)
+
+License
+=========
+
+To the extent possible under law, the National Library of Norway has waived all copyright and related or neighboring rights to the linguistic annotations in Norwegian Dependency Treebank. This work is published from: Norway. 
+(See http://creativecommons.org/publicdomain/zero/1.0/). 
+
+The original third-party contents are not included in this CC0 license, and these individual works may not be republished as stand-alone texts. The original texts (with sources) are listed in 
+
+documentation /
+-------------
+- references_blog_nno.txt
+- references_blog_nob.txt
+- references_newspaper_nno.txt
+- references_newspaper_nob.txt
+- references_parliament_nno.txt
+- references_parliament_nob.txt
+- references_reports_nno.txt
+- references_reports_nob.txt
+
+The National Library of Norway has obtained permission from the authors/publishers to use the original texts for inclusion in Norwegian Dependency Treebank.
+
+The National Library of Norway, 2014-10-16
