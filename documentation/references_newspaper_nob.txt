@@ -1,0 +1,3137 @@
+Aftenposten 001
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2001/08/25/20010825-183723.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article183723.ece
+Source: AP
+Date: 2001-08-25 20:04
+Author: Ntb
+Language: nob
+Title: Lam og piggvar på bryllupsmenyen
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2001/08/25/20010825-183758.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article183758.ece
+Source: AP
+Date: 2001-08-25 20:39
+Author: Ntb
+Language: nob
+Title: Benket til bryllupsmiddag
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2001/10/15/20011015-212800.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article212800.ece
+Source: AP
+Date: 2001-10-15 23:01
+Author: Gunnar Magnus
+Language: nob
+Title: Jagland skal lede utenrikskomitéen
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2001/10/15/20011015-212802.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article212802.ece
+Source: AP
+Date: 2001-10-15 22:59
+Author: Gunnar Magnus
+Language: nob
+Title: Mer press fra Fr.p. i vente
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2001/10/15/20011015-212804.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/politikk/article212804.ece
+Source: AP
+Date: 2001-10-15 23:00
+Author: 
+Language: nob
+Title: Fr.p. baner veien for Bondevik II
+
+File 6
+File name in Norsk aviskorpus: AP/nob/2001/11/13/20011113-229303.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article229303.ece
+Source: AP
+Date: 2001-11-13 15:36
+Author: Ntb
+Language: nob
+Title: Mullah Omar gir ordre om fortsatt kamp
+
+File 7
+File name in Norsk aviskorpus: AP/nob/2001/12/10/20011210-242954.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article242954.ece
+Source: AP
+Date: 2001-12-10 00:46
+Author: Mariann Nordstrøm
+Language: nob
+Title: FN for fred og utvikling, i de fattiges tjeneste
+
+File 8
+File name in Norsk aviskorpus: AP/nob/2001/12/11/20011211-243705.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article243705.ece
+Source: AP
+Date: 2001-12-11 00:28
+Author: Torill Nordeng
+Language: nob
+Title: Lyste for freden og for Annan
+
+File 9
+File name in Norsk aviskorpus: AP/nob/2001/12/11/20011211-243706.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article243706.ece
+Source: AP
+Date: 2001-12-11 00:29
+Author: Mariann Nordstrøm
+Language: nob
+Title: Satte verdens svakeste i fokus
+
+File 10
+File name in Norsk aviskorpus: AP/nob/2001/12/11/20011211-244370.xml
+Original URL: http://www.aftenposten.no/kul_und/article244370.ece
+Source: AP
+Date: 2001-12-11 23:11
+Author: Lars West Johnsen
+Language: nob
+Title: Feiret den utsatte freden
+
+Aftenposten 002
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2009/06/13/20090613-3121171.xml
+Original URL: http://www.aftenposten.no/nyheter/sport/article3121171.ece
+Source: AP
+Date: 2009-06-13 19:42
+Author: 
+Language: nob
+Title: Kong Harald slo erkerivalen
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2009/06/13/20090613-3121215.xml
+Original URL: http://www.aftenposten.no/nyheter/sport/article3121215.ece
+Source: AP
+Date: 2009-06-13 20:45
+Author: Ntb
+Language: nob
+Title: Dale Oen forbedret seg i Monaco
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2009/06/13/20090613-3121245.xml
+Original URL: http://www.aftenposten.no/nyheter/sport/motorsport/article3121245.ece
+Source: AP
+Date: 2009-06-13 21:41
+Author: Ntb
+Language: nob
+Title: Bilen sviktet Petter Solberg
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2009/06/13/20090613-3121262.xml
+Original URL: http://www.aftenposten.no/meninger/sid/article3121262.ece
+Source: AP
+Date: 2009-06-13 23:15
+Author: 
+Language: nob
+Title: Fjern homo-mytene
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2009/06/28/20090628-3145211.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article3145211.ece
+Source: AP
+Date: 2009-06-28 23:53
+Author: Emma Tollersrud
+Language: nob
+Title: - Situasjonen er uoversiktlig
+
+Aftenposten 003
+===============
+Comment: Some sentences from these texts are not used in the corpus
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2006/04/05/20060405-1268414.xml
+Original URL: http://www.aftenposten.no/nyheter/kongelige/article1268414.ece
+Source: AP
+Date: 2006-04-05 09:16
+Author: Wenche Fuglehaug
+Language: nob
+Title: Får ros fra Støre
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2006/04/08/20060408-1272228.xml
+Original URL: http://www.aftenposten.no/kul_und/article1272228.ece
+Source: AP
+Date: 2006-04-08 00:45
+Author: Per Kristian Bjørkeng
+Language: nob
+Title: Internett skal arkiveres
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2008/04/01/20080401-2339561.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article2339561.ece
+Source: AP
+Date: 2008-04-01 02:14
+Author: Anders Hedeman
+Language: nob
+Title: Bush «knivstukket» på barne-TV
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2008/06/30/20080630-2480354.xml
+Original URL: http://www.aftenposten.no/nyheter/sport/article2480354.ece
+Source: AP
+Date: 2008-06-30 10:46
+Author: Arne Hole
+Language: nob
+Title: Storsatsing i Kongens båt
+
+Aftenposten 004
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2005/04/08/20050408-1013069.xml
+Original URL: http://www.aftenposten.no/nyheter/kongelige/article1013069.ece
+Source: AP
+Date: 2005-04-08 15:06
+Author: Trond Eide
+Language: nob
+Title: - Et trendy navnevalg
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2005/04/08/20050408-1013117.xml
+Original URL: http://www.aftenposten.no/nyheter/kongelige/article1013117.ece
+Source: AP
+Date: 2005-04-08 15:48
+Author: Ntb
+Language: nob
+Title: - Moro å bli farmor igjen
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2006/04/04/20060404-1268254.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article1268254.ece
+Source: AP
+Date: 2006-04-04 18:55
+Author: Wenche Fuglehaug
+Language: nob
+Title: - Imponert over fugleinfluensa-beredskap
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2008/04/01/20080401-2339630.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article2339630.ece
+Source: AP
+Date: 2008-04-01 07:51
+Author: Ntb
+Language: nob
+Title: - Stjal krokodille fordi dyrene ved Akvariet lider
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2008/06/03/20080603-2460206.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article2460206.ece
+Source: AP
+Date: 2008-06-03 01:34
+Author: Ntb
+Language: nob
+Title: Vellykket operasjon for Edward Kennedy
+
+File 6
+File name in Norsk aviskorpus: AP/nob/2008/06/25/20080625-2505473.xml
+Original URL: http://www.aftenposten.no/meninger/debatt/article2505473.ece
+Source: AP
+Date: 2008-06-25 19:33
+Author: 
+Language: nob
+Title: Klimapolitikk uten styring
+
+Aftenposten 005
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2005/12/01/20051201-18064.xml
+Original URL: http://fotball.aftenposten.no/sa/article18064.ece
+Source: AP
+Date: 2005-12-01 20:45
+Author: Eivind Aarre
+Language: nob
+Title: Aftenbladet.no
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2005/12/01/20051201-18065.xml
+Original URL: http://fotball.aftenposten.no/sa/article18065.ece
+Source: AP
+Date: 2005-12-01 20:43
+Author: Eivind Aarre
+Language: nob
+Title: Aftenbladet.no
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2005/12/01/20051201-18081.xml
+Original URL: http://fotball.aftenposten.no/sa/article18081.ece
+Source: AP
+Date: 2005-12-01 11:10
+Author: Eivind Aarre
+Language: nob
+Title: Aftenbladet.no
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2005/12/01/20051201-18104.xml
+Original URL: http://fotball.aftenposten.no/sa/article18104.ece
+Source: AP
+Date: 2005-12-01 00:58
+Author: Eivind Aarre
+Language: nob
+Title: Aftenbladet.no
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2005/12/03/20051203-1170828.xml
+Original URL: http://www.aftenposten.no/nyheter/kongelige/article1170828.ece
+Source: AP
+Date: 2005-12-03 17:01
+Author: Kjetil Olsen#Wenche Fuglehaug
+Language: nob
+Title: En prins er født, navnet klart til uken
+
+File 6
+File name in Norsk aviskorpus: AP/nob/2005/12/04/20051204-1165139.xml
+Original URL: http://www.aftenposten.no/nyheter/kongelige/article1165139.ece
+Source: AP
+Date: 2005-12-04 13:43
+Author: Wenche Fuglehaug#Kjetil Olsen
+Language: nob
+Title: Mette-Marit lagt inn på Rikshospitalet
+
+File 7
+File name in Norsk aviskorpus: AP/nob/2005/12/06/20051206-17919.xml
+Original URL: http://fotball.aftenposten.no/incoming/article17919.ece
+Source: AP
+Date: 2005-12-06 10:11
+Author: Ntb
+Language: nob
+Title: Gascoigne arrestert for overfall
+
+File 8
+File name in Norsk aviskorpus: AP/nob/2005/12/09/20051209-1130045.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article1130045.ece
+Source: AP
+Date: 2005-12-09 15:00
+Author: Nina Lødemel
+Language: nob
+Title: - Tusen takk
+
+File 9
+File name in Norsk aviskorpus: AP/nob/2008/09/01/20080901-2628963.xml
+Original URL: http://www.aftenposten.no/meninger/debatt/article2628963.ece
+Source: AP
+Date: 2008-09-01 13:37
+Author: 
+Language: nob
+Title: Vår tids strålekilde
+
+File 10
+File name in Norsk aviskorpus: AP/nob/2008/09/01/20080901-2629263.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article2629263.ece
+Source: AP
+Date: 2008-09-01 13:25
+Author: Ntb
+Language: nob
+Title: Rødt: Noen bør settes bak lås og slå
+
+File 11
+File name in Norsk aviskorpus: AP/nob/2008/09/03/20080903-2624103.xml
+Original URL: http://www.aftenposten.no/meninger/debatt/article2624103.ece
+Source: AP
+Date: 2008-09-03 13:51
+Author: 
+Language: nob
+Title: Svakt om stråling
+
+File 12
+File name in Norsk aviskorpus: AP/nob/2008/09/04/20080904-117189.xml
+Original URL: http://fotball.aftenposten.no/landslaget/article117189.ece
+Source: AP
+Date: 2008-09-04 22:26
+Author: Are Bye
+Language: nob
+Title: Ler av VM-sjansene
+
+File 13
+File name in Norsk aviskorpus: AP/nob/2008/09/08/20080908-2640087.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article2640087.ece
+Source: AP
+Date: 2008-09-08 08:18
+Author: Aftenposten.no
+Language: nob
+Title: Minst 20 døde i orkan i Haiti
+
+File 14
+File name in Norsk aviskorpus: AP/nob/2008/09/13/20080913-2651685.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article2651685.ece
+Source: AP
+Date: 2008-09-13 14:56
+Author: Ntb
+Language: nob
+Title: Paven advarer mot dansen om gullkalven
+
+File 15
+File name in Norsk aviskorpus: AP/nob/2008/09/13/20080913-2652125.xml
+Original URL: http://www.aftenposten.no/meninger/debatt/article2652125.ece
+Source: AP
+Date: 2008-09-13 20:44
+Author: 
+Language: nob
+Title: Burde ha visst
+
+File 16
+File name in Norsk aviskorpus: AP/nob/2008/09/14/20080914-117993.xml
+Original URL: http://fotball.aftenposten.no/eliteserien/article117993.ece
+Source: AP
+Date: 2008-09-14 23:53
+Author: Line Lauvsnes Oddekalv
+Language: nob
+Title: Jarstein blåste i hetsen
+
+File 17
+File name in Norsk aviskorpus: AP/nob/2008/09/16/20080916-2653343.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article2653343.ece
+Source: AP
+Date: 2008-09-16 01:22
+Author: Vibeke Knoop Rachline
+Language: nob
+Title: Eva Joly + Daniel Cohn-Bendit = EU
+
+File 18
+File name in Norsk aviskorpus: AP/nob/2008/09/18/20080918-2661979.xml
+Original URL: http://www.aftenposten.no/meninger/debatt/article2661979.ece
+Source: AP
+Date: 2008-09-18 13:51
+Author: 
+Language: nob
+Title: Fare i Husebyskogen
+
+File 19
+File name in Norsk aviskorpus: AP/nob/2008/09/18/20080918-2662108.xml
+Original URL: http://www.aftenposten.no/meninger/debatt/article2662108.ece
+Source: AP
+Date: 2008-09-18 14:29
+Author: 
+Language: nob
+Title: Norge som sosial investor
+
+File 20
+File name in Norsk aviskorpus: AP/nob/2008/09/20/20080920-118468.xml
+Original URL: http://fotball.aftenposten.no/forstediv/article118468.ece
+Source: AP
+Date: 2008-09-20 19:22
+Author: Jim Rune Bjorvand#Pål W. Jørgensen
+Language: nob
+Title: - Bryne er et søppellag
+
+File 21
+File name in Norsk aviskorpus: AP/nob/2008/09/20/20080920-2665396.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article2665396.ece
+Source: AP
+Date: 2008-09-20 11:26
+Author: Ntb
+Language: nob
+Title: Mange alvorlig syke av sopp i høst
+
+File 22
+File name in Norsk aviskorpus: AP/nob/2008/09/21/20080921-2666004.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article2666004.ece
+Source: AP
+Date: 2008-09-21 00:22
+Author: Geir Salvesen
+Language: nob
+Title: Ber Yunus forklare seg
+
+File 23
+File name in Norsk aviskorpus: AP/nob/2008/09/23/20080923-2669540.xml
+Original URL: http://www.aftenposten.no/nyheter/miljo/article2669540.ece
+Source: AP
+Date: 2008-09-23 14:06
+Author: Randi Kvåle Iversen
+Language: nob
+Title: Nye dieselbiler best for miljøet
+
+File 24
+File name in Norsk aviskorpus: AP/nob/2008/09/28/20080928-119152.xml
+Original URL: http://fotball.aftenposten.no/eliteserien/article119152.ece
+Source: AP
+Date: 2008-09-28 23:24
+Author: Roy Tommy Bråten
+Language: nob
+Title: Slakter kunsgresset
+
+File 25
+File name in Norsk aviskorpus: AP/nob/2008/09/30/20080930-119271.xml
+Original URL: http://fotball.aftenposten.no/eliteserien/article119271.ece
+Source: AP
+Date: 2008-09-30 12:16
+Author: Håvard Karlsen
+Language: nob
+Title: TIL-spillerne kritiserer Alfheim-kunstgresset
+
+Aftenposten 006
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2008/12/10/20081210-1252467.xml
+Original URL: http://www.aftenposten.no/meninger/kommentatorer/hansen/article1252467.ece
+Source: AP
+Date: 2008-12-10 01:16
+Author: 
+Language: nob
+Title: Cæsar på nært hold
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2008/12/10/20081210-1443984.xml
+Original URL: http://www.aftenposten.no/meninger/kommentatorer/hansen/article1443984.ece
+Source: AP
+Date: 2008-12-10 01:16
+Author: 
+Language: nob
+Title: Ikke helt død likevel
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2009/01/06/20090106-1561783.xml
+Original URL: http://www.aftenposten.no/meninger/kommentarer/article1561783.ece
+Source: AP
+Date: 2009-01-06 13:44
+Author: 
+Language: nob
+Title: En ny verden var mulig
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2009/01/22/20090122-2846214.xml
+Original URL: http://www.aftenposten.no/meninger/debatt/article2846214.ece
+Source: AP
+Date: 2009-01-22 17:19
+Author: 
+Language: nob
+Title: Den rådende «makta»
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2009/04/21/20090421-3036601.xml
+Original URL: http://www.aftenposten.no/kul_und/litteratur/article3036601.ece
+Source: AP
+Date: 2009-04-21 01:07
+Author: Ulf Andenæs
+Language: nob
+Title: Fatt mot - ny ordbok på vei
+
+File 6
+File name in Norsk aviskorpus: AP/nob/2009/04/30/20090430-3052423.xml
+Original URL: http://www.aftenposten.no/meninger/sid/article3052423.ece
+Source: AP
+Date: 2009-04-30 13:25
+Author: Ntb
+Language: nob
+Title: The Pope is a nice bloke
+
+File 7
+File name in Norsk aviskorpus: AP/nob/2009/08/14/20090814-3216319.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/politikk/article3216319.ece
+Source: AP
+Date: 2009-08-14 14:06
+Author: Stine Barstad
+Language: nob
+Title: Må ha politivakt til skoledebatt
+
+File 8
+File name in Norsk aviskorpus: AP/nob/2009/08/17/20090817-3218765.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article3218765.ece
+Source: AP
+Date: 2009-08-17 00:38
+Author: Ntb
+Language: nob
+Title: Bobiler til halvannen million stjålet
+
+File 9
+File name in Norsk aviskorpus: AP/nob/2009/09/22/20090922-3281240.xml
+Original URL: http://www.aftenposten.no/kul_und/litteratur/article3281240.ece
+Source: AP
+Date: 2009-09-22 00:19
+Author: John Harbo
+Language: nob
+Title: Med begrenset virkning
+
+File 10
+File name in Norsk aviskorpus: AP/nob/2009/10/05/20091005-3303888.xml
+Original URL: http://www.aftenposten.no/meninger/kommentatorer/storeng/article3303888.ece
+Source: AP
+Date: 2009-10-05 11:32
+Author: 
+Language: nob
+Title: Livet etter døden
+
+File 11
+File name in Norsk aviskorpus: AP/nob/2009/10/13/20091013-3318912.xml
+Original URL: http://www.aftenposten.no/meninger/sid/article3318912.ece
+Source: AP
+Date: 2009-10-13 23:55
+Author: Ntb
+Language: nob
+Title: Religiøs feiltolkning
+
+Aftenposten 007
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2009/10/09/20091009-3312140.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3312140.ece
+Source: AP
+Date: 2009-10-09 14:01
+Author: 
+Language: nob
+Title: Fra suksess til løgn
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2009/10/09/20091009-3312141.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3312141.ece
+Source: AP
+Date: 2009-10-09 14:01
+Author: 
+Language: nob
+Title: Barns vern
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2009/10/10/20091010-3313048.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3313048.ece
+Source: AP
+Date: 2009-10-10 01:52
+Author: 
+Language: nob
+Title: En pris til håp, dialog og fremtidstro
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2009/10/13/20091013-3318641.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3318641.ece
+Source: AP
+Date: 2009-10-13 16:11
+Author: 
+Language: nob
+Title: Samarbeidsviljens trontaledebatt
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2009/10/13/20091013-3318643.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3318643.ece
+Source: AP
+Date: 2009-10-13 16:10
+Author: 
+Language: nob
+Title: Tiden er knapp
+
+File 6
+File name in Norsk aviskorpus: AP/nob/2009/10/13/20091013-3318733.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3318733.ece
+Source: AP
+Date: 2009-10-13 16:59
+Author: 
+Language: nob
+Title: Sparekniven kan vente litt til
+
+File 7
+File name in Norsk aviskorpus: AP/nob/2009/10/13/20091013-3318734.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3318734.ece
+Source: AP
+Date: 2009-10-13 16:56
+Author: 
+Language: nob
+Title: Jaglands rolle
+
+File 8
+File name in Norsk aviskorpus: AP/nob/2009/10/14/20091014-3320513.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3320513.ece
+Source: AP
+Date: 2009-10-14 16:03
+Author: 
+Language: nob
+Title: Skyver problemene foran seg
+
+File 9
+File name in Norsk aviskorpus: AP/nob/2009/10/14/20091014-3320514.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3320514.ece
+Source: AP
+Date: 2009-10-14 16:02
+Author: 
+Language: nob
+Title: Kreftdata
+
+File 10
+File name in Norsk aviskorpus: AP/nob/2009/10/16/20091016-3321524.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3321524.ece
+Source: AP
+Date: 2009-10-16 09:16
+Author: 
+Language: nob
+Title: Skattelettelse
+
+File 11
+File name in Norsk aviskorpus: AP/nob/2009/10/16/20091016-3321525.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3321525.ece
+Source: AP
+Date: 2009-10-16 09:16
+Author: 
+Language: nob
+Title: En sårt tiltrengt seier for Obama
+
+File 12
+File name in Norsk aviskorpus: AP/nob/2009/10/16/20091016-3324104.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3324104.ece
+Source: AP
+Date: 2009-10-16 13:13
+Author: 
+Language: nob
+Title: Verdens beste barneland?
+
+File 13
+File name in Norsk aviskorpus: AP/nob/2009/10/16/20091016-3324106.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3324106.ece
+Source: AP
+Date: 2009-10-16 13:13
+Author: 
+Language: nob
+Title: Velfortjent
+
+File 14
+File name in Norsk aviskorpus: AP/nob/2009/10/22/20091022-3334272.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3334272.ece
+Source: AP
+Date: 2009-10-22 13:57
+Author: 
+Language: nob
+Title: Pressens kamp
+
+File 15
+File name in Norsk aviskorpus: AP/nob/2009/10/22/20091022-3334278.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3334278.ece
+Source: AP
+Date: 2009-10-22 13:57
+Author: 
+Language: nob
+Title: Grafsing kan være uunngåelig
+
+File 16
+File name in Norsk aviskorpus: AP/nob/2009/10/22/20091022-3334279.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3334279.ece
+Source: AP
+Date: 2009-10-22 13:46
+Author: 
+Language: nob
+Title: Kollektiv slendrian
+
+File 17
+File name in Norsk aviskorpus: AP/nob/2009/10/23/20091023-3336380.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3336380.ece
+Source: AP
+Date: 2009-10-23 14:37
+Author: 
+Language: nob
+Title: Grunnleggende tillitssvikt
+
+File 18
+File name in Norsk aviskorpus: AP/nob/2009/10/23/20091023-3336382.xml
+Original URL: http://www.aftenposten.no/meninger/leder/article3336382.ece
+Source: AP
+Date: 2009-10-23 14:37
+Author: 
+Language: nob
+Title: Nådeløst bra
+
+File 19
+File name in Norsk aviskorpus: AP/nob/2009/10/23/20091023-3336872.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3336872.ece
+Source: AP
+Date: 2009-10-23 23:36
+Author: Ntb
+Language: nob
+Title: Krevende psykisk helse
+
+Aftenposten 008
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2009/01/07/20090107-2852399.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/matlary/article2852399.ece
+Source: AP
+Date: 2009-01-07 14:55
+Author: 
+Language: nob
+Title: Uten politisk effekt
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2009/01/19/20090119-2876028.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/matlary/article2876028.ece
+Source: AP
+Date: 2009-01-19 23:56
+Author: 
+Language: nob
+Title: Verdirelativismen som problem
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2009/01/30/20090130-2897733.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/ulltveitmoe/article2897733.ece
+Source: AP
+Date: 2009-01-30 13:02
+Author: 
+Language: nob
+Title: Kan Obama kutte klimaets gordiske knute?
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2009/03/15/20090315-2979215.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/ottosen/article2979215.ece
+Source: AP
+Date: 2009-03-15 21:35
+Author: 
+Language: nob
+Title: Den mektige somalikvinnen
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2009/08/12/20090812-3212055.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/matlary/article3212055.ece
+Source: AP
+Date: 2009-08-12 00:13
+Author: 
+Language: nob
+Title: Høfligheten er borte
+
+File 6
+File name in Norsk aviskorpus: AP/nob/2009/08/14/20090814-3215909.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/ulltveitmoe/article3215909.ece
+Source: AP
+Date: 2009-08-14 09:45
+Author: 
+Language: nob
+Title: Noen skatteflyktninger er likere enn andre
+
+File 7
+File name in Norsk aviskorpus: AP/nob/2009/08/18/20090818-3221875.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/ottosen/article3221875.ece
+Source: AP
+Date: 2009-08-18 14:36
+Author: 
+Language: nob
+Title: Kirken som kan avkristnes innenfra
+
+File 8
+File name in Norsk aviskorpus: AP/nob/2009/08/27/20090827-3236180.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/lundestad/article3236180.ece
+Source: AP
+Date: 2009-08-27 14:54
+Author: 
+Language: nob
+Title: Forskjellige, men stadig likere
+
+File 9
+File name in Norsk aviskorpus: AP/nob/2009/10/06/20091006-3305803.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/lundestad/article3305803.ece
+Source: AP
+Date: 2009-10-06 13:27
+Author: 
+Language: nob
+Title: Skal USA og Kina styre verden?
+
+File 10
+File name in Norsk aviskorpus: AP/nob/2009/10/09/20091009-3312166.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/ulltveitmoe/article3312166.ece
+Source: AP
+Date: 2009-10-09 14:10
+Author: 
+Language: nob
+Title: USA med svarteper
+
+File 11
+File name in Norsk aviskorpus: AP/nob/2009/10/15/20091015-3321008.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/matlary/article3321008.ece
+Source: AP
+Date: 2009-10-15 09:20
+Author: 
+Language: nob
+Title: Regjeringen må utøve strategisk ledelse
+
+File 12
+File name in Norsk aviskorpus: AP/nob/2009/10/18/20091018-3325564.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/ottosen/article3325564.ece
+Source: AP
+Date: 2009-10-18 14:17
+Author: 
+Language: nob
+Title: Jehovas vitner, noe helt for seg selv
+
+
+Aftenposten 009
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2009/01/19/20090119-2873887.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/rana/article2873887.ece
+Source: AP
+Date: 2009-01-19 12:12
+Author: 
+Language: nob
+Title: Hamas er i endring
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2009/01/23/20090123-2885450.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/egeland/article2885450.ece
+Source: AP
+Date: 2009-01-23 23:19
+Author: 
+Language: nob
+Title: Det skjedde mens vi alle så på Gaza
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2009/01/24/20090124-2886475.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/valebrokk/article2886475.ece
+Source: AP
+Date: 2009-01-24 23:21
+Author: 
+Language: nob
+Title: Når ord forandrer verden
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2009/02/09/20090209-2914923.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/valebrokk/article2914923.ece
+Source: AP
+Date: 2009-02-09 08:47
+Author: 
+Language: nob
+Title: Papiravisens snarlige død?
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2009/02/23/20090223-2940464.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/valebrokk/article2940464.ece
+Source: AP
+Date: 2009-02-23 15:02
+Author: 
+Language: nob
+Title: Gammel kjærlighet ruster
+
+File 6
+File name in Norsk aviskorpus: AP/nob/2009/03/10/20090310-2968640.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/rana/article2968640.ece
+Source: AP
+Date: 2009-03-10 11:45
+Author: 
+Language: nob
+Title: Grums skal ikke forsvares
+
+File 7
+File name in Norsk aviskorpus: AP/nob/2009/06/12/20090612-3118210.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/ronning/article3118210.ece
+Source: AP
+Date: 2009-06-12 13:07
+Author: 
+Language: nob
+Title: Anarki ruler. Eller?
+
+File 8
+File name in Norsk aviskorpus: AP/nob/2009/06/15/20090615-3123402.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/valebrokk/article3123402.ece
+Source: AP
+Date: 2009-06-15 13:39
+Author: 
+Language: nob
+Title: Hjelp oss, Georg Apenes!
+
+File 9
+File name in Norsk aviskorpus: AP/nob/2009/07/26/20090726-3186418.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/valebrokk/article3186418.ece
+Source: AP
+Date: 2009-07-26 00:31
+Author: 
+Language: nob
+Title: Prügelknabe på flyttefot?
+
+File 10
+File name in Norsk aviskorpus: AP/nob/2009/08/09/20090809-3208016.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/valebrokk/article3208016.ece
+Source: AP
+Date: 2009-08-09 00:53
+Author: 
+Language: nob
+Title: Jens Stoltenberg i motvind
+
+File 11
+File name in Norsk aviskorpus: AP/nob/2009/08/11/20090811-3205869.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/rana/article3205869.ece
+Source: AP
+Date: 2009-08-11 09:24
+Author: 
+Language: nob
+Title: Muslim i Bush-land
+
+File 12
+File name in Norsk aviskorpus: AP/nob/2009/08/14/20090814-3215872.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/rana/article3215872.ece
+Source: AP
+Date: 2009-08-14 10:00
+Author: 
+Language: nob
+Title: Feirer norsk-pakistansk selvsikkerhet
+
+File 13
+File name in Norsk aviskorpus: AP/nob/2009/08/17/20090817-3219786.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/egeland/article3219786.ece
+Source: AP
+Date: 2009-08-17 13:18
+Author: 
+Language: nob
+Title: Vår tids største urett
+
+File 14
+File name in Norsk aviskorpus: AP/nob/2009/08/31/20090831-3242126.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/rana/article3242126.ece
+Source: AP
+Date: 2009-08-31 11:09
+Author: 
+Language: nob
+Title: De asketiske homofile
+
+File 15
+File name in Norsk aviskorpus: AP/nob/2009/09/11/20090911-3263156.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/rana/article3263156.ece
+Source: AP
+Date: 2009-09-11 10:11
+Author: 
+Language: nob
+Title: Minoritetspolitikere med ben i nesa
+
+File 16
+File name in Norsk aviskorpus: AP/nob/2009/09/14/20090914-3267796.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/ronning/article3267796.ece
+Source: AP
+Date: 2009-09-14 15:04
+Author: 
+Language: nob
+Title: Babylivet går sin gang
+
+File 17
+File name in Norsk aviskorpus: AP/nob/2009/09/29/20090929-3292994.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/egeland/article3292994.ece
+Source: AP
+Date: 2009-09-29 00:15
+Author: 
+Language: nob
+Title: Renessanse for utskjelt FN
+
+File 18
+File name in Norsk aviskorpus: AP/nob/2009/10/05/20091005-3303914.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/valebrokk/article3303914.ece
+Source: AP
+Date: 2009-10-05 11:44
+Author: 
+Language: nob
+Title: Rekken ut av Norge går
+
+
+Aftenposten 010
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2009/01/02/20090102-2845789.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/ottosen/article2845789.ece
+Source: AP
+Date: 2009-01-02 15:50
+Author: 
+Language: nob
+Title: God sex er gratis
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2009/01/06/20090106-2851291.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/syse/article2851291.ece
+Source: AP
+Date: 2009-01-06 11:49
+Author: 
+Language: nob
+Title: Er vi redde for moral?
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2009/02/23/20090223-2942824.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/woon/article2942824.ece
+Source: AP
+Date: 2009-02-23 13:54
+Author: 
+Language: nob
+Title: Fra blasfemisirkus til mer gudsalvor
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2009/04/24/20090424-3042913.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/woon/article3042913.ece
+Source: AP
+Date: 2009-04-24 10:57
+Author: 
+Language: nob
+Title: Nye tider i Malaysia
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2009/07/20/20090720-3178001.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/woon/article3178001.ece
+Source: AP
+Date: 2009-07-20 21:02
+Author: 
+Language: nob
+Title: Så skåler vi igjen!
+
+File 6
+File name in Norsk aviskorpus: AP/nob/2009/08/04/20090804-2487827.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/woon/article2487827.ece
+Source: AP
+Date: 2009-08-04 14:33
+Author: 
+Language: nob
+Title: Å ta fremmedfrykt alvorlig
+
+File 7
+File name in Norsk aviskorpus: AP/nob/2009/08/04/20090804-2577470.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/woon/article2577470.ece
+Source: AP
+Date: 2009-08-04 14:33
+Author: 
+Language: nob
+Title: Obama-koden
+
+File 8
+File name in Norsk aviskorpus: AP/nob/2009/08/04/20090804-3200981.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/woon/article3200981.ece
+Source: AP
+Date: 2009-08-04 14:32
+Author: 
+Language: nob
+Title: Alle kan redusere sykefraværet
+
+File 9
+File name in Norsk aviskorpus: AP/nob/2009/09/04/20090904-3252476.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/bondevik/article3252476.ece
+Source: AP
+Date: 2009-09-04 23:39
+Author: 
+Language: nob
+Title: Gi solskinnspolitikken en sjanse
+
+File 10
+File name in Norsk aviskorpus: AP/nob/2009/10/11/20091011-3313722.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/woon/article3313722.ece
+Source: AP
+Date: 2009-10-11 14:47
+Author: 
+Language: nob
+Title: Storting nesten uten næringsliv
+
+File 11
+File name in Norsk aviskorpus: AP/nob/2009/10/12/20091012-3316436.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/bondevik/article3316436.ece
+Source: AP
+Date: 2009-10-12 23:43
+Author: 
+Language: nob
+Title: I skyggen av fredsprisen
+
+File 12
+File name in Norsk aviskorpus: AP/nob/2009/10/23/20091023-3336381.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/woon/article3336381.ece
+Source: AP
+Date: 2009-10-23 14:37
+Author: 
+Language: nob
+Title: Signaler til Langtbortistan eller til Frp?
+
+Aftenposten 011
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2009/06/13/20090613-3121171.xml
+Original URL: http://www.aftenposten.no/nyheter/sport/article3121171.ece
+Source: AP
+Date: 2009-06-13 19:42
+Author: 
+Language: nob
+Title: Kong Harald slo erkerivalen
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2009/06/13/20090613-3121215.xml
+Original URL: http://www.aftenposten.no/nyheter/sport/article3121215.ece
+Source: AP
+Date: 2009-06-13 20:45
+Author: Ntb
+Language: nob
+Title: Dale Oen forbedret seg i Monaco
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2009/06/13/20090613-3121245.xml
+Original URL: http://www.aftenposten.no/nyheter/sport/motorsport/article3121245.ece
+Source: AP
+Date: 2009-06-13 21:41
+Author: Ntb
+Language: nob
+Title: Bilen sviktet Petter Solberg
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2009/06/13/20090613-3121262.xml
+Original URL: http://www.aftenposten.no/meninger/sid/article3121262.ece
+Source: AP
+Date: 2009-06-13 23:15
+Author: 
+Language: nob
+Title: Fjern homo-mytene
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2009/06/28/20090628-3145211.xml
+Original URL: http://www.aftenposten.no/nyheter/uriks/article3145211.ece
+Source: AP
+Date: 2009-06-28 23:53
+Author: Emma Tollersrud
+Language: nob
+Title: - Situasjonen er uoversiktlig
+
+Aftenposten 012
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2009/10/16/20091016-3324624.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3324624.ece
+Source: AP
+Date: 2009-10-16 23:45
+Author: Ntb
+Language: nob
+Title: Kunst trenger et marked
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2009/10/18/20091018-3325556.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3325556.ece
+Source: AP
+Date: 2009-10-18 00:09
+Author: Ntb
+Language: nob
+Title: Å tie er å lyve
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2009/10/18/20091018-3326549.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3326549.ece
+Source: AP
+Date: 2009-10-18 23:46
+Author: Ntb
+Language: nob
+Title: Vil vi bli forbikjørt?
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2009/10/19/20091019-3328613.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3328613.ece
+Source: AP
+Date: 2009-10-19 23:45
+Author: Ntb
+Language: nob
+Title: Rettferdighet for Martine
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2009/10/21/20091021-3331648.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3331648.ece
+Source: AP
+Date: 2009-10-21 17:04
+Author: Ntb
+Language: nob
+Title: - Jeg har tatt feil om cannabis
+
+Aftenposten 013
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2009/10/13/20091013-3316447.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3316447.ece
+Source: AP
+Date: 2009-10-13 08:45
+Author: Ntb
+Language: nob
+Title: Myter om kunstsponsing
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2009/10/13/20091013-3317283.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3317283.ece
+Source: AP
+Date: 2009-10-13 13:25
+Author: Ntb
+Language: nob
+Title: Hva det vil si å være menneske
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2009/10/14/20091014-3318955.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3318955.ece
+Source: AP
+Date: 2009-10-14 09:39
+Author: Ntb
+Language: nob
+Title: Å ydmyke et folk
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2009/10/15/20091015-3321021.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3321021.ece
+Source: AP
+Date: 2009-10-15 16:05
+Author: Ntb
+Language: nob
+Title: Nå tar vi oss sammen
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2009/10/16/20091016-3323000.xml
+Original URL: http://www.aftenposten.no/meninger/kronikker/article3323000.ece
+Source: AP
+Date: 2009-10-16 10:43
+Author: 
+Language: nob
+Title: Det notoriske rovdyr
+
+Aftenposten 014
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2005/02/10/20050210-762251.xml
+Original URL: http://www.aftenposten.no/helse/article762251.ece
+Source: AP
+Date: 2005-02-10 14:12
+Author: Carsten Bleness
+Language: nob
+Title: Pinefull død for den irske pub?
+
+File 2
+File name in Norsk aviskorpus: AP/nob/2008/12/10/20081210-1411542.xml
+Original URL: http://www.aftenposten.no/meninger/kommentatorer/hansen/article1411542.ece
+Source: AP
+Date: 2008-12-10 01:16
+Author: 
+Language: nob
+Title: Museumsparadokser
+
+File 3
+File name in Norsk aviskorpus: AP/nob/2008/12/10/20081210-1546270.xml
+Original URL: http://www.aftenposten.no/meninger/kommentatorer/haugen/article1546270.ece
+Source: AP
+Date: 2008-12-10 01:22
+Author: 
+Language: nob
+Title: Borat sårer nasjonens stolthet
+
+File 4
+File name in Norsk aviskorpus: AP/nob/2008/12/10/20081210-1564010.xml
+Original URL: http://www.aftenposten.no/meninger/kommentatorer/okland/article1564010.ece
+Source: AP
+Date: 2008-12-10 01:55
+Author: 
+Language: nob
+Title: Svak tenkning
+
+File 5
+File name in Norsk aviskorpus: AP/nob/2008/12/10/20081210-2445517.xml
+Original URL: http://www.aftenposten.no/meninger/kommentatorer/andenaes/article2445517.ece
+Source: AP
+Date: 2008-12-10 00:58
+Author: 
+Language: nob
+Title: Bort herfra, det er vårt mål
+
+File 6
+File name in Norsk aviskorpus: AP/nob/2009/01/12/20090112-2862477.xml
+Original URL: http://www.aftenposten.no/meninger/spaltister/lundestad/article2862477.ece
+Source: AP
+Date: 2009-01-12 16:15
+Author: 
+Language: nob
+Title: Hvordan skal det gå med EU?
+
+File 7
+File name in Norsk aviskorpus: AP/nob/2009/01/14/20090114-2864162.xml
+Original URL: http://www.aftenposten.no/helse/article2864162.ece
+Source: AP
+Date: 2009-01-14 18:30
+Author: Ida Halvorsen Kemp
+Language: nob
+Title: Ny metode gir mindre smerte for nyfødte
+
+File 8
+File name in Norsk aviskorpus: AP/nob/2009/02/07/20090207-2908736.xml
+Original URL: http://www.aftenposten.no/leve/article2908736.ece
+Source: AP
+Date: 2009-02-07 16:59
+Author: Anette Aasheim
+Language: nob
+Title: Lykkelig uvitende
+
+File 9
+File name in Norsk aviskorpus: AP/nob/2009/04/01/20090401-3008866.xml
+Original URL: http://www.aftenposten.no/kul_und/anmeldelser/article3008866.ece
+Source: AP
+Date: 2009-04-01 00:27
+Author: Terje Stemland
+Language: nob
+Title: Et knyttneveslag
+
+File 10
+File name in Norsk aviskorpus: AP/nob/2009/04/02/20090402-3011985.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article3011985.ece
+Source: AP
+Date: 2009-04-02 16:17
+Author: Jostein Ihlebæk#Peder Ottosen
+Language: nob
+Title: Skole evakuert etter trusler på Internett
+
+File 11
+File name in Norsk aviskorpus: AP/nob/2009/08/01/20090801-3196837.xml
+Original URL: http://www.aftenposten.no/nyheter/iriks/article3196837.ece
+Source: AP
+Date: 2009-08-01 23:41
+Author: Helge O. Svela#Rune Christophersen
+Language: nob
+Title: Lager farlig narkotisk stoff av bilfelgrens
+
+Aftenposten 015
+===============
+
+File 1
+File name in Norsk aviskorpus: AP/nob/2009/05/17/20090517-3075570.xml
+Original URL: http://www.aftenposten.no/amagasinet/article3075570.ece
+Source: AP
+Date: 2009-05-17 16:43
+Author: Tonje Egedius
+Language: nob
+Title: Døde av kosttilskudd?
+
+Bergens Tidende 001
+===================
+
+File 1
+File name in Norsk aviskorpus: BT-20120128-2646361.xml
+Original URL: http://www.bt.no/bergenpuls/Band-Sound-Of-Love-2646361.html
+Source: BT
+Date: 2012-01-28 19:09
+Author: Hanne Farestvedt
+Language: nob
+Title: Band: Sound Of Love
+
+File 2
+File name in Norsk aviskorpus: BT-20120208-2652051.xml
+Original URL: http://www.bt.no/nyheter/lokalt/--Mister-undervisningsrom-og-lesesaler-2652051.html
+Source: BT
+Date: 2012-02-08 14:45
+Author: Kristine Næss Thorsen, Camilla Aadland
+Language: nob
+Title: - Mister undervisningsrom og lesesaler
+
+File 3
+File name in Norsk aviskorpus: BT-20120209-2643627.xml
+Original URL: http://www.bt.no/nyheter/lokalt/--Skamslatt-etter-a-ha-snakket-om-innvandringspolitikk-pa-Facebook-2643627.html
+Source: BT
+Date: 2012-02-09 13:09
+Author: Ole Valaker
+Language: nob
+Title: - Skamslått etter å ha snakket om innvandringspolitikk på Facebook
+
+File 4
+File name in Norsk aviskorpus: BT-20120426-2694239.xml
+Original URL: http://www.bt.no/nyheter/innenriks/22juli/Kritisk-til-NRKs-Breivik-dekning-2694239.html
+Source: BT
+Date: 2012-04-26 16:15
+Author: NTB
+Language: nob
+Title: Kritisk til NRKs Breivik-dekning
+
+File 5
+File name in Norsk aviskorpus: BT-20120820-2752121.xml
+Original URL: http://www.bt.no/bergenpuls/Advarer-mot-okt-dubbing-pa-TV-2752121.html
+Source: BT
+Date: 2012-08-20 06:06
+Author: Lars Holger Ursin, Tonje Aursland, Halvor Ripegutu
+Language: nob
+Title: Advarer mot økt dubbing på TV
+
+File 6
+File name in Norsk aviskorpus: BT-20120927-2771662.xml
+Original URL: http://www.bt.no/bergenpuls/film/anmeldelser/Formelpreget-og-full-av-feil-2771662.html
+Source: BT
+Date: 2012-09-27 12:24
+Author: Britt Sørensen
+Language: nob
+Title: Formelpreget og full av feil
+
+File 7
+File name in Norsk aviskorpus: BT-20121006-2776254.xml
+Original URL: http://www.bt.no/nyheter/--Ah_-no-blir-eg-varm-i-havve-2776254.html
+Source: BT
+Date: 2012-10-06 19:08
+Author: Cathrine Krane Hansen, Ingunn Røren
+Language: nob
+Title: - Åh, no blir eg varm i håvve!
+
+File 8
+File name in Norsk aviskorpus: BT-20121106-2792372.xml
+Original URL: http://www.bt.no/nyheter/utenriks/usavalget/Valgnatten-pa-btno-2792372.html
+Source: BT
+Date: 2012-11-06 22:08
+Author: Helge O. Svela, Christian Lura, Trond Olav Skrunes, Christina Pletten, Marita Aarekol
+Language: nob
+Title: Valgnatten på bt.no
+
+File 9
+File name in Norsk aviskorpus: BT-20121108-2793414.xml
+Original URL: http://www.bt.no/bergenpuls/film/anmeldelser/Kompetent-klisjmaraton-2793414.html
+Source: BT
+Date: 2012-11-08 12:04
+Author: Aksel Kielland
+Language: nob
+Title: Kompetent klisjémaraton
+
+File 10
+File name in Norsk aviskorpus: BT-20121130-36619.xml
+Original URL: http://reise.bt.no/reise/article36619.ece
+Source: BT
+Date: 2012-11-30 12:30
+Author: Isak Ladegaard
+Language: nob
+Title: Gangnam er Souls svar på SoHO
+
+Bergens Tidende 002
+===================
+
+File 1
+File name in Norsk aviskorpus: BT-20120102-217887.xml
+Original URL: http://sport.bt.no/sport/article217887.ece
+Source: BT
+Date: 2012-01-02 07:30
+Author: NTB
+Language: nob
+Title: Fører omkom i Dakar Rally: Ullevålseter: - Forferdelig trist
+
+File 2
+File name in Norsk aviskorpus: BT-20120601-2714165.xml
+Original URL: http://www.bt.no/bergenpuls/konsert/anmeldelser/Risikosport-2714165.html
+Source: BT
+Date: 2012-06-01 07:10
+Author: Stephan Meidell
+Language: nob
+Title: Risikosport
+
+File 3
+File name in Norsk aviskorpus: BT-20120610-2719361.xml
+Original URL: http://www.bt.no/nyheter/lokalt/Pater-Arnfinn-Haram-er-dod-2719361.html
+Source: BT
+Date: 2012-06-10 23:15
+Author: Guro Valland
+Language: nob
+Title: Pater Arnfinn Haram er død
+
+File 4
+File name in Norsk aviskorpus: BT-20120628-22427.xml
+Original URL: http://bil.bt.no/bil/Tusenvis-kjorer-uten-forerkort-22427.html
+Source: BT
+Date: 2012-06-28 07:25
+Author: NTB
+Language: nob
+Title: Tusenvis kjører uten førerkort
+
+File 5
+File name in Norsk aviskorpus: BT-20120628-22462.xml
+Original URL: http://bil.bt.no/bil/Her-kan-du-gi-full-gass-22462.html
+Source: BT
+Date: 2012-06-28 12:09
+Author: Ståle Frydenlund
+Language: nob
+Title: Her kan du gi full gass
+
+File 6
+File name in Norsk aviskorpus: BT-20120628-22473.xml
+Original URL: http://sprek.bt.no/sprek/Trente-i-seks-uker--gikk-ikke-ned-i-vekt-22473.html
+Source: BT
+Date: 2012-06-28 11:43
+Author: Torunn Aarøy
+Language: nob
+Title: Trente i seks uker - gikk ikke ned i vekt
+
+File 7
+File name in Norsk aviskorpus: BT-20120912-2763919.xml
+Original URL: http://www.bt.no/nyheter/okonomi/Rekordbillig-a-kjope-sydenboliger-na-2763919.html
+Source: BT
+Date: 2012-09-12 14:37
+Author: Redaksjon
+Language: nob
+Title: Rekordbillig å kjøpe sydenboliger nå
+
+File 8
+File name in Norsk aviskorpus: BT-20121006-2776359.xml
+Original URL: http://www.bt.no/nyheter/utenriks/Paven-benader-trolig-tyveridomt-butler-2776359.html
+Source: BT
+Date: 2012-10-06 16:55
+Author: NTB
+Language: nob
+Title: Paven benåder trolig tyveridømt butler
+
+File 9
+File name in Norsk aviskorpus: BT-20121122-2801581.xml
+Original URL: http://www.bt.no/nyheter/okonomi/Stor-stahei-for-fenalar-2801581.html
+Source: BT
+Date: 2012-11-22 19:12
+Author: Camilla Aadland
+Language: nob
+Title: Stor ståhei for fenalår
+
+Bergens Tidende 003
+===================
+
+File 1
+File name in Norsk aviskorpus: BT-20120103-2636404.xml
+Original URL: http://www.bt.no/nyheter/okonomi/De-storste-forretningstabbene-i-2011-2636404.html
+Source: BT
+Date: 2012-01-03 23:05
+Author: Henning Carr Ekroll, Kristin Jonassen Nordby, Kristin Jonassen Nordby
+Language: nob
+Title: De største forretningstabbene i 2011
+
+File 2
+File name in Norsk aviskorpus: BT-20120104-2634979.xml
+Original URL: http://www.bt.no/nyheter/klima/De-storste-forretningstabbene-i-2011-2634979.html
+Source: BT
+Date: 2012-01-04 09:12
+Author: Kristin Jonassen Nordby, Henning Carr Ekroll
+Language: nob
+Title: De største forretningstabbene i 2011
+
+File 3
+File name in Norsk aviskorpus: BT-20120410-2684777.xml
+Original URL: http://www.bt.no/nyheter/okonomi/--Blindleia-har-hatt-sin-storhetstid-2684777.html
+Source: BT
+Date: 2012-04-10 18:42
+Author: Roald Ankersen
+Language: nob
+Title: - Blindleia har hatt sin storhetstid
+
+File 4
+File name in Norsk aviskorpus: BT-20120529-2712346.xml
+Original URL: http://www.bt.no/bergenpuls/musikk/Heavyrockens-Elvis-Presley-2712346.html
+Source: BT
+Date: 2012-05-29 12:51
+Author: Knut Schreiner
+Language: nob
+Title: Heavyrockens Elvis Presley
+
+Bergens Tidende 004
+===================
+
+File 1
+File name in Norsk aviskorpus: BT-20120105-2640263.xml
+Original URL: http://www.bt.no/nyheter/okonomi/Forlag-i-fosterstilling-2640263.html
+Source: BT
+Date: 2012-01-05 09:42
+Author: Newspilot
+Language: nob
+Title: Forlag i fosterstilling
+
+File 2
+File name in Norsk aviskorpus: BT-20121111-2793970.xml
+Original URL: http://www.bt.no/nyheter/lokalt/De-glemte-redningsheltene-2793970.html
+Source: BT
+Date: 2012-11-11 09:29
+Author: Bjørn Asle Nord
+Language: nob
+Title: De glemte redningsheltene
+
+File 3
+File name in Norsk aviskorpus: BT-20121208-2808581.xml
+Original URL: http://www.bt.no/nyheter/Vi-har-kontaktet-dem-som-kunne-gitt-Cathrine-en-bedre-barndom-2808581.html
+Source: BT
+Date: 2012-12-08 09:57
+Author: Ingrid Fredriksen, Ingunn Røren
+Language: nob
+Title: Vi har kontaktet dem som kunne gitt Cathrine en bedre barndom
+
+
+Bergens Tidende 005
+===================
+Comment: Some sentences from these texts are not used in the corpus
+
+File 1
+File name in Norsk aviskorpus: BT-20120118-2642230.xml
+Original URL: http://www.bt.no/nyheter/innenriks/--Nar-virkeligheten-kommer_-er-det-for-sent-a-lare-2642230.html
+Source: BT
+Date: 2012-01-18 10:31
+Author: Astrid Hexeberg, Vibeke Buan, Randi Johannessen Buckley, Aftenposten.no
+Language: nob
+Title: - Når virkeligheten kommer, er det for sent å lære
+
+File 2
+File name in Norsk aviskorpus: BT-20120428-2694395.xml
+Original URL: http://www.bt.no/nyheter/Festen-som-endret-alt-for-Espen-2694395.html
+Source: BT
+Date: 2012-04-28 17:56
+Author: Bjørn Asle Nord
+Language: nob
+Title: Festen som endret alt for Espen
+
+File 3
+File name in Norsk aviskorpus: BT-20120916-2765289.xml
+Original URL: http://www.bt.no/nyheter/Et-sporsmal-om-dommekraft-2765289.html
+Source: BT
+Date: 2012-09-16 07:37
+Author: Ingrid Fredriksen, Kristin Jansen, Per Lindberg, Rune Christophersen
+Language: nob
+Title: Et spørsmål om dømmekraft
+
+Bergens Tidende 006
+===================
+
+File 1
+File name in Norsk aviskorpus: BT-20120405-2681286.xml
+Original URL: http://www.bt.no/nyheter/lokalt/adopsjon/Disse-ledet-adopsjonsnettverket-2681286.html
+Source: BT
+Date: 2012-04-05 22:16
+Author: Gunnar Wiederstrøm, Helle Aarnes, Ingvild Rugland
+Language: nob
+Title: Disse ledet adopsjonsnettverket
+
+Dagbladet 001
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/09/30/20080930-3419720.xml
+Original URL: http://www.dagbladet.no/art/kunst/humor/3419720/
+Source: DB
+Date: 2008-09-30 10:55
+Author: Trond Erling Pettersen
+Language: nob
+Title: Skap latter i sikkerhetskontrollen
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/10/03/20081003-3436398.xml
+Original URL: http://www.dagbladet.no/art/film/portrettet/3436398/
+Source: DB
+Date: 2008-10-03 09:45
+Author: Kjartan Brügger Bjånesøy
+Language: nob
+Title: Den synlige
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/10/17/20081017-3511135.xml
+Original URL: http://www.dagbladet.no/art/sportsmagasinet/nhl/3511135/
+Source: DB
+Date: 2008-10-17 10:22
+Author: Pål Marius Tingve
+Language: nob
+Title: Den kalde krigen
+
+Dagbladet 002
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/10/17/20081017-3512433.xml
+Original URL: http://www.dagbladet.no/art/design/siri_kalvig/3512433/
+Source: DB
+Date: 2008-10-17 13:59
+Author: Inger Merete Hobbelstad
+Language: nob
+Title: Lene Alexandra med lånte fjær
+
+Dagbladet 003
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/10/18/20081018-3516266.xml
+Original URL: http://www.dagbladet.no/art/kunst/soendag/3516266/
+Source: DB
+Date: 2008-10-18 12:44
+Author: 
+Language: nob
+Title: Hun har satt to onkler, tante, far, sønn og datter på utstilling
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/10/24/20081024-3549632.xml
+Original URL: http://www.dagbladet.no/art/portrettet/musikk/3549632/
+Source: DB
+Date: 2008-10-24 13:54
+Author: John-Arne Ø. Gundersen
+Language: nob
+Title: Vampyren
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/10/24/20081024-3550085.xml
+Original URL: http://www.dagbladet.no/art/herborg_kraakevik/soendag/3550085/
+Source: DB
+Date: 2008-10-24 14:23
+Author: Jon André Sæther
+Language: nob
+Title: Herborg Kråkevik har heldigvis sluttet å stjele
+
+Dagbladet 004
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/10/28/20081028-3572798.xml
+Original URL: http://www.dagbladet.no/art/prostitusjon/scene/3572798/
+Source: DB
+Date: 2008-10-28 13:56
+Author: Snorre Bryne
+Language: nob
+Title: Betaler prostituerte for å spille i «Pretty Woman»
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/10/29/20081029-3581006.xml
+Original URL: http://www.dagbladet.no/art/vinterdekk/bil_og_trafikk/3581006/
+Source: DB
+Date: 2008-10-29 13:57
+Author: Arna Vikanes Sørheim#Gro Rognmo
+Language: nob
+Title: Slik skifter du dekk
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/10/30/20081030-3588472.xml
+Original URL: http://www.dagbladet.no/art/likestilling/jordmor/3588472/
+Source: DB
+Date: 2008-10-30 12:42
+Author: Silje Bryne
+Language: nob
+Title: - Jeg har hørt om tilfeller der bruden ikke var mer enn ni år
+
+Dagbladet 005
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/11/12/20081112-3698250.xml
+Original URL: http://www.dagbladet.no/art/kreft/helse/3698250/
+Source: DB
+Date: 2008-11-12 10:11
+Author: Gro Rognmo
+Language: nob
+Title: Derfor får Hannah (13) dø hjemme
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/11/14/20081114-3720018.xml
+Original URL: http://www.dagbladet.no/2008/11/15/magasinet/menn/shabana_rehman/portrettet/3720018/
+Source: DB
+Date: 2008-11-14 14:43
+Author: Randi Fuglehaug
+Language: nob
+Title: Hyller sine menn
+
+Dagbladet 006
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/11/11/20081111-3690814.xml
+Original URL: http://www.dagbladet.no/2008/11/11/nyheter/bil_og_trafikk/arbeidsledighet/3690814/
+Source: DB
+Date: 2008-11-11 14:23
+Author: NTB
+Language: nob
+Title: Volvo sier opp enda tusen ansatte
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/11/13/20081113-3710660.xml
+Original URL: http://www.dagbladet.no/2008/11/13/kultur/nintendo/kultur/wii/spill/3710660/
+Source: DB
+Date: 2008-11-13 16:05
+Author: Vegard Haug
+Language: nob
+Title: - Dvaske husmødre er den ideelle målgruppen
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/11/14/20081114-3717243.xml
+Original URL: http://www.dagbladet.no/2008/11/14/kultur/spill/playstation_3/xbox_360/pc-spill/3717243/
+Source: DB
+Date: 2008-11-14 11:14
+Author: Snorre Bryne
+Language: nob
+Title: Hjelp, fabeldyrene angriper!
+
+Dagbladet 008
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/11/13/20081113-3703136.xml
+Original URL: http://www.dagbladet.no/art/helse/sykehus/3703136/
+Source: DB
+Date: 2008-11-13 02:00
+Author: NTB
+Language: nob
+Title: - Ullevål, Rikshospitalet og Aker blir ett sykehus
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/11/14/20081114-3719392.xml
+Original URL: http://www.dagbladet.no/2008/11/14/kultur/tom_clancy/spill/playstation_3/xbox_360/3719392/
+Source: DB
+Date: 2008-11-14 14:03
+Author: Stefan Ogden
+Language: nob
+Title: Styr krigens utfall med stemmen i «EndWar»
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/11/20/20081120-3776237.xml
+Original URL: http://www.dagbladet.no/2008/11/20/nyheter/snus/roykeforbud/helse/tobakk/3776237/
+Source: DB
+Date: 2008-11-20 09:01
+Author: Asle Hansen
+Language: nob
+Title: Vil forby 3000 ansatte i Bodø å snuse på jobb
+
+File 4
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3962351.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/alpint/lund_svindal/3962351/
+Source: DB
+Date: 2008-12-07 17:54
+Author: Morten Pedersen#John Rasømussen
+Language: nob
+Title: - Jeg kjørte ikke spesielt bra
+
+File 5
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3962639.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/boksing/cecilia_brekhus/3962639/
+Source: DB
+Date: 2008-12-07 18:34
+Author: NTB
+Language: nob
+Title: Brækhus må stå over VM-stevne
+
+Dagbladet 009
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/12/09/20081209-3986872.xml
+Original URL: http://www.dagbladet.no/2008/12/09/sport/thomas_ulsrud/curling/3986872/
+Source: DB
+Date: 2008-12-09 19:22
+Author: NTB
+Language: nob
+Title: Norge klare for curling-sluttspillet
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/12/09/20081209-3987823.xml
+Original URL: http://www.dagbladet.no/2008/12/10/nyheter/2400/smittefarlig_avfall/innenriks/miljo/3987823/
+Source: DB
+Date: 2008-12-09 22:07
+Author: Eiliv Frich Flydal#Arna Vikanes Sørheim
+Language: nob
+Title: - Blod og menneskerester er farlig for våre folk
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/12/10/20081210-3992736.xml
+Original URL: http://www.dagbladet.no/2008/12/10/reise/reiselivsnyheter/flyselskap/flyplass/3992736/
+Source: DB
+Date: 2008-12-10 10:44
+Author: NTB
+Language: nob
+Title: Kraftig nedgang i flytrafikken
+
+Dagbladet 010
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/12/09/20081209-3979096.xml
+Original URL: http://www.dagbladet.no/2008/12/09/nyheter/innenriks/okonomi/penger/3979096/
+Source: DB
+Date: 2008-12-09 07:25
+Author: NTB
+Language: nob
+Title: Slakter toppledernes fallskjermer
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/12/09/20081209-3979738.xml
+Original URL: http://www.dagbladet.no/2008/12/09/kultur/kunst/landminer/3979738/
+Source: DB
+Date: 2008-12-09 08:34
+Author: Hege Duckert
+Language: nob
+Title: Miss Ubehag
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/12/09/20081209-3980406.xml
+Original URL: http://www.dagbladet.no/2008/12/09/reise/thailand/tyskland/3980406/
+Source: DB
+Date: 2008-12-09 09:33
+Author: Tora Larsen Morset
+Language: nob
+Title: Tysk par arrestert for tempel-sex
+
+File 4
+File name in Norsk aviskorpus: DB/nob/2008/12/09/20081209-3983127.xml
+Original URL: http://www.dagbladet.no/2008/12/09/nyheter/klima/miljo/fns_klimatoppm/3983127/
+Source: DB
+Date: 2008-12-09 12:54
+Author: Anne Marte Blindheim
+Language: nob
+Title: Norge kan bli tvunget til å bygge ut mer fornybar energi
+
+Dagbladet 011
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/12/04/20081204-3923805.xml
+Original URL: http://www.dagbladet.no/2008/12/04/sport/ski/alpint/3923805/
+Source: DB
+Date: 2008-12-04 07:47
+Author: Nils Christian Mangelrød
+Language: nob
+Title: - Ble testet så sjelden at det var vanskelig
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/12/04/20081204-3927215.xml
+Original URL: http://www.dagbladet.no/2008/12/07/magasinet/sondagsintervjuet/sondag/kristian_valen/3927215/
+Source: DB
+Date: 2008-12-04 11:30
+Author: Jon André Sæther
+Language: nob
+Title: Hva var det siste Kristian Valen (34) fikset selv?
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/12/04/20081204-3927560.xml
+Original URL: http://www.dagbladet.no/2008/12/07/magasinet/arkitektur/design/jonas_gahr_store/sondag/3927560/
+Source: DB
+Date: 2008-12-04 12:08
+Author: Inger Merete Hobbelstad
+Language: nob
+Title: Det norske hus
+
+Dagbladet 012
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/11/03/20081103-3613517.xml
+Original URL: http://www.dagbladet.no/art/hells_angels/penger/3613517/
+Source: DB
+Date: 2008-11-03 12:56
+Author: NTB
+Language: nob
+Title: Dagmamma brukte Hells Angels til å kreve inn gjeld
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/11/07/20081107-3656440.xml
+Original URL: http://www.dagbladet.no/art/sondag/halvdan_sivertsen/3656440/
+Source: DB
+Date: 2008-11-07 11:35
+Author: Jon Andre Sæther
+Language: nob
+Title: Halvdan Sivertsen vil redde et Beckstein-flygel fra 1915
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/11/07/20081107-3656905.xml
+Original URL: http://www.dagbladet.no/art/hermes/design/3656905/
+Source: DB
+Date: 2008-11-07 12:02
+Author: Inger Merete Hobbelstad
+Language: nob
+Title: De lager verdens mest ettertraktede vesker
+
+File 4
+File name in Norsk aviskorpus: DB/nob/2008/11/09/20081109-3669432.xml
+Original URL: http://www.dagbladet.no/art/clinton/skoyter/3669432/
+Source: DB
+Date: 2008-11-09 03:07
+Author: Jørgen Brynhildsvoll#Tore Bergsaker
+Language: nob
+Title: Chelsea festet i Oslo
+
+File 5
+File name in Norsk aviskorpus: DB/nob/2008/11/20/20081120-3778684.xml
+Original URL: http://www.dagbladet.no/2008/11/21/magasinet/sportmagasinet/fotball/3778684/
+Source: DB
+Date: 2008-11-20 13:18
+Author: Bernt Jakob Oksnes
+Language: nob
+Title: Gutten som ikke ville være en av gutta
+
+File 6
+File name in Norsk aviskorpus: DB/nob/2008/11/21/20081121-3793047.xml
+Original URL: http://www.dagbladet.no/2008/11/21/kultur/spill/xbox_360/3793047/
+Source: DB
+Date: 2008-11-21 15:47
+Author: Snorre Bryne
+Language: nob
+Title: Går hardt ut mot «SingStar»
+
+File 7
+File name in Norsk aviskorpus: DB/nob/2008/12/06/20081206-3948317.xml
+Original URL: http://www.dagbladet.no/2008/12/06/nyheter/nigeria/barn/helse/utenriks/3948317/
+Source: DB
+Date: 2008-12-06 05:19
+Author: Torgeir Krokfjord
+Language: nob
+Title: Dette produktet har drept 34 småbarn
+
+File 8
+File name in Norsk aviskorpus: DB/nob/2008/12/08/20081208-3976337.xml
+Original URL: http://www.dagbladet.no/2008/12/08/sport/henrik_bj/golf/3976337/
+Source: DB
+Date: 2008-12-08 23:30
+Author: NTB
+Language: nob
+Title: Fem slag unna PGA-tour
+
+Dagbladet 013
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/11/21/20081121-3787576.xml
+Original URL: http://www.dagbladet.no/2008/11/21/kultur/spill/playstation_3/3787576/
+Source: DB
+Date: 2008-11-21 09:00
+Author: Snorre Bryne
+Language: nob
+Title: - Kommer som kallet for actiontørste PS3-eiere
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/11/21/20081121-3791325.xml
+Original URL: http://www.dagbladet.no/2008/11/21/kultur/nintendo/wii/spill/3791325/
+Source: DB
+Date: 2008-11-21 13:51
+Author: Snorre Bryne
+Language: nob
+Title: Nei, nei, nei, Nintendo!
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/11/21/20081121-3792840.xml
+Original URL: http://www.dagbladet.no/2008/11/21/sport/tennis/ekteskap/3792840/
+Source: DB
+Date: 2008-11-21 15:29
+Author: NTB
+Language: nob
+Title: Dumpa Boris Becker via SMS
+
+File 4
+File name in Norsk aviskorpus: DB/nob/2008/11/21/20081121-3793794.xml
+Original URL: http://www.dagbladet.no/2008/11/21/kultur/spill/playstation_3/playstation_2/wii/3793794/
+Source: DB
+Date: 2008-11-21 16:55
+Author: Stefan Ogden
+Language: nob
+Title: Bånn gass i nye «Need for Speed»
+
+File 5
+File name in Norsk aviskorpus: DB/nob/2008/11/27/20081127-3850222.xml
+Original URL: http://www.dagbladet.no/2008/11/28/magasinet/sportmagasinet/justin_fashanu/fotball/homofili/3850222/
+Source: DB
+Date: 2008-11-27 13:42
+Author: Bernt Jakob Oksnes
+Language: nob
+Title: Med døden i hælene
+
+File 6
+File name in Norsk aviskorpus: DB/nob/2008/12/02/20081202-3901555.xml
+Original URL: http://www.dagbladet.no/2008/12/02/kultur/playstation_2/guitar_hero/playstation_3/wii/3901555/
+Source: DB
+Date: 2008-12-02 13:36
+Author: Snorre Bryne#Stefan Ogden
+Language: nob
+Title: Hvilket trommespill skal du velge?
+
+File 7
+File name in Norsk aviskorpus: DB/nob/2008/12/06/20081206-3954583.xml
+Original URL: http://www.dagbladet.no/2008/12/06/sport/ski/lund_svindal/alpint/3954583/
+Source: DB
+Date: 2008-12-06 19:33
+Author: Jørgen Bohnhorst Hoff#Morten Pedersen
+Language: nob
+Title: Søvnløs Svindal knuste konkurrentene i super-G
+
+Dagbladet 014
+=============
+
+File 1
+File name in Norsk aviskorpus: DB/nob/2008/11/17/20081117-3745306.xml
+Original URL: http://www.dagbladet.no/2008/11/17/kultur/pc-spill/spill/football_manager_2009/3745306/
+Source: DB
+Date: 2008-11-17 10:26
+Author: Pål Stokka
+Language: nob
+Title: Verdens beste jobb
+
+File 2
+File name in Norsk aviskorpus: DB/nob/2008/11/18/20081118-3754590.xml
+Original URL: http://www.dagbladet.no/2008/11/18/nyheter/frukt_og_gront/helse/matvaner/3754590/
+Source: DB
+Date: 2008-11-18 07:37
+Author: NTB
+Language: nob
+Title: Mer frukt, men mindre norsk
+
+File 3
+File name in Norsk aviskorpus: DB/nob/2008/11/18/20081118-3758669.xml
+Original URL: http://www.dagbladet.no/2008/11/18/nyheter/helse/utenriks/3758669/
+Source: DB
+Date: 2008-11-18 17:30
+Author: Sindre Granly Meldalen
+Language: nob
+Title: Dødssyke Hannah får oppfylt sitt siste ønske likevel
+
+File 4
+File name in Norsk aviskorpus: DB/nob/2008/11/18/20081118-3759012.xml
+Original URL: http://www.dagbladet.no/2008/11/18/nyheter/hjerte/helse/3759012/
+Source: DB
+Date: 2008-11-18 17:36
+Author: NTB
+Language: nob
+Title: Frp-ordfører fikk nytt hjerte
+
+File 5
+File name in Norsk aviskorpus: DB/nob/2008/11/28/20081128-3858534.xml
+Original URL: http://www.dagbladet.no/2008/11/29/magasinet/mote/portrettet/signy_fardal/3858534/
+Source: DB
+Date: 2008-11-28 09:39
+Author: John-Arne Ø. Gundersen
+Language: nob
+Title: - Bedre å kjøpe veske til 33 000 enn aksjer
+
+File 6
+File name in Norsk aviskorpus: DB/nob/2008/11/28/20081128-3863665.xml
+Original URL: http://www.dagbladet.no/2008/11/30/magasinet/sondag/baking/3863665/
+Source: DB
+Date: 2008-11-28 14:10
+Author: Tine Faltin
+Language: nob
+Title: - Brød med Omega-3? Aldri i verden!
+
+File 7
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3958753.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/ski/skiskyting/3958753/
+Source: DB
+Date: 2008-12-07 11:35
+Author: Sondre Midthun
+Language: nob
+Title: - Andreplassen føles som en seier
+
+File 8
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3959721.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/ski/kombinert/3959721/
+Source: DB
+Date: 2008-12-07 13:26
+Author: NTB
+Language: nob
+Title: Moan gikk opp 22 plasser
+
+File 9
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3959931.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/skiskyting/ski/tora_berger/3959931/
+Source: DB
+Date: 2008-12-07 13:47
+Author: Sondre Midthun
+Language: nob
+Title: Tora Berger skjøt seg bort
+
+File 10
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3960639.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/ski/hopp/3960639/
+Source: DB
+Date: 2008-12-07 15:34
+Author: NTB
+Language: nob
+Title: Jacobsen på åttende i Granåsen
+
+File 11
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3961487.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/hopp/ski/3961487/
+Source: DB
+Date: 2008-12-07 16:49
+Author: NTB
+Language: nob
+Title: - Evensen kan bli best
+
+File 12
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3962178.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/hopp/holmenkollen/3962178/
+Source: DB
+Date: 2008-12-07 17:41
+Author: NTB
+Language: nob
+Title: Tommy Sharif kjøpte Kollentårnet for 270.000 kroner
+
+File 13
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3963610.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/alpint/lund_svindal/3963610/
+Source: DB
+Date: 2008-12-07 20:51
+Author: Morten Pedersen#John Rasømussen
+Language: nob
+Title: Et tidel unna trippel Aksel
+
+File 14
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3963722.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/ishockey/valerenga/3963722/
+Source: DB
+Date: 2008-12-07 21:09
+Author: NTB
+Language: nob
+Title: Storseier til Vålerenga
+
+File 15
+File name in Norsk aviskorpus: DB/nob/2008/12/07/20081207-3964507.xml
+Original URL: http://www.dagbladet.no/2008/12/07/sport/innebandy/vm/3964507/
+Source: DB
+Date: 2008-12-07 23:50
+Author: NTB
+Language: nob
+Title: Norge raknet mot Sveits
+
+Klassekampen 001
+================
+
+File 1
+File name in Norsk aviskorpus: KK/nob/2011/08/31/20110831-59233.xml
+Original URL: http://www.klassekampen.no/artikler/59233/article/item/null 654 7 33 4312
+Source: KK
+Date: 2011-08-31
+Author: Eirik Grasaas-Stavenes
+Language: nob
+Title: Slik spres islamhat i USA
+
+File 2
+File name in Norsk aviskorpus: KK/nob/2011/08/31/20110831-59234.xml
+Original URL: http://www.klassekampen.no/artikler/59234/article/item/null 826 8 43 5295
+Source: KK
+Date: 2011-08-31
+Author: Ida Søraunet Wangberg
+Language: nob
+Title: Kulturløft i Trondheim
+
+File 3
+File name in Norsk aviskorpus: KK/nob/2011/09/01/20110901-59235.xml
+Original URL: http://www.klassekampen.no/artikler/59235/article/item/null 348 0 0 2128
+Source: KK
+Date: 2011-09-01
+Author: Bjørgulv Braanen
+Language: nob
+Title: Nye Nato
+
+
+Klassekampen 002
+================
+
+File 1
+File name in Norsk aviskorpus: KK/nob/2011/08/31/20110831-59230.xml
+Original URL: http://www.klassekampen.no/artikler/59230/article/item/null 340 7 16 2145
+Source: KK
+Date: 2011-08-31
+Author: Bjørgulv Braanen
+Language: nob
+Title: Lokalt styre
+
+File 2
+File name in Norsk aviskorpus: KK/nob/2011/08/31/20110831-59231.xml
+Original URL: http://www.klassekampen.no/artikler/59231/article/item/null 593 4 18 3640
+Source: KK
+Date: 2011-08-31
+Author: Ida Søraunet Wangberg#Mimir Kristjansson
+Language: nob
+Title: Vurderer historisk løft
+
+File 3
+File name in Norsk aviskorpus: KK/nob/2011/08/31/20110831-59232.xml
+Original URL: http://www.klassekampen.no/artikler/59232/article/item/null 273 8 13 1556
+Source: KK
+Date: 2011-08-31
+Author: 
+Language: nob
+Title: - På tide!
+
+Klassekampen 003
+================
+
+File 1
+File name in Norsk aviskorpus: KK/nob/2011/08/26/20110826-59213.xml
+Original URL: http://www.klassekampen.no/artikler/59213/article/item/null 203 3 4 1134
+Source: KK
+Date: 2011-08-26
+Author: 
+Language: nob
+Title: - Lar oss ikke styre av fagbevegelsen
+
+File 2
+File name in Norsk aviskorpus: KK/nob/2011/08/29/20110829-59223.xml
+Original URL: http://www.klassekampen.no/artikler/59223/article/item/null 1094 2 16 6865
+Source: KK
+Date: 2011-08-29
+Author: Dag Eivind Undheim Larsen
+Language: nob
+Title: Det blodige Roma
+
+File 3
+File name in Norsk aviskorpus: KK/nob/2011/08/30/20110830-59228.xml
+Original URL: http://www.klassekampen.no/artikler/59228/article/item/null 1035 5 37 6771
+Source: KK
+Date: 2011-08-30
+Author: Eirik Grasaas-Stavenes
+Language: nob
+Title: - Forventer innflytelse
+
+Klassekampen 004
+================
+
+File 1
+File name in Norsk aviskorpus: KK/nob/2011/08/26/20110826-59214.xml
+Original URL: http://www.klassekampen.no/artikler/59214/article/item/null 802 2 14 4973
+Source: KK
+Date: 2011-08-26
+Author: Robert Fisk
+Language: nob
+Title: Historien gjentar seg
+
+File 2
+File name in Norsk aviskorpus: KK/nob/2011/08/27/20110827-59216.xml
+Original URL: http://www.klassekampen.no/artikler/59216/article/item/null 356 19 41 2153
+Source: KK
+Date: 2011-08-27
+Author: Bjørgulv Braanen
+Language: nob
+Title: Sp sliter
+
+File 3
+File name in Norsk aviskorpus: KK/nob/2011/08/30/20110830-59229.xml
+Original URL: http://www.klassekampen.no/artikler/59229/article/item/null 989 7 45 6254
+Source: KK
+Date: 2011-08-30
+Author: Olav Østrem
+Language: nob
+Title: Tid for rasismeparagraf?
+
+Klassekampen 005
+================
+
+File 1
+File name in Norsk aviskorpus: KK/nob/2011/08/25/20110825-59210.xml
+Original URL: http://www.klassekampen.no/artikler/59210/article/item/null 351 0 0 2128
+Source: KK
+Date: 2011-08-25
+Author: 
+Language: nob
+Title: - Får seg ekstrajobber som alle andre
+
+File 2
+File name in Norsk aviskorpus: KK/nob/2011/08/27/20110827-59219.xml
+Original URL: http://www.klassekampen.no/artikler/59219/article/item/null 1200 2 15 7154
+Source: KK
+Date: 2011-08-27
+Author: Astrid Hygen Meyer
+Language: nob
+Title: Fører dette til vold?
+
+File 3
+File name in Norsk aviskorpus: KK/nob/2011/08/30/20110830-59226.xml
+Original URL: http://www.klassekampen.no/artikler/59226/article/item/null 366 18 39 2157
+Source: KK
+Date: 2011-08-30
+Author: Bjørgulv Braanen
+Language: nob
+Title: Thriller
+
+Klassekampen 006
+================
+Comment: Some sentences from these texts are not used in the corpus
+
+File 1
+File name in Norsk aviskorpus: KK/nob/2011/08/26/20110826-59212.xml
+Original URL: http://www.klassekampen.no/artikler/59212/article/item/null 458 1 4 2692
+Source: KK
+Date: 2011-08-26
+Author: Ida Søraunet Wangberg#Mimir Kristjansson
+Language: nob
+Title: Vil dele makta med KrF
+
+File 2
+File name in Norsk aviskorpus: KK/nob/2011/08/27/20110827-59217.xml
+Original URL: http://www.klassekampen.no/artikler/59217/article/item/null 838 0 4 5084
+Source: KK
+Date: 2011-08-27
+Author: Ida Søraunet Wangberg#Mimir Kristjansson
+Language: nob
+Title: Rødgrønn krangel i Trondheim
+
+File 3
+File name in Norsk aviskorpus: KK/nob/2011/08/30/20110830-59227.xml
+Original URL: http://www.klassekampen.no/artikler/59227/article/item/null 706 6 30 4330
+Source: KK
+Date: 2011-08-30
+Author: Åse Brandvold
+Language: nob
+Title: Flere går til ytre høyre
+
+Klassekampen 007
+================
+
+File 1
+File name in Norsk aviskorpus: KK/nob/2011/08/26/20110826-59215.xml
+Original URL: http://www.klassekampen.no/artikler/59215/article/item/null 1008 6 39 5934
+Source: KK
+Date: 2011-08-26
+Author: Astrid Hygen Meyer
+Language: nob
+Title: Hitlers kamp i Min kamp
+
+File 2
+File name in Norsk aviskorpus: KK/nob/2011/08/27/20110827-59218.xml
+Original URL: http://www.klassekampen.no/artikler/59218/article/item/null 494 5 19 3357
+Source: KK
+Date: 2011-08-27
+Author: Eirik Grasaas-Stavenes
+Language: nob
+Title: Kliner til for endring
+
+File 3
+File name in Norsk aviskorpus: KK/nob/2011/08/29/20110829-59221.xml
+Original URL: http://www.klassekampen.no/artikler/59221/article/item/null 514 2 8 3158
+Source: KK
+Date: 2011-08-29
+Author: Mímir Kristjánsson
+Language: nob
+Title: Frykter for eldreløftet
+
+Klassekampen 008
+================
+
+File 1
+File name in Norsk aviskorpus: KK/nob/2011/07/23/20110723-59093.xml
+Original URL: http://www.klassekampen.no/artikler/59093/article/item/null 342 15 31 2028
+Source: KK
+Date: 2011-07-23
+Author: Katrine Ree Holmøy
+Language: nob
+Title: Ingen grenser
+
+File 2
+File name in Norsk aviskorpus: KK/nob/2011/08/20/20110820-59189.xml
+Original URL: http://www.klassekampen.no/artikler/59189/article/item/null 335 10 23 2103
+Source: KK
+Date: 2011-08-20
+Author: Bjørgulv Braanen
+Language: nob
+Title: Lav deltakelse
+
+File 3
+File name in Norsk aviskorpus: KK/nob/2011/08/29/20110829-59222.xml
+Original URL: http://www.klassekampen.no/artikler/59222/article/item/null 575 1 4 3586
+Source: KK
+Date: 2011-08-29
+Author: Eirik Grasaas-Stavenes
+Language: nob
+Title: - Krigsviljen størst
+
+Sunnmørsposten-bm 001
+=====================
+File 1
+File name in Norsk aviskorpus: SP/nob/1997/09/06/19970906-709060302.xml
+Original URL: http://www.smp.no/article/19970906/AALESUND/709060302 751 7 34 4509
+Source: SP
+Date: 1997-09-06 03:45
+Author: 
+Language: nob
+Title: 21 års fengsel for dobbeltdrapet
+
+File 2
+File name in Norsk aviskorpus: SP/nob/1997/09/06/19970906-709060303.xml
+Original URL: http://www.smp.no/article/19970906/NYHETER/709060303 483 1 4 2823
+Source: SP
+Date: 1997-09-06 03:45
+Author: 
+Language: nob
+Title: Kollektiv Hødd-svikt
+
+File 3
+File name in Norsk aviskorpus: SP/nob/1997/09/06/19970906-709060304.xml
+Original URL: http://www.smp.no/article/19970906/NYHETER/709060304 218 0 1 1261
+Source: SP
+Date: 1997-09-06 03:45
+Author: 
+Language: nob
+Title: Superhelg for Vika
+
+File 4
+File name in Norsk aviskorpus: SP/nob/1997/09/06/19970906-709060306.xml
+Original URL: http://www.smp.no/article/19970906/AALESUND/709060306 266 2 4 1558
+Source: SP
+Date: 1997-09-06 03:45
+Author: Kristin Knudsen
+Language: nob
+Title: Bestemor på flukt med barnebarnet
+
+File 5
+File name in Norsk aviskorpus: SP/nob/1997/09/06/19970906-709060307.xml
+Original URL: http://www.smp.no/article/19970906/NYHETER/709060307 179 4 5 1101 %%
+Source: SP
+Date: 1997-09-06 03:45
+Author: Håkon Tvervaag
+Language: nob
+Title: Spennende lokaloppgjør
+
+File 6
+File name in Norsk aviskorpus: SP/nob/2000/07/17/20000717-7170303.xml
+Original URL: http://www.smp.no/article/20000717/SPORT/7170303 1170 2 16 6292
+Source: SP
+Date: 2000-07-17 03:45
+Author: Helge Skuseth
+Language: nob
+Title: Gir seg som AaFK-trener
+
+File 7
+File name in Norsk aviskorpus: SP/nob/2000/07/17/20000717-7170305.xml
+Original URL: http://www.smp.no/article/20000717/NYHETER/7170305 162 2 2 949 %%
+Source: SP
+Date: 2000-07-17 03:45
+Author: 
+Language: nob
+Title: Vurderer å boikotte skolestart
+
+File 8
+File name in Norsk aviskorpus: SP/nob/2000/07/17/20000717-7170307.xml
+Original URL: http://www.smp.no/article/20000717/NYHETER/7170307 262 0 0 1570
+Source: SP
+Date: 2000-07-17 03:45
+Author: Frode Kleiveland
+Language: nob
+Title: E-stoffene skal bort fra bakverkene
+
+File 9
+File name in Norsk aviskorpus: SP/nob/2000/07/17/20000717-7170314.xml
+Original URL: http://www.smp.no/article/20000717/NYHETER/7170314 394 4 11 2627
+Source: SP
+Date: 2000-07-17 03:45
+Author: Kjell Ødegård
+Language: nob
+Title: Anita Nyhagen fekk "årets gapskratt"
+
+File 10
+File name in Norsk aviskorpus: SP/nob/2000/07/17/20000717-7170316.xml
+Original URL: http://www.smp.no/article/20000717/NYHETER/7170316 532 5 17 2960
+Source: SP
+Date: 2000-07-17 03:45
+Author: Dag Idar Tryggestad#Torbjørn Vidhammer
+Language: nob
+Title: Milliardæren - og resten av rikfolket
+
+File 11
+File name in Norsk aviskorpus: SP/nob/2000/07/17/20000717-7170318.xml
+Original URL: http://www.smp.no/article/20000717/SPORT/7170318 657 0 3 3857
+Source: SP
+Date: 2000-07-17 03:45
+Author: Kjell Ødegård
+Language: nob
+Title: Åpenhjertig og ydmyk Hulsker
+
+File 12
+File name in Norsk aviskorpus: SP/nob/2000/07/17/20000717-7170320.xml
+Original URL: http://www.smp.no/article/20000717/SPORT/7170320 739 5 25 4391
+Source: SP
+Date: 2000-07-17 03:45
+Author: Pål Are Lilleheim
+Language: nob
+Title: Innbytterne avgjorde for AaFK
+
+File 13
+File name in Norsk aviskorpus: SP/nob/2000/07/17/20000717-7170325.xml
+Original URL: http://www.smp.no/article/20000717/KULTUR/7170325 650 6 26 3765
+Source: SP
+Date: 2000-07-17 03:45
+Author: Terje Engås
+Language: nob
+Title: Jazz og heite hjerter
+
+File 14
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-404913.xml
+Original URL: http://www.smp.no/nyheter/alesundogomland/article404913.ece 309 3 8 2099
+Source: SP
+Date: 2011-12-09 06:00
+Author: Mona Skjong
+Language: nob
+Title: Slutt for Nevrohjemmet til sommeren
+
+File 15
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-404947.xml
+Original URL: http://www.smp.no/ntb/innenriks/article404947.ece 238 5 8 1367
+Source: SP
+Date: 2011-12-09 16:16
+Author: NTB
+Language: nob
+Title: Vitner så mann forlate utested etter skyting
+
+File 16
+File name in Norsk aviskorpus: SP/nob/2011/12/08/20111208-404885.xml
+Original URL: http://www.smp.no/vaeret/article404885.ece 357 1 4 2185
+Source: SP
+Date: 2011-12-08 20:58
+Author: Marius Rosbach
+Language: nob
+Title: Nordvest slipper unna stormen
+
+File 17
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-404993.xml
+Original URL: http://www.smp.no/nyheter/article404993.ece 202 3 4 1279
+Source: SP
+Date: 2011-12-09 09:34
+Author: Stig Vågnes
+Language: nob
+Title: Promille og feilnavigasjon
+
+File 18
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-404997.xml
+Original URL: http://www.smp.no/naeringsliv/article404997.ece 245 0 1 1753
+Source: SP
+Date: 2011-12-09 09:56
+Author: Sindre Rise
+Language: nob
+Title: Åpnet Farstad-simulator
+
+File 19
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405000.xml
+Original URL: http://www.smp.no/ntb/innenriks/article405000.ece 201 18 22 1181
+Source: SP
+Date: 2011-12-09 18:51
+Author: NTB
+Language: nob
+Title: Oppgang, men fortsatt usikkerhet på Oslo Børs
+
+File 20
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405014.xml
+Original URL: http://www.smp.no/nyheter/article405014.ece 154 5 5 993 %%
+Source: SP
+Date: 2011-12-09 11:15
+Author: Stig Vågnes
+Language: nob
+Title: Skulket klimamøte - dro på safari
+
+File 21
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405056.xml
+Original URL: http://www.smp.no/naeringsliv/article405056.ece 384 0 0 2426
+Source: SP
+Date: 2011-12-09 12:45
+Author: Geir H. Strand
+Language: nob
+Title: Maskinistforbundet frykter Fredriksen
+
+File 22
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405078.xml
+Original URL: http://www.smp.no/nyheter/article405078.ece 174 1 2 1056 %%
+Source: SP
+Date: 2011-12-09 13:45
+Author: Stig Vågnes
+Language: nob
+Title: - Ikke overstadig beruset
+
+File 23
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405097.xml
+Original URL: http://www.smp.no/nyheter/article405097.ece 306 7 16 2026
+Source: SP
+Date: 2011-12-09 14:27
+Author: Stig Vågnes
+Language: nob
+Title: Sunnmøring pågrepet i overgrepssak
+
+File 24
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405124.xml
+Original URL: http://www.smp.no/ntb/innenriks/article405124.ece 249 3 6 1605
+Source: SP
+Date: 2011-12-09 17:40
+Author: NTB
+Language: nob
+Title: Kongsberg: Pågrepet gisseltaker til legeundersøkelse
+
+File 25
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405129.xml
+Original URL: http://www.smp.no/ntb/innenriks/article405129.ece 194 5 7 1251 %%
+Source: SP
+Date: 2011-12-09 16:20
+Author: NTB
+Language: nob
+Title: Stålhandler fikk seks års fengsel i Drammen tingrett
+
+File 26
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405135.xml
+Original URL: http://www.smp.no/ntb/sport/article405135.ece 201 1 2 1088
+Source: SP
+Date: 2011-12-09 16:39
+Author: NTB
+Language: nob
+Title: Motorhavari stoppet Marit Strømøy
+
+File 27
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405144.xml
+Original URL: http://www.smp.no/nyheter/article405144.ece 476 10 28 2748
+Source: SP
+Date: 2011-12-09 17:09
+Author: Geir H. Strand
+Language: nob
+Title: Ingen løve på Grimstad
+
+File 28
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405160.xml
+Original URL: http://www.smp.no/sport/handball/article405160.ece 292 12 22 1744
+Source: SP
+Date: 2011-12-09 17:36
+Author: NTB
+Language: nob
+Title: Sulland sikter mot jackpot
+
+File 29
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405184.xml
+Original URL: http://www.smp.no/ntb/sport/article405184.ece 160 39 38 960 %%
+Source: SP
+Date: 2011-12-09 18:54
+Author: NTB
+Language: nob
+Title: Bardal på tredjeplass i Harrachov
+
+File 30
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405188.xml
+Original URL: http://www.smp.no/ntb/utenriks/article405188.ece 185 4 5 1118 %%
+Source: SP
+Date: 2011-12-09 18:10
+Author: NTB
+Language: nob
+Title: Matmangel truer én million barn i Sahel
+
+File 31
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405194.xml
+Original URL: http://www.smp.no/ntb/utenriks/article405194.ece 173 1 2 1149 %%
+Source: SP
+Date: 2011-12-09 18:40
+Author: NTB
+Language: nob
+Title: Dragkamp om klimaavtale
+
+File 32
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405196.xml
+Original URL: http://www.smp.no/ntb/utenriks/article405196.ece 224 6 9 1444
+Source: SP
+Date: 2011-12-09 18:42
+Author: NTB
+Language: nob
+Title: Eva Joly slår tilbake mot aksent-kritikk
+
+File 33
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405200.xml
+Original URL: http://www.smp.no/ntb/utenriks/article405200.ece 158 10 11 1015 %%
+Source: SP
+Date: 2011-12-09 18:48
+Author: NTB
+Language: nob
+Title: Politiet leter etter motiv for skyting på Virginia Tech
+
+File 34
+File name in Norsk aviskorpus: SP/nob/2011/12/09/20111209-405203.xml
+Original URL: http://www.smp.no/sport/article405203.ece 276 28 48 1669
+Source: SP
+Date: 2011-12-09 19:06
+Author: NTB
+Language: nob
+Title: Tok EM-gull med suveren nordisk rekord
+
+Sunnmørsposten-bm 002
+=====================
+
+File 1
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220301.xml
+Original URL: http://www.smp.no/article/20050822/NYHETER/508220301 277 2 4 1641
+Source: SP
+Date: 2005-08-22 03:45
+Author: Terje Engås
+Language: nob
+Title: Tiltalt for voldtekt om bord i cruiseskip
+
+File 2
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220303.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220303 287 0 0 1945
+Source: SP
+Date: 2005-08-22 03:45
+Author: 
+Language: nob
+Title: Aktiv verdiskapningspolitikk for distriktene
+
+File 3
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220304.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220304 710 6 24 3825
+Source: SP
+Date: 2005-08-22 03:45
+Author: 
+Language: nob
+Title: La Tafjordbygda leve
+
+File 4
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220308.xml
+Original URL: http://www.smp.no/article/20050822/NYHETER/508220308 726 5 23 4484
+Source: SP
+Date: 2005-08-22 03:45
+Author: Bent Botten#Geir H. Strand
+Language: nob
+Title: Gasskraft splitter velgerne
+
+File 5
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220309.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220309 551 0 0 3290
+Source: SP
+Date: 2005-08-22 03:45
+Author: 
+Language: nob
+Title: Hvor langt strekker SVs toleranse seg?
+
+File 6
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220311.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220311 192 0 0 1128 %%
+Source: SP
+Date: 2005-08-22 03:45
+Author: 
+Language: nob
+Title: Karita har ikke støtte av Jens i gass-saken
+
+File 7
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220313.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220313 351 4 11 2226
+Source: SP
+Date: 2005-08-22 03:45
+Author: 
+Language: nob
+Title: Kunnskapsløft eller grønnsaker?
+
+Sunnmørsposten-bm 003
+=====================
+
+File 1
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220314.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220314 630 1 7 3851
+Source: SP
+Date: 2005-08-22 03:45
+Author: 
+Language: nob
+Title: Konkurranse i lufta
+
+File 2
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220315.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220315 748 8 40 4717
+Source: SP
+Date: 2005-08-22 03:45
+Author: 
+Language: nob
+Title: Skog gir arbeidsplasser - og fornybar energi!
+
+File 3
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220316.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220316 297 1 2 1756
+Source: SP
+Date: 2005-08-22 03:45
+Author: 
+Language: nob
+Title: Høyre ønsker verdighet i abortdebatten
+
+File 4
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220317.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220317 785 7 34 4827
+Source: SP
+Date: 2005-08-22 03:45
+Author: Jørgen Ervik
+Language: nob
+Title: Ja til en stabil fiskeripolitikk
+
+File 5
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220318.xml
+Original URL: http://www.smp.no/article/20050822/MENINGER/508220318 241 2 4 1370
+Source: SP
+Date: 2005-08-22 03:45
+Author: 
+Language: nob
+Title: Barna, barna, barna!
+
+File 6
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220320.xml
+Original URL: http://www.smp.no/article/20050822/NYHETER/508220320 145 4 4 913 %%
+Source: SP
+Date: 2005-08-22 03:45
+Author: NTB
+Language: nob
+Title: Lasteskip sank etter kollisjon med fiskebåt
+
+File 7
+File name in Norsk aviskorpus: SP/nob/2005/08/22/20050822-508220321.xml
+Original URL: http://www.smp.no/article/20050822/NYHETER/508220321 210 0 0 1357
+Source: SP
+Date: 2005-08-22 03:45
+Author: NTB
+Language: nob
+Title: Frykter halvferdig sykehus i Trondheim
+
+Verdens Gang 001
+================
+Comment: The texts for Verdens Gang 002, came in one single file with texts published 20131003. The file does not contain names of authors.
+File name in Norsk aviskorpus: 20111003.html4
+Texts from this file, used in the corpus:
+
+Text 1
+Original URL: http://www.vg.no/nyheter/utenriks/artikkel.php?artid=10039700
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Tusenvis av kandidater å velge mellom i Tunisia
+
+Text 2
+Original URL: http://www.vg.no/musikk/artikkel.php?artid=10039720
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Sextape med avdød raplegende lekket på nett
+
+Text 3
+Original URL: http://www.vg.no/nyheter/innenriks/artikkel.php?artid=10039630
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Hellas' regjering lar 30.000 statsansatte gå
+
+Text 4
+Original URL: http://www.vg.no/sport/fotball/norsk/artikkel.php?artid=10039640
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Slik snudde Odd trenden
+
+Text 5
+Original URL: http://www.vg.no/sport/golf/artikkel.php?artid=10039650
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Første PGA-triumf for Na
+
+Text 6
+Original URL: http://www.vg.no/rampelys/prinsebryllupet/artikkel.php?artid=10039660
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Derfor droppet Kate forlovelsesringen
+
+Text 7
+Original URL: http://www.vg.no/spill/artikkel.php?artid=10039670
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Gåteløsingsperle får gratis utvidelse
+
+Text 8
+Original URL: http://www.vg.no/nyheter/utenriks/artikkel.php?artid=10039690
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Forbannet statsminister etter moskéangrep i Israel
+
+Text 9
+Original URL: http://www.vg.no/nyheter/innenriks/artikkel.php?artid=10039711
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Dødsforliset i Haram: - Hadde ikke informasjon om personskade
+
+Text 10
+Original URL: http://www.vg.no/nyheter/utenriks/artikkel.php?artid=10039621
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Funksjonshemmede Marie Dedieu (66) kidnappet foran øynene på kjæresten
+
+Text 11
+Original URL: http://www.vg.no/sport/ishockey/artikkel.php?artid=10039631
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Zuccarello-mål i Slovakia
+
+Text 12
+Original URL: http://www.vg.no/sport/fotball/norsk/artikkel.php?artid=10039641
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: NFF ber Klanen fjerne talsmann etter Torp-uttalelser
+
+Text 13
+Original URL: http://www.vg.no/nyheter/innenriks/artikkel.php?artid=10039551
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Derfor hevder forsvaret han er uskyldig: - Han har alibi
+
+Text 14
+Original URL: http://www.vg.no/nyheter/innenriks/oslobomben/artikkel.php?artid=10039651
+Source: VG
+Date: 2011-10-03
+Language: nob
+Title: Ber pressen trå varsomt
+
+Verdens Gang 002
+================
+
+File 1
+File name in Norsk aviskorpus: VG-20120108-10074803.xml
+Original URL: http://www.vg.no/nyheter/utenriks/artikkel.php?artid=10074803
+Source: VG
+Date: 2012-01-08 14:36
+Author: 
+Language: nob
+Title: Nord-Koreas nye leder hylles som militært geni
+
+File 2
+File name in Norsk aviskorpus: VG-20120109-10042993.xml
+Original URL: http://www.vg.no/nyheter/innenriks/22-juli/artikkel.php?artid=10042993
+Source: VG
+Date: 2012-01-09 00:00
+Author: Erlend Skevik, Eva-Therese Grøttum
+Language: nob
+Title: Hele verden sørget med Norge
+
+File 3
+File name in Norsk aviskorpus: VG-20051209-110754.xml
+Original URL: http://www.vg.no/nyheter/innenriks/artikkel.php?artid=110754
+Source: VG
+Date: 2005-12-09 18:00
+Author: Tora Bakke Håndlykken
+Language: nob
+Title: Best i vest
+
+File 4
+File name in Norsk aviskorpus: VG-20120206-10077898.xml
+Original URL: http://www.vg.no/nyheter/innenriks/oslobomben/artikkel.php?artid=10077898
+Source: VG
+Date: 2012-02-06 15:38
+Author: Marianne Vikås, Mads A. Andersen, Gordon Andersen, Morten Hopperstad, Jarle Brenna, Dennis Ravndal
+Language: nob
+Title: Breivik om å bli ledd av: - Det var som ventet
+
+File 5
+File name in Norsk aviskorpus: VG-20120401-10072833.xml
+Original URL: http://www.vg.no/nyheter/meninger/artikkel.php?artid=10072833
+Source: VG
+Date: 2012-04-01 15:59
+Author: 
+Language: nob
+Title: Kommentar: Vekkelsene som hjemsøker Norge
+
+File 6
+File name in Norsk aviskorpus: VG-20120409-10057015.xml
+Original URL: http://www.vg.no/nyheter/innenriks/artikkel.php?artid=10057015
+Source: VG
+Date: 2012-04-09 15:48
+Author: Ole N. Olsen
+Language: nob
+Title: Krekars datter mener Venstre-Raja godtar angrep på islam
+
+File 7
+File name in Norsk aviskorpus: VG-20121104-10054657.xml
+Original URL: http://www.vg.no/reise/artikkel.php?artid=10054657
+Source: VG
+Date: 2012-11-04 21:21
+Author: 
+Language: nob
+Title: Her får du verdens beste skalldyr
+
+File 8
+File name in Norsk aviskorpus: VG-20121202-10056280.xml
+Original URL: http://www.vg.no/nyheter/utenriks/artikkel.php?artid=10056280
+Source: VG
+Date: 2012-12-02 23:21
+Author: 
+Language: nob
+Title: Brev fra Napoleon gikk for millionsum på auksjon
+
+File 9
+File name in Norsk aviskorpus: VG-20121211-10071599.xml
+Original URL: http://www.vg.no/nyheter/utenriks/artikkel.php?artid=10071599
+Source: VG
+Date: 2012-12-11 23:59
+Author: 
+Language: nob
+Title: Fordømmer pågripelsen av Malis statsminister
+
+File 10
+File name in Norsk aviskorpus: VG-20121219-10048819.xml
+Original URL: http://www.vg.no/nyheter/innenriks/artikkel.php?artid=10048819
+Source: VG
+Date: 2012-12-19 18:41
+Author: Eirik Linaker Berglund
+Language: nob
+Title: Bygger forskningsstasjon på verdens mest øde øy
+

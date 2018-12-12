@@ -1,0 +1,3873 @@
+Dag og Tid 001
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/11/25/20111125-2162.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2162
+Source: DT
+Date: 2011-11-25
+Author: Per Anders Todal
+Language: nno
+Title: Veks forbi Danmark
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/11/25/20111125-2163.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2163
+Source: DT
+Date: 2011-11-25
+Author: Bernt Hagtvet
+Language: nno
+Title: Tyrannmordet og retten til å gjera motstand
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/11/25/20111125-2164.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2164
+Source: DT
+Date: 2011-11-25
+Author: Margunn Vikingstad
+Language: nno
+Title: Infam Ullmann
+
+
+Dag og Tid 002
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/09/02/20110902-2097.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2097
+Source: DT
+Date: 2011-09-02
+Author: Morten Strøksnes
+Language: nno
+Title: Borderland
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/09/09/20110909-2106.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2106
+Source: DT
+Date: 2011-09-09
+Author: Svein Gjerdåker
+Language: nno
+Title: USAs store mistak etter 11. september
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/09/30/20110930-2119.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2119
+Source: DT
+Date: 2011-09-30
+Author: Svein Gjerdåker
+Language: nno
+Title:  - Naivt eurosamarbeid
+
+Dag og Tid 003
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/11/25/20111125-2165.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2165
+Source: DT
+Date: 2011-11-25
+Author: Svein Gjerdåker
+Language: nno
+Title: Politiet må arbeida lenger
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/12/02/20111202-2168.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2168
+Source: DT
+Date: 2011-12-02
+Author: Per Anders Todal
+Language: nno
+Title: Ein ideologisk psykose?
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/12/02/20111202-2169.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2169
+Source: DT
+Date: 2011-12-02
+Author: Jon Hustad
+Language: nno
+Title: Del 1: Den germanske maskina
+
+Dag og Tid 004
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/09/16/20110916-2111.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2111
+Source: DT
+Date: 2011-09-16
+Author: Arild Pedersen
+Language: nno
+Title: Den eksentriske onkelen
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/09/23/20110923-2115.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2115
+Source: DT
+Date: 2011-09-23
+Author: Erika Fatland
+Language: nno
+Title: Superbiografen
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/09/30/20110930-2121.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2121
+Source: DT
+Date: 2011-09-30
+Author: Eskil Skjeldal
+Language: nno
+Title: Svikne av tida
+
+Dag og Tid 005
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/09/23/20110923-2116.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2116
+Source: DT
+Date: 2011-09-23
+Author: Svein Gjerdåker
+Language: nno
+Title: Gjeldsunionen
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/09/30/20110930-2118.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2118
+Source: DT
+Date: 2011-09-30
+Author: Svein Gjerdåker
+Language: nno
+Title: Godt innspel frå barnevernpanelet
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/09/30/20110930-2120.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2120
+Source: DT
+Date: 2011-09-30
+Author: Atle Grønn
+Language: nno
+Title: Skandalen i Dagbladet
+
+Dag og Tid 006
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/10/14/20111014-2133.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2133
+Source: DT
+Date: 2011-10-14
+Author: Svein Gjerdåker
+Language: nno
+Title: Stortinget må ta ansvar
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/10/21/20111021-2138.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2138
+Source: DT
+Date: 2011-10-21
+Author: Bernt Hagtvet
+Language: nno
+Title: Den rette fienden
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/10/28/20111028-2144.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2144
+Source: DT
+Date: 2011-10-28
+Author: Svein Gjerdåker
+Language: nno
+Title: Rettferdig krig?
+
+Dag og Tid 007
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/09/16/20110916-2108.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2108
+Source: DT
+Date: 2011-09-16
+Author: Svein Gjerdåker
+Language: nno
+Title: Det nye Høgre
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/09/23/20110923-2114.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2114
+Source: DT
+Date: 2011-09-23
+Author: Jon Hustad
+Language: nno
+Title: Når mafiaen dreg heimanfrå
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/10/07/20111007-2124.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2124
+Source: DT
+Date: 2011-10-07
+Author: Ottar Fyllingsnes
+Language: nno
+Title: Frontsystrene
+
+Dag og Tid 008
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/09/02/20110902-2098.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2098
+Source: DT
+Date: 2011-09-02
+Author: Sigrun Slapgard
+Language: nno
+Title: Miljøverstingar får bygge som aldri før
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/10/21/20111021-2135.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2135
+Source: DT
+Date: 2011-10-21
+Author: Arild Pedersen
+Language: nno
+Title: Ei bygdebok
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/11/04/20111104-2147.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2147
+Source: DT
+Date: 2011-11-04
+Author: Ottar Fyllingsnes
+Language: nno
+Title: Vikingar i tjukkaste Afrika
+
+Dag og Tid 009
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/09/23/20110923-2112.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2112
+Source: DT
+Date: 2011-09-23
+Author: Jon Hustad
+Language: nno
+Title: Arbeid meir og betre!
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/10/14/20111014-2132.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2132
+Source: DT
+Date: 2011-10-14
+Author: Ole Karlsen
+Language: nno
+Title: Burlesk folkelivsskildring
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/11/04/20111104-2149.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2149
+Source: DT
+Date: 2011-11-04
+Author: Svein Gjerdåker
+Language: nno
+Title: Tiltak mot valdtekter
+
+Dag og Tid 010
+==============
+Comment: Some sentences from these texts are not used in the corpus
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/10/21/20111021-2134.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2134
+Source: DT
+Date: 2011-10-21
+Author: Bjørn Kvalsvik Nicolaysen
+Language: nno
+Title: Råare og tydelegare bibelspråk
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/10/28/20111028-2140.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2140
+Source: DT
+Date: 2011-10-28
+Author: Jon Hustad
+Language: nno
+Title: Lett å få ned sjukefråværet
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/11/11/20111111-2150.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2150
+Source: DT
+Date: 2011-11-11
+Author: Jon Hustad
+Language: nno
+Title: Oljetriumfen til USA
+
+Dag og Tid 011
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2011/09/02/20110902-2099.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2099
+Source: DT
+Date: 2011-09-02
+Author: Jon Hustad
+Language: nno
+Title:  - Jødar og muslimar må endra praksis
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2011/10/07/20111007-2122.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2122
+Source: DT
+Date: 2011-10-07
+Author: Kaj Skagen
+Language: nno
+Title: Angsten for å verta minoritet
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2011/11/18/20111118-2156.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2156
+Source: DT
+Date: 2011-11-18
+Author: Per Anders Todal
+Language: nno
+Title: Vil stå ved lovnadene
+
+Dag og Tid 012
+==============
+Comment: Some sentences from these texts are not used in the corpus
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2005/11/26/20051126-522.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=522
+Source: DT
+Date: 2005-11-26
+Author: Per Anders Todal
+Language: nno
+Title: Noreg skor seg, u-landa får svi
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2005/11/26/20051126-523.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=523
+Source: DT
+Date: 2005-11-26
+Author: Per Anders Todal
+Language: nno
+Title: Madam Tussaud's slukt av oljen
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2005/11/26/20051126-524.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=524
+Source: DT
+Date: 2005-11-26
+Author: Svein Gjerdåker
+Language: nno
+Title: Undergrev kulturpolitikken
+
+File 4
+File name in Norsk aviskorpus: DT/nno/2005/11/26/20051126-525.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=525
+Source: DT
+Date: 2005-11-26
+Author: Paula På Posta
+Language: nno
+Title: Kjærleik no att
+
+File 5
+File name in Norsk aviskorpus: DT/nno/2005/11/26/20051126-526.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=526
+Source: DT
+Date: 2005-11-26
+Author: Oddmund Hagen
+Language: nno
+Title: Rett og slett genial
+
+File 6
+File name in Norsk aviskorpus: DT/nno/2005/11/26/20051126-527.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=527
+Source: DT
+Date: 2005-11-26
+Author: Arvid Bryne
+Language: nno
+Title: Vakkert om mest ingen ting
+
+File 7
+File name in Norsk aviskorpus: DT/nno/2005/11/26/20051126-528.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=528
+Source: DT
+Date: 2005-11-26
+Author: Roald Helgheim
+Language: nno
+Title: «Fe dar som vaen»
+
+File 8
+File name in Norsk aviskorpus: DT/nno/2005/11/26/20051126-529.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=529
+Source: DT
+Date: 2005-11-26
+Author: Ottar Fyllingsnes
+Language: nno
+Title: Bygde-Noreg i vranglås
+
+File 9
+File name in Norsk aviskorpus: DT/nno/2005/11/26/20051126-530.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=530
+Source: DT
+Date: 2005-11-26
+Author: Einar Kringlen
+Language: nno
+Title: Motediagnosar
+
+File 10
+File name in Norsk aviskorpus: DT/nno/2011/09/09/20110909-2104.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2104
+Source: DT
+Date: 2011-09-09
+Author: Pål H. Bakka
+Language: nno
+Title: Det europeiske fabeldyret
+
+File 11
+File name in Norsk aviskorpus: DT/nno/2011/11/04/20111104-2146.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2146
+Source: DT
+Date: 2011-11-04
+Author: Bernt Hagtvet
+Language: nno
+Title: Olavs standpunkt er ikkje overraskande
+
+File 12
+File name in Norsk aviskorpus: DT/nno/2011/11/18/20111118-2155.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2155
+Source: DT
+Date: 2011-11-18
+Author: Per Anders Todal
+Language: nno
+Title: Toppmøte under ein hardare himmel
+
+Dag og Tid 013
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2005/11/12/20051112-505.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=505
+Source: DT
+Date: 2005-11-12
+Author: Per Anders Todal
+Language: nno
+Title: Noko er ròte i Aserbajdsjan
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2005/11/12/20051112-506.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=506
+Source: DT
+Date: 2005-11-12
+Author: Per Anders Todal
+Language: nno
+Title: På utsida av samfunnet
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2005/11/12/20051112-507.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=507
+Source: DT
+Date: 2005-11-12
+Author: Svein Gjerdåker
+Language: nno
+Title: Ver nøktern, ikkje skryt
+
+File 4
+File name in Norsk aviskorpus: DT/nno/2005/11/12/20051112-509.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=509
+Source: DT
+Date: 2005-11-12
+Author: Bjørn K. Nicolaysen
+Language: nno
+Title: Frankrike brenn
+
+File 5
+File name in Norsk aviskorpus: DT/nno/2005/11/12/20051112-510.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=510
+Source: DT
+Date: 2005-11-12
+Author: Magne Drangeid
+Language: nno
+Title: Drengen, hora og syndfloda
+
+File 6
+File name in Norsk aviskorpus: DT/nno/2005/11/12/20051112-511.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=511
+Source: DT
+Date: 2005-11-12
+Author: Merete Røsvik Granlund
+Language: nno
+Title: Ei open bok
+
+File 7
+File name in Norsk aviskorpus: DT/nno/2005/11/12/20051112-512.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=512
+Source: DT
+Date: 2005-11-12
+Author: Roald Helgheim
+Language: nno
+Title: Raud politihelt blir blå
+
+File 8
+File name in Norsk aviskorpus: DT/nno/2005/11/12/20051112-513.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=513
+Source: DT
+Date: 2005-11-12
+Author: Svein Gjerdåker
+Language: nno
+Title: Ein hjørnestein under den vestlege kulturen
+
+File 9
+File name in Norsk aviskorpus: DT/nno/2011/09/02/20110902-2100.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2100
+Source: DT
+Date: 2011-09-02
+Author: Svein Gjerdåker
+Language: nno
+Title: Det krevst meir enn velviljuge ord
+
+File 10
+File name in Norsk aviskorpus: DT/nno/2011/09/02/20110902-2101.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2101
+Source: DT
+Date: 2011-09-02
+Author: Bent Kvalvik
+Language: nno
+Title: Rebusløp i eit legendarisk liv
+
+File 11
+File name in Norsk aviskorpus: DT/nno/2011/09/02/20110902-2128.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2128
+Source: DT
+Date: 2011-09-02
+Author: Nils Rune Langeland
+Language: nno
+Title: Taparen frå Oslo vest
+
+File 12
+File name in Norsk aviskorpus: DT/nno/2011/11/11/20111111-2152.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2152
+Source: DT
+Date: 2011-11-11
+Author: Svein Gjerdåker
+Language: nno
+Title: Nei til eit nytt OL
+
+File 13
+File name in Norsk aviskorpus: DT/nno/2011/11/11/20111111-2153.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2153
+Source: DT
+Date: 2011-11-11
+Author: Walid Al-Kubaisi
+Language: nno
+Title: «Muhammed og Kristus, saman på vegen»
+
+File 14
+File name in Norsk aviskorpus: DT/nno/2011/11/11/20111111-2154.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2154
+Source: DT
+Date: 2011-11-11
+Author: Arild Pedersen
+Language: nno
+Title: Den myteomspunne polhelten
+
+Dag og Tid 014
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-1348.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1348
+Source: DT
+Date: 2006-09-01
+Author: Klaus Johan Myrvoll
+Language: nno
+Title: Meir slurv frå språkekspertane
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-839.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=839
+Source: DT
+Date: 2006-09-01
+Author: Per Anders Todal
+Language: nno
+Title: Tener grovt på statens milde gåver
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-840.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=840
+Source: DT
+Date: 2006-09-01
+Author: Per Anders Todal
+Language: nno
+Title: Norske Skog fekk med seg Union-krafta
+
+File 4
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-841.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=841
+Source: DT
+Date: 2006-09-01
+Author: Per Anders Todal
+Language: nno
+Title: Vil varsle om barbariet
+
+File 5
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-843.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=843
+Source: DT
+Date: 2006-09-01
+Author: Trygve Refsdal
+Language: nno
+Title: Noreg - verdsmeister i oljepolitikk
+
+File 6
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-844.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=844
+Source: DT
+Date: 2006-09-01
+Author: Svein Gjerdåker
+Language: nno
+Title: Skulebøker kjem altfor seint
+
+File 7
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-845.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=845
+Source: DT
+Date: 2006-09-01
+Author: Svein Gjerdåker
+Language: nno
+Title:  - Talemåtar har erstatta politikken
+
+File 8
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-846.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=846
+Source: DT
+Date: 2006-09-01
+Author: Svein Gjerdåker
+Language: nno
+Title: Kvifor subsidiera danskebåten?
+
+File 9
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-847.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=847
+Source: DT
+Date: 2006-09-01
+Author: Oddmund Hagen
+Language: nno
+Title: Auschwitz som lagnad
+
+File 10
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-848.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=848
+Source: DT
+Date: 2006-09-01
+Author: Odd W. Surén
+Language: nno
+Title: For mykje av det vonde
+
+File 11
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-849.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=849
+Source: DT
+Date: 2006-09-01
+Author: Bent Kvalvik
+Language: nno
+Title: Ein garantert vinnar?
+
+File 12
+File name in Norsk aviskorpus: DT/nno/2006/09/01/20060901-850.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=850
+Source: DT
+Date: 2006-09-01
+Author: Paula På Posta
+Language: nno
+Title: Gult og varmt
+
+File 13
+File name in Norsk aviskorpus: DT/nno/2011/10/07/20111007-2123.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2123
+Source: DT
+Date: 2011-10-07
+Author: Sigrun Slapgard
+Language: nno
+Title: Israels-aktivisten Sigrid Undset
+
+File 14
+File name in Norsk aviskorpus: DT/nno/2011/10/24/20111024-2139.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2139
+Source: DT
+Date: 2011-10-24
+Author: Jon Hustad
+Language: nno
+Title: I Hellas er det alltid neste år
+
+File 15
+File name in Norsk aviskorpus: DT/nno/2011/10/28/20111028-2141.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=2141
+Source: DT
+Date: 2011-10-28
+Author: Roald Helgheim
+Language: nno
+Title:  - Ein roman om Israels framtid
+
+Dag og Tid 015
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2008/05/22/20080522-1302.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1302
+Source: DT
+Date: 2008-05-22
+Author: Maren Ingeborg Hvamstad
+Language: nno
+Title: Fri og leiken fotofeminist
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2008/05/22/20080522-1303.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1303
+Source: DT
+Date: 2008-05-22
+Author: Per Anders Todal
+Language: nno
+Title: Strør sand på EUs lover
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2008/05/22/20080522-1304.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1304
+Source: DT
+Date: 2008-05-22
+Author: Agnes Ravatn
+Language: nno
+Title: Handbok i sinnsro
+
+File 4
+File name in Norsk aviskorpus: DT/nno/2008/05/22/20080522-1305.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1305
+Source: DT
+Date: 2008-05-22
+Author: Merete Røsvik Granlund
+Language: nno
+Title: Mannlege blindsoner
+
+File 5
+File name in Norsk aviskorpus: DT/nno/2008/05/22/20080522-1306.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1306
+Source: DT
+Date: 2008-05-22
+Author: Svein Gjerdåker
+Language: nno
+Title: Telenors nulltoleranse
+
+Dag og Tid 016
+==============
+
+File 1
+File name in Norsk aviskorpus: DT/nno/2008/05/08/20080508-1292.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1292
+Source: DT
+Date: 2008-05-08
+Author: Jon Hustad
+Language: nno
+Title: Når rett vert gale
+
+File 2
+File name in Norsk aviskorpus: DT/nno/2008/05/08/20080508-1293.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1293
+Source: DT
+Date: 2008-05-08
+Author: Erik Solheim
+Language: nno
+Title: Solnedgang for oljealderen
+
+File 3
+File name in Norsk aviskorpus: DT/nno/2008/05/08/20080508-1294.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1294
+Source: DT
+Date: 2008-05-08
+Author: John Peter Collett
+Language: nno
+Title: Statsmann på direkten
+
+File 4
+File name in Norsk aviskorpus: DT/nno/2008/05/08/20080508-1296.xml
+Original URL: http://www.dagogtid.no/nyhet.cfm?nyhetid=1296
+Source: DT
+Date: 2008-05-08
+Author: Svein Gjerdåker
+Language: nno
+Title: Løgn eller gløymsle
+
+Firda-nn 001
+============
+
+File 1
+File name in Norsk aviskorpus: FI/nno/2006/06/28/20060628-2169289.xml
+Original URL: http://www.firda.no/nyhende/toppsak_framside/article2169289.ece 299 8 17 2013
+Source: FI
+Date: 2006-06-28 09:19
+Author: Helge Johnsen
+Language: nno
+Title: Fylkesrådmannen vil ha gigantlina i jordkabel
+
+File 2
+File name in Norsk aviskorpus: FI/nno/2009/06/28/20090628-4430409.xml
+Original URL: http://www.firda.no/nyhende/article4430409.ece 117 0 0 715 %%
+Source: FI
+Date: 2009-06-28 09:37
+Author: 
+Language: nno
+Title: Brann i båt ved Svanøy
+
+File 3
+File name in Norsk aviskorpus: FI/nno/2009/06/28/20090628-4430503.xml
+Original URL: http://www.firda.no/sporten/article4430503.ece 207 26 34 1262
+Source: FI
+Date: 2009-06-28 11:20
+Author: Rune Fossum
+Language: nno
+Title: Imponerte under Baltic Cup
+
+File 4
+File name in Norsk aviskorpus: FI/nno/2009/06/28/20090628-4430822.xml
+Original URL: http://www.firda.no/sporten/fotball/article4430822.ece 212 17 23 1312
+Source: FI
+Date: 2009-06-28 15:32
+Author: Rune Fossum
+Language: nno
+Title: Har statistikken mot seg
+
+File 5
+File name in Norsk aviskorpus: FI/nno/2009/06/28/20090628-4430880.xml
+Original URL: http://www.firda.no/sporten/article4430880.ece 284 36 61 1680
+Source: FI
+Date: 2009-06-28 16:11
+Author: Rune Fossum
+Language: nno
+Title: I ferd med å få dårleg tid
+
+File 6
+File name in Norsk aviskorpus: FI/nno/2009/06/28/20090628-4431152.xml
+Original URL: http://www.firda.no/sporten/article4431152.ece 171 20 20 994 %%
+Source: FI
+Date: 2009-06-28 19:32
+Author: Marie S. Osland
+Language: nno
+Title: Vann NM i køyring
+
+File 7
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5006267.xml
+Original URL: http://www.firda.no/nyhende/article5006267.ece 247 3 6 1728
+Source: FI
+Date: 2010-03-05 08:27
+Author: Helge Johnsen
+Language: nno
+Title: Dramatiske sjukehusomleggingar
+
+File 8
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5006295.xml
+Original URL: http://www.firda.no/nyhende/samferdsle/article5006295.ece 170 12 13 1004 %%
+Source: FI
+Date: 2010-03-05 08:39
+Author: 
+Language: nno
+Title: Snøfall skaper vanskar
+
+File 9
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5006612.xml
+Original URL: http://www.firda.no/nyhende/article5006612.ece 272 0 0 1845
+Source: FI
+Date: 2010-03-05 10:18
+Author: Astrid Iren Solheim
+Language: nno
+Title: -Det tyngste og viktigaste helsemøtet i fylket si historie
+
+File 10
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5006682.xml
+Original URL: http://www.firda.no/nyhende/helse/article5006682.ece 170 6 7 1035 %%
+Source: FI
+Date: 2010-03-05 10:43
+Author: Eirik Grane
+Language: nno
+Title: - Ei grense for kor mykje vi kan bruke ostehøvelen
+
+File 11
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5006772.xml
+Original URL: http://www.firda.no/nyhende/article5006772.ece 420 3 10 2579
+Source: FI
+Date: 2010-03-05 11:12
+Author: Astrid Iren Solheim
+Language: nno
+Title: Difor kan dei ikkje halde fram som i dag
+
+File 12
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5006815.xml
+Original URL: http://www.firda.no/nyhende/helse/article5006815.ece 424 9 26 2884
+Source: FI
+Date: 2010-03-05 11:32
+Author: Eirik Grane
+Language: nno
+Title: Vil leggje ned Eid og Lærdal
+
+File 13
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5006958.xml
+Original URL: http://www.firda.no/nyhende/article5006958.ece 105 0 0 638 %%
+Source: FI
+Date: 2010-03-05 12:46
+Author: Sigurd Løseth
+Language: nno
+Title: Trur ikkje det blir demonstrasjonar
+
+File 14
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007021.xml
+Original URL: http://www.firda.no/nyhende/article5007021.ece 686 0 3 4099
+Source: FI
+Date: 2010-03-05 13:03
+Author: Astrid Iren Solheim
+Language: nno
+Title: Overraska over nedlegginga
+
+File 15
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007097.xml
+Original URL: http://www.firda.no/nyhende/article5007097.ece 174 0 0 1061 %%
+Source: FI
+Date: 2010-03-05 13:35
+Author: Eirik Grane
+Language: nno
+Title: - Så langt ute at måsane snakkar engelsk
+
+File 16
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007171.xml
+Original URL: http://www.firda.no/nyhende/article5007171.ece 190 5 6 1093 %%
+Source: FI
+Date: 2010-03-05 14:02
+Author: 
+Language: nno
+Title: - Har vore med på å leggje ned lokalsjukehus
+
+File 17
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007277.xml
+Original URL: http://www.firda.no/nyhende/article5007277.ece 188 2 3 1164 %%
+Source: FI
+Date: 2010-03-05 14:46
+Author: 
+Language: nno
+Title: - Får lengste akuttvegen i Norge
+
+File 18
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007285.xml
+Original URL: http://www.firda.no/nyhende/article5007285.ece 333 0 0 1863
+Source: FI
+Date: 2010-03-05 14:47
+Author: 
+Language: nno
+Title: - De har ikkje peiling på kva de snakkar om
+
+File 19
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007316.xml
+Original URL: http://www.firda.no/nyhende/article5007316.ece 170 4 5 1062 %%
+Source: FI
+Date: 2010-03-05 14:57
+Author: Knut Magnussen
+Language: nno
+Title: Her reiser siste båt i snøkaven
+
+File 20
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007319.xml
+Original URL: http://www.firda.no/nyhende/article5007319.ece 128 41 31 750 %%
+Source: FI
+Date: 2010-03-05 15:01
+Author: Kjell Aga Ulvestad
+Language: nno
+Title: 1,2 millionar til Stavenes
+
+File 21
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007397.xml
+Original URL: http://www.firda.no/nyhende/article5007397.ece 184 5 6 1020 %%
+Source: FI
+Date: 2010-03-05 16:58
+Author: Marie S. Osland
+Language: nno
+Title: Snøen stogga turnering
+
+File 22
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007425.xml
+Original URL: http://www.firda.no/nyhende/article5007425.ece 119 3 3 774 %%
+Source: FI
+Date: 2010-03-05 15:30
+Author: 
+Language: nno
+Title: - Lat oss ha eit sterkt sentralsjukehus
+
+File 23
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007469.xml
+Original URL: http://www.firda.no/nyhende/article5007469.ece 228 6 9 1467
+Source: FI
+Date: 2010-03-05 15:39
+Author: Vidar Gudvangen
+Language: nno
+Title: Kalla politimann for «svarting»
+
+File 24
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007473.xml
+Original URL: http://www.firda.no/nyhende/article5007473.ece 166 0 0 1024 %%
+Source: FI
+Date: 2010-03-05 15:38
+Author: 
+Language: nno
+Title: - Kan ikkje sitje å vente
+
+File 25
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007623.xml
+Original URL: http://www.firda.no/nyhende/article5007623.ece 115 0 0 612 %%
+Source: FI
+Date: 2010-03-05 17:27
+Author: Marie S. Osland
+Language: nno
+Title: Bil teken av snøras
+
+File 26
+File name in Norsk aviskorpus: FI/nno/2010/03/05/20100305-5007938.xml
+Original URL: http://www.firda.no/nyhende/article5007938.ece 390 0 2 2660
+Source: FI
+Date: 2010-03-05 23:05
+Author: Helge Johnsen
+Language: nno
+Title: Statsrådsprik om sjukehus
+
+File 27
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5174274.xml
+Original URL: http://www.firda.no/nyhende/article5174274.ece 169 8 9 1062 %%
+Source: FI
+Date: 2010-06-28 09:04
+Author: NPK
+Language: nno
+Title: Gentest kan redde liv
+
+File 28
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5174299.xml
+Original URL: http://www.firda.no/nyhende/article5174299.ece 101 0 0 635 %%
+Source: FI
+Date: 2010-06-28 09:28
+Author: 
+Language: nno
+Title: Nytt tilbod
+
+File 29
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5174388.xml
+Original URL: http://www.firda.no/nyhende/article5174388.ece 152 11 10 905 %%
+Source: FI
+Date: 2010-06-28 10:11
+Author: 
+Language: nno
+Title: Siste frist
+
+File 30
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5174452.xml
+Original URL: http://www.firda.no/nyhende/article5174452.ece 507 0 2 2939
+Source: FI
+Date: 2010-06-28 10:58
+Author: Svein Heggheim
+Language: nno
+Title: Øberg vart forsøkt truga vekk frå dugnadjobb
+
+File 31
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5174467.xml
+Original URL: http://www.firda.no/nyhende/article5174467.ece 184 3 4 1111 %%
+Source: FI
+Date: 2010-06-28 11:10
+Author: NPK
+Language: nno
+Title: Kritiske til sidemålundervisning
+
+File 32
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5174515.xml
+Original URL: http://www.firda.no/nyhende/article5174515.ece 172 9 10 1073 %%
+Source: FI
+Date: 2010-06-28 11:39
+Author: NPK
+Language: nno
+Title: Etterlyser 20.000 plastkasser
+
+File 33
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5174633.xml
+Original URL: http://www.firda.no/nyhende/article5174633.ece 116 26 17 647 %%
+Source: FI
+Date: 2010-06-28 13:15
+Author: 
+Language: nno
+Title: Sogn og Fjordane best i 16 fag
+
+File 34
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5174812.xml
+Original URL: http://www.firda.no/nyhende/landbruk-havbruk/article5174812.ece 152 6 6 946 %%
+Source: FI
+Date: 2010-06-28 14:57
+Author: NPK
+Language: nno
+Title: Vil hindre gjengroing
+
+File 35
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5175055.xml
+Original URL: http://www.firda.no/nyhende/article5175055.ece 175 5 6 1113 %%
+Source: FI
+Date: 2010-06-28 18:50
+Author: Marie S. Osland
+Language: nno
+Title: Varslar sjukehusstreik
+
+File 36
+File name in Norsk aviskorpus: FI/nno/2010/06/28/20100628-5175136.xml
+Original URL: http://www.firda.no/nyhende/article5175136.ece 335 9 21 2245
+Source: FI
+Date: 2010-06-28 20:15
+Author: 
+Language: nno
+Title: Overspenningsvern påbode
+
+File 37
+File name in Norsk aviskorpus: FI/nno/2011/02/01/20110201-5474246.xml
+Original URL: http://www.firda.no/nyhende/article5474246.ece 203 6 8 1311
+Source: FI
+Date: 2011-02-01 09:58
+Author: Astrid Iren Solheim Profil
+Language: nno
+Title: - Avis øydelegg vegprosjekt
+
+File 38
+File name in Norsk aviskorpus: FI/nno/2011/02/01/20110201-5474281.xml
+Original URL: http://www.firda.no/nyhende/article5474281.ece 157 40 38 937 %%
+Source: FI
+Date: 2011-02-01 09:58
+Author: 
+Language: nno
+Title: I dag startar gaupejakta
+
+File 39
+File name in Norsk aviskorpus: FI/nno/2011/02/01/20110201-5474344.xml
+Original URL: http://www.firda.no/nyhende/article5474344.ece 158 11 10 893 %%
+Source: FI
+Date: 2011-02-01 10:48
+Author: Astrid Iren Solheim Profil
+Language: nno
+Title: Mann i 60- åra må møte i retten i dag
+
+File 40
+File name in Norsk aviskorpus: FI/nno/2011/02/01/20110201-5474521.xml
+Original URL: http://www.firda.no/nyhende/article5474521.ece 252 35 52 1475
+Source: FI
+Date: 2011-02-01 10:48
+Author: 
+Language: nno
+Title: To sambygdingar ferska rusa bak rattet
+
+File 41
+File name in Norsk aviskorpus: FI/nno/2011/02/01/20110201-5474635.xml
+Original URL: http://www.firda.no/nyhende/article5474635.ece 240 2 4 1581
+Source: FI
+Date: 2011-02-01 13:13
+Author: NPK
+Language: nno
+Title: Hardanger-ordførarar spente på sjøkabelrapport
+
+File 42
+File name in Norsk aviskorpus: FI/nno/2011/02/01/20110201-5474684.xml
+Original URL: http://www.firda.no/nyhende/article5474684.ece 220 1 2 1313
+Source: FI
+Date: 2011-02-01 13:44
+Author: Ivar Longvastøl Profil
+Language: nno
+Title: Egypt-turen gjekk i vasken
+
+File 43
+File name in Norsk aviskorpus: FI/nno/2011/02/01/20110201-5474801.xml
+Original URL: http://www.firda.no/nyhende/article5474801.ece 307 15 27 1777
+Source: FI
+Date: 2011-02-01 14:29
+Author: Astrid Iren Solheim Profil
+Language: nno
+Title: Gjekk til angrep på fleire kvinner
+
+File 44
+File name in Norsk aviskorpus: FI/nno/2011/06/28/20110628-5654307.xml
+Original URL: http://www.firda.no/nyhende/article5654307.ece 300 14 26 1752
+Source: FI
+Date: 2011-06-28 09:03
+Author: Cato Husabø Fossen
+Language: nno
+Title: E39 er open att etter raskaos
+
+File 45
+File name in Norsk aviskorpus: FI/nno/2011/06/28/20110628-5654375.xml
+Original URL: http://www.firda.no/nyhende/article5654375.ece 369 7 15 2129
+Source: FI
+Date: 2011-06-28 09:47
+Author: Cato Husabø Fossen
+Language: nno
+Title: Fleire jordras i Ytre Sogn
+
+File 46
+File name in Norsk aviskorpus: FI/nno/2011/06/28/20110628-5654463.xml
+Original URL: http://www.firda.no/nyhende/article5654463.ece 138 4 4 851 %%
+Source: FI
+Date: 2011-06-28 12:39
+Author: Cato Husabø Fossen
+Language: nno
+Title: Fekk problem på Utvikfjellet
+
+File 47
+File name in Norsk aviskorpus: FI/nno/2011/06/28/20110628-5654687.xml
+Original URL: http://www.firda.no/nyhende/article5654687.ece 539 2 10 3459
+Source: FI
+Date: 2011-06-28 14:13
+Author: Cato Husabø Fossen
+Language: nno
+Title: Hardt ut mot lukka LO-arrangement
+
+File 48
+File name in Norsk aviskorpus: FI/nno/2011/06/28/20110628-5654945.xml
+Original URL: http://www.firda.no/nyhende/article5654945.ece 181 7 8 1055 %%
+Source: FI
+Date: 2011-06-28 15:16
+Author: Cato Husabø Fossen
+Language: nno
+Title: Menn skadde i arbeidsulukker
+
+File 49
+File name in Norsk aviskorpus: FI/nno/2011/06/28/20110628-5655182.xml
+Original URL: http://www.firda.no/nyhende/article5655182.ece 119 11 8 710 %%
+Source: FI
+Date: 2011-06-28 17:58
+Author: Cato Husabø Fossen
+Language: nno
+Title: Person skadd etter utforkøyring
+
+File 50
+File name in Norsk aviskorpus: FI/nno/2011/06/28/20110628-5655252.xml
+Original URL: http://www.firda.no/nyhende/article5655252.ece 109 29 22 750 %%
+Source: FI
+Date: 2011-06-28 19:15
+Author: Cato Husabø Fossen
+Language: nno
+Title: Dødsulukke på E16
+
+File 51
+File name in Norsk aviskorpus: FI/nno/2011/06/28/20110628-5655295.xml
+Original URL: http://www.firda.no/nyhende/article5655295.ece 320 1 3 1947
+Source: FI
+Date: 2011-06-28 23:00
+Author: Cato Husabø Fossen
+Language: nno
+Title: Nedbøren held fram med full styrke
+
+Firda-nn 002
+============
+Comment: Some sentences from these texts are not used in the corpus
+
+File 1
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4262504.xml
+Original URL: http://www.firda.no/nyhende/naringsliv/article4262504.ece 146 19 17 892 %%
+Source: FI
+Date: 2009-04-15 08:34
+Author: Ingunn Osland
+Language: nno
+Title: Alle permitterte innan 1. mai
+
+File 2
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4262568.xml
+Original URL: http://www.firda.no/nyhende/article4262568.ece 102 12 8 636 %%
+Source: FI
+Date: 2009-04-15 08:59
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Traktorvandalar på ferde
+
+File 3
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4262586.xml
+Original URL: http://www.firda.no/nyhende/article4262586.ece 153 4 4 896 %%
+Source: FI
+Date: 2009-04-15 09:06
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Held hjorten under oppsyn på nett
+
+File 4
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4262622.xml
+Original URL: http://www.firda.no/nyhende/article4262622.ece 184 10 13 1213 %%
+Source: FI
+Date: 2009-04-15 09:18
+Author: 
+Language: nno
+Title: 733 sjekka etter Sløvåg-eksplosjon
+
+File 5
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4262746.xml
+Original URL: http://www.firda.no/nyhende/article4262746.ece 164 19 21 1064 %%
+Source: FI
+Date: 2009-04-15 09:56
+Author: 
+Language: nno
+Title: Rush etter skattekode
+
+File 6
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4262750.xml
+Original URL: http://www.firda.no/sporten/article4262750.ece 202 11 15 1300
+Source: FI
+Date: 2009-04-15 09:58
+Author: Rune Fossum
+Language: nno
+Title: Kan få plass på nytt lag
+
+File 7
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4262935.xml
+Original URL: http://www.firda.no/nyhende/article4262935.ece 353 2 6 2270
+Source: FI
+Date: 2009-04-15 10:41
+Author: 
+Language: nno
+Title: Blir sjef for stormuseet
+
+File 8
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4263028.xml
+Original URL: http://www.firda.no/nyhende/article4263028.ece 216 3 5 1285
+Source: FI
+Date: 2009-04-15 11:10
+Author: 
+Language: nno
+Title: Underskotet veks i Måløy
+
+File 9
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4263110.xml
+Original URL: http://www.firda.no/sporten/article4263110.ece 253 0 0 1460
+Source: FI
+Date: 2009-04-15 11:38
+Author: Rune Fossum
+Language: nno
+Title: Førde jaktar ny trenar
+
+File 10
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4263134.xml
+Original URL: http://www.firda.no/nyhende/article4263134.ece 226 5 8 1576
+Source: FI
+Date: 2009-04-15 11:48
+Author: 
+Language: nno
+Title: Til Afrika med suksessformel
+
+File 11
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4263380.xml
+Original URL: http://www.firda.no/nyhende/article4263380.ece 164 12 12 996 %%
+Source: FI
+Date: 2009-04-15 13:02
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: 54 nye p-plassar
+
+File 12
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4263501.xml
+Original URL: http://www.firda.no/nyhende/article4263501.ece 302 5 9 1782
+Source: FI
+Date: 2009-04-15 13:29
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Stadig fleire vel dekkhotell
+
+File 13
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4263564.xml
+Original URL: http://www.firda.no/sporten/article4263564.ece 112 3 2 659 %%
+Source: FI
+Date: 2009-04-15 13:47
+Author: Rune Fossum
+Language: nno
+Title: Fekk ny heimekamp i cupen
+
+File 14
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4263631.xml
+Original URL: http://www.firda.no/nyhende/article4263631.ece 321 13 24 1839
+Source: FI
+Date: 2009-04-15 14:10
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: 37 % meiner dei har dårleg råd
+
+File 15
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4263860.xml
+Original URL: http://www.firda.no/nyhende/article4263860.ece 147 2 2 855 %%
+Source: FI
+Date: 2009-04-15 15:23
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Leitar etter sakna mann
+
+File 16
+File name in Norsk aviskorpus: FI/nno/2009/04/15/20090415-4263912.xml
+Original URL: http://www.firda.no/nyhende/article4263912.ece 108 0 0 626 %%
+Source: FI
+Date: 2009-04-15 15:42
+Author: 
+Language: nno
+Title: Hotellkjøpar trekte seg
+
+File 17
+File name in Norsk aviskorpus: FI/nno/2010/03/25/20100325-5041568.xml
+Original URL: http://www.firda.no/nyhende/article5041568.ece 149 9 9 923 %%
+Source: FI
+Date: 2010-03-25 18:53
+Author: 
+Language: nno
+Title: Slo ring om Simon
+
+File 18
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5071514.xml
+Original URL: http://www.firda.no/motor/article5071514.ece 130 7 6 820 %%
+Source: FI
+Date: 2010-04-15 09:19
+Author: Sissel Iren Skjerdal
+Language: nno
+Title: Kvitstripa på E39 enda i grøfta
+
+File 19
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5071622.xml
+Original URL: http://www.firda.no/motor/article5071622.ece 133 4 4 846 %%
+Source: FI
+Date: 2010-04-15 09:48
+Author: Sissel Iren Skjerdal
+Language: nno
+Title: Kvitstripa enda i grøfta
+
+File 20
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5071629.xml
+Original URL: http://www.firda.no/nyhende/helse/article5071629.ece 200 12 16 1292
+Source: FI
+Date: 2010-04-15 09:54
+Author: Eirik Grane
+Language: nno
+Title: Akuttberedskap i lufta ute av spel
+
+File 21
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5071840.xml
+Original URL: http://www.firda.no/nyhende/helse/article5071840.ece 244 17 27 1537
+Source: FI
+Date: 2010-04-15 10:55
+Author: 
+Language: nno
+Title: Fødande sviktar lokalsjukehus
+
+File 22
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072107.xml
+Original URL: http://www.firda.no/nyhende/article5072107.ece 162 14 15 1032 %%
+Source: FI
+Date: 2010-04-15 12:49
+Author: ANB-NTB
+Language: nno
+Title: - Ikkje godt nok førebudde
+
+File 23
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072122.xml
+Original URL: http://www.firda.no/eigedom/article5072122.ece 163 7 8 1031 %%
+Source: FI
+Date: 2010-04-15 12:55
+Author: NPK
+Language: nno
+Title: Få vil byte straumleverandør
+
+File 24
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072272.xml
+Original URL: http://www.firda.no/nyhende/article5072272.ece 164 18 17 905 %%
+Source: FI
+Date: 2010-04-15 13:44
+Author: 
+Language: nno
+Title: Køyrde lastebil med høg promille
+
+File 25
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072322.xml
+Original URL: http://www.firda.no/nyhende/article5072322.ece 165 5 6 1149 %%
+Source: FI
+Date: 2010-04-15 14:01
+Author: ANB-NTB
+Language: nno
+Title: Minst stengt til fredag
+
+File 26
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072393.xml
+Original URL: http://www.firda.no/nyhende/article5072393.ece 271 13 21 1502
+Source: FI
+Date: 2010-04-15 14:32
+Author: Eirik Grane
+Language: nno
+Title: Køyrer 2500 kilometer i eitt strekk
+
+File 27
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072560.xml
+Original URL: http://www.firda.no/nyhende/article5072560.ece 239 21 32 1501
+Source: FI
+Date: 2010-04-15 15:41
+Author: 
+Language: nno
+Title: Stengd til tysdag etter sprenging
+
+File 28
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072711.xml
+Original URL: http://www.firda.no/nyhende/article5072711.ece 293 0 0 1710
+Source: FI
+Date: 2010-04-15 17:49
+Author: 
+Language: nno
+Title: Den siste leigebilen?
+
+File 29
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072793.xml
+Original URL: http://www.firda.no/nyhende/smaanytt_framside/article5072793.ece 146 13 12 888 %%
+Source: FI
+Date: 2010-04-15 19:09
+Author: Ole Jacob Huus
+Language: nno
+Title: Pensjonist dømd for promillekøyring
+
+File 30
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072909.xml
+Original URL: http://www.firda.no/nyhende/smaanytt_framside/article5072909.ece 121 0 0 694 %%
+Source: FI
+Date: 2010-04-15 20:59
+Author: 
+Language: nno
+Title: Simon i Roma
+
+File 31
+File name in Norsk aviskorpus: FI/nno/2010/04/15/20100415-5072984.xml
+Original URL: http://www.firda.no/nyhende/helse/article5072984.ece 306 5 11 1942
+Source: FI
+Date: 2010-04-15 21:41
+Author: Karin Flølo
+Language: nno
+Title: Samstemt ja til tre sjukehus
+
+File 32
+File name in Norsk aviskorpus: FI/nno/2010/11/21/20101121-5390415.xml
+Original URL: http://www.firda.no/nyhende/article5390415.ece 149 29 29 983 %%
+Source: FI
+Date: 2010-11-21 20:49
+Author: 
+Language: nno
+Title: Nøringset toppar SV-lista
+
+File 33
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5568195.xml
+Original URL: http://www.firda.no/nyhende/article5568195.ece 123 21 16 733 %%
+Source: FI
+Date: 2011-04-15 07:46
+Author: Karin Flølo Profil
+Language: nno
+Title: Køyrde på venstre side i rundkøyring - mista lappen
+
+File 34
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5568246.xml
+Original URL: http://www.firda.no/nyhende/article5568246.ece 385 1 4 2424
+Source: FI
+Date: 2011-04-15 08:16
+Author: Helge Johnsen Profil
+Language: nno
+Title: Saka som splittar politikarane
+
+File 35
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5568276.xml
+Original URL: http://www.firda.no/nyhende/kultur/article5568276.ece 299 10 22 2049
+Source: FI
+Date: 2011-04-15 08:39
+Author: Karin Flølo Profil
+Language: nno
+Title: Spekka med kjendisar
+
+File 36
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5568314.xml
+Original URL: http://www.firda.no/nyhende/article5568314.ece 221 13 16 1225
+Source: FI
+Date: 2011-04-15 08:55
+Author: Karin Flølo Profil
+Language: nno
+Title: Jente påkøyrd av bil i Flora
+
+File 37
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5568634.xml
+Original URL: http://www.firda.no/nyhende/article5568634.ece 193 5 6 1077 %%
+Source: FI
+Date: 2011-04-15 12:04
+Author: Karin Flølo Profil
+Language: nno
+Title: Droppar korps og parolar
+
+File 38
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5568671.xml
+Original URL: http://www.firda.no/nyhende/article5568671.ece 106 53 32 602 ## %%
+Source: FI
+Date: 2011-04-15 12:04
+Author: 
+Language: nno
+Title: Trafikkulykke ved Kvam i Sogndal
+
+File 39
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5568834.xml
+Original URL: http://www.firda.no/nyhende/article5568834.ece 212 30 37 1202
+Source: FI
+Date: 2011-04-15 13:19
+Author: 
+Language: nno
+Title: Menn i 20-åra tekne for dopingsal
+
+File 40
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5568902.xml
+Original URL: http://www.firda.no/nyhende/article5568902.ece 161 3 3 970 %%
+Source: FI
+Date: 2011-04-15 13:51
+Author: Karin Flølo Profil
+Language: nno
+Title: Beat signerte avtale med Sony
+
+File 41
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5569042.xml
+Original URL: http://www.firda.no/nyhende/article5569042.ece 169 0 0 1089 %%
+Source: FI
+Date: 2011-04-15 15:14
+Author: Karin Flølo Profil
+Language: nno
+Title: Han er ny styreleiar i SafeClean
+
+File 42
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5569097.xml
+Original URL: http://www.firda.no/sporten/fotball/article5569097.ece 128 5 4 744 %%
+Source: FI
+Date: 2011-04-15 15:43
+Author: 
+Language: nno
+Title: Saga fekk Tippeliga-motstand
+
+File 43
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5569452.xml
+Original URL: http://www.firda.no/nyhende/article5569452.ece 100 1 1 544 %%
+Source: FI
+Date: 2011-04-15 20:57
+Author: Ingunn Osland Profil
+Language: nno
+Title: Får flytte heim
+
+File 44
+File name in Norsk aviskorpus: FI/nno/2011/04/15/20110415-5569476.xml
+Original URL: http://www.firda.no/nyhende/article5569476.ece 229 11 16 1360
+Source: FI
+Date: 2011-04-15 21:35
+Author: Knut Magnussen
+Language: nno
+Title: Her kjem NAV-bygget
+
+Firda-nn 003
+============
+
+File 1
+File name in Norsk aviskorpus: FI/nno/2006/06/15/20060615-2149858.xml
+Original URL: http://www.firda.no/nyhende/toppsak_framside/article2149858.ece 198 1 2 1304 %%
+Source: FI
+Date: 2006-06-15 15:53
+Author: Helge Johnsen
+Language: nno
+Title: Motstandarane krev utgreiing om sjøkabel
+
+File 2
+File name in Norsk aviskorpus: FI/nno/2008/06/15/20080615-3607983.xml
+Original URL: http://www.firda.no/nyhende/article3607983.ece 251 9 14 1494
+Source: FI
+Date: 2008-06-15 13:58
+Author: Helge Johnsen
+Language: nno
+Title: Bjørnen er skoten
+
+File 3
+File name in Norsk aviskorpus: FI/nno/2008/06/15/20080615-3608083.xml
+Original URL: http://www.firda.no/nyhende/article3608083.ece 424 10 25 2349
+Source: FI
+Date: 2008-06-15 14:43
+Author: Katrine Sele
+Language: nno
+Title: Fall om etter fire skot
+
+File 4
+File name in Norsk aviskorpus: FI/nno/2008/06/15/20080615-3608132.xml
+Original URL: http://www.firda.no/nyhende/article3608132.ece 170 0 0 1032 %%
+Source: FI
+Date: 2008-06-15 15:20
+Author: 
+Language: nno
+Title: Sauebonde oppdaga spora med kikkert
+
+File 5
+File name in Norsk aviskorpus: FI/nno/2008/06/15/20080615-3608370.xml
+Original URL: http://www.firda.no/nyhende/article3608370.ece 226 5 8 1416
+Source: FI
+Date: 2008-06-15 17:57
+Author: Katrine Sele
+Language: nno
+Title: Flokka seg rundt bjørnen
+
+File 6
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4399567.xml
+Original URL: http://www.firda.no/nyhende/article4399567.ece 613 20 73 3501
+Source: FI
+Date: 2009-06-15 08:42
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Denne brannbilen skal berge Førde frå brann
+
+File 7
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4399594.xml
+Original URL: http://www.firda.no/nyhende/article4399594.ece 170 10 12 1097 %%
+Source: FI
+Date: 2009-06-15 08:56
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Studentane trivst ved HSF
+
+File 8
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4399875.xml
+Original URL: http://www.firda.no/nyhende/article4399875.ece 248 0 0 1637
+Source: FI
+Date: 2009-06-15 10:13
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Åtvarar mot katastrofebrannar
+
+File 9
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4399906.xml
+Original URL: http://www.firda.no/nyhende/article4399906.ece 251 4 7 1439
+Source: FI
+Date: 2009-06-15 10:21
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: - Held god avstand
+
+File 10
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4400014.xml
+Original URL: http://www.firda.no/nyhende/article4400014.ece 245 1 2 1464
+Source: FI
+Date: 2009-06-15 10:49
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Spelar inn film i Vik
+
+File 11
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4400061.xml
+Original URL: http://www.firda.no/nyhende/helse/article4400061.ece 330 13 27 2074
+Source: FI
+Date: 2009-06-15 10:55
+Author: Eirik Grane
+Language: nno
+Title: Svært høgt forbruk av helsetenester
+
+File 12
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4400568.xml
+Original URL: http://www.firda.no/nyhende/article4400568.ece 208 4 6 1391
+Source: FI
+Date: 2009-06-15 13:15
+Author: 
+Language: nno
+Title: Skannar kyrkja med laser
+
+File 13
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4400981.xml
+Original URL: http://www.firda.no/nyhende/article4400981.ece 463 0 0 2630
+Source: FI
+Date: 2009-06-15 14:44
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Dette fann Brita i steika
+
+File 14
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4401002.xml
+Original URL: http://www.firda.no/nyhende/article4401002.ece 253 37 56 1496
+Source: FI
+Date: 2009-06-15 14:50
+Author: Karin Flølo
+Language: nno
+Title: Bilist nekta å godta fartsbot på 7800 kr
+
+File 15
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4401197.xml
+Original URL: http://www.firda.no/sporten/article4401197.ece 169 9 10 1090 %%
+Source: FI
+Date: 2009-06-15 15:25
+Author: Rune Fossum
+Language: nno
+Title: Med på knallsterkt norsk lag
+
+File 16
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4401236.xml
+Original URL: http://www.firda.no/nyhende/article4401236.ece 166 35 36 1016 %%
+Source: FI
+Date: 2009-06-15 15:35
+Author: Karin Flølo
+Language: nno
+Title: Lærar kjøpte narkotika
+
+File 17
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4401256.xml
+Original URL: http://www.firda.no/nyhende/article4401256.ece 128 13 11 804 %%
+Source: FI
+Date: 2009-06-15 15:43
+Author: 
+Language: nno
+Title: Blir snart å sjå på Sognefjorden
+
+File 18
+File name in Norsk aviskorpus: FI/nno/2009/06/15/20090615-4401365.xml
+Original URL: http://www.firda.no/nyhende/article4401365.ece 163 12 12 991 %%
+Source: FI
+Date: 2009-06-15 16:24
+Author: Karin Flølo
+Language: nno
+Title: I fengsel for amfetaminkjøp
+
+File 19
+File name in Norsk aviskorpus: FI/nno/2010/04/09/20100409-5061535.xml
+Original URL: http://www.firda.no/nyhende/article5061535.ece 224 3 4 1177
+Source: FI
+Date: 2010-04-09 13:17
+Author: Astrid Iren Solheim
+Language: nno
+Title: No kjem endeleg sola
+
+File 20
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5158257.xml
+Original URL: http://www.firda.no/nyhende/article5158257.ece 127 15 12 792 %%
+Source: FI
+Date: 2010-06-15 01:21
+Author: Eirik Grane
+Language: nno
+Title: Fann sakna ungdom i natt
+
+File 21
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5158492.xml
+Original URL: http://www.firda.no/sporten/fotball/article5158492.ece 268 1 2 1527
+Source: FI
+Date: 2010-06-15 08:52
+Author: Einar Trovåg
+Language: nno
+Title: Skjelte ut spelarane i SMS
+
+File 22
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5158556.xml
+Original URL: http://www.firda.no/nyhende/smaanytt_framside/article5158556.ece 118 14 11 735 %%
+Source: FI
+Date: 2010-06-15 09:24
+Author: 
+Language: nno
+Title: Må skaffe 8.5 millionar til omsorg
+
+File 23
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5158675.xml
+Original URL: http://www.firda.no/nyhende/smaanytt_framside/article5158675.ece 160 2 2 988 %%
+Source: FI
+Date: 2010-06-15 10:36
+Author: NPK
+Language: nno
+Title: Færre forbrukslån
+
+File 24
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5158795.xml
+Original URL: http://www.firda.no/nyhende/article5158795.ece 189 11 12 1030 %%
+Source: FI
+Date: 2010-06-15 11:25
+Author: Eirik Grane
+Language: nno
+Title: Laksen sat etter 15 minutt
+
+File 25
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5158810.xml
+Original URL: http://www.firda.no/nyhende/smaanytt_framside/article5158810.ece 100 4 3 690 %%
+Source: FI
+Date: 2010-06-15 11:35
+Author: Ida Bergitte Hundvebakke
+Language: nno
+Title: Ekstra millionar til utdanning i vest
+
+File 26
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5158903.xml
+Original URL: http://www.firda.no/nyhende/smaanytt_framside/article5158903.ece 225 1 2 1301
+Source: FI
+Date: 2010-06-15 13:11
+Author: Ida Bergitte Hundvebakke
+Language: nno
+Title: Til Stortinget med Ilda
+
+File 27
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5159135.xml
+Original URL: http://www.firda.no/nyhende/helse/article5159135.ece 167 0 0 1137 %%
+Source: FI
+Date: 2010-06-15 15:50
+Author: Helge Johnsen
+Language: nno
+Title: - Uforsvarleg utstyrssituasjon
+
+File 28
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5159354.xml
+Original URL: http://www.firda.no/nyhende/article5159354.ece 115 0 0 681 %%
+Source: FI
+Date: 2010-06-15 19:53
+Author: Marie Havnen
+Language: nno
+Title: Forbode bål forlate
+
+File 29
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5159385.xml
+Original URL: http://www.firda.no/nyhende/article5159385.ece 117 30 20 654 %%
+Source: FI
+Date: 2010-06-15 20:17
+Author: 
+Language: nno
+Title: Ferska i 96 km/t i 80-sone
+
+File 30
+File name in Norsk aviskorpus: FI/nno/2010/06/15/20100615-5159431.xml
+Original URL: http://www.firda.no/nyhende/article5159431.ece 153 23 21 885 %%
+Source: FI
+Date: 2010-06-15 21:28
+Author: 
+Language: nno
+Title: Ein av landets dyraste
+
+File 31
+File name in Norsk aviskorpus: FI/nno/2011/06/15/20110615-5639809.xml
+Original URL: http://www.firda.no/nyhende/article5639809.ece 261 7 12 1576
+Source: FI
+Date: 2011-06-15 08:27
+Author: Marie S. Osland
+Language: nno
+Title: - Frekk seljar tok 500-lapp og sprang
+
+File 32
+File name in Norsk aviskorpus: FI/nno/2011/06/15/20110615-5639977.xml
+Original URL: http://www.firda.no/nyhende/landbruk-havbruk/article5639977.ece 173 0 0 1186 %%
+Source: FI
+Date: 2011-06-15 10:08
+Author: Karin Flølo Profil
+Language: nno
+Title: - Lakselus-situasjonen ute av kontroll
+
+File 33
+File name in Norsk aviskorpus: FI/nno/2011/06/15/20110615-5640027.xml
+Original URL: http://www.firda.no/nyhende/article5640027.ece 195 2 3 1230 %%
+Source: FI
+Date: 2011-06-15 10:55
+Author: Karin Flølo Profil
+Language: nno
+Title: Sa nei til skjenkjekontrollen
+
+File 34
+File name in Norsk aviskorpus: FI/nno/2011/06/15/20110615-5640080.xml
+Original URL: http://www.firda.no/nyhende/article5640080.ece 184 10 11 1026 %%
+Source: FI
+Date: 2011-06-15 11:23
+Author: Karin Flølo Profil
+Language: nno
+Title: Oddvar Flæte har tre jobbar som ventar
+
+File 35
+File name in Norsk aviskorpus: FI/nno/2011/06/15/20110615-5640164.xml
+Original URL: http://www.firda.no/nyhende/article5640164.ece 173 7 8 1121 %%
+Source: FI
+Date: 2011-06-15 12:36
+Author: Karin Flølo Profil
+Language: nno
+Title: Frå langrenn til olje
+
+File 36
+File name in Norsk aviskorpus: FI/nno/2011/06/15/20110615-5640193.xml
+Original URL: http://www.firda.no/nyhende/article5640193.ece 359 5 12 2032
+Source: FI
+Date: 2011-06-15 12:55
+Author: Karin Flølo Profil
+Language: nno
+Title: - Kvifor gjer dei dette mot meg?
+
+File 37
+File name in Norsk aviskorpus: FI/nno/2011/06/15/20110615-5640346.xml
+Original URL: http://www.firda.no/nyhende/article5640346.ece 147 2 2 868 %%
+Source: FI
+Date: 2011-06-15 14:14
+Author: Karin Flølo Profil
+Language: nno
+Title: Umogleg å ikkje høyre posten
+
+File 38
+File name in Norsk aviskorpus: FI/nno/2011/06/15/20110615-5640369.xml
+Original URL: http://www.firda.no/nyhende/helse/article5640369.ece 362 32 77 2387
+Source: FI
+Date: 2011-06-15 14:28
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: 3,5 millionar til samhandling
+
+File 39
+File name in Norsk aviskorpus: FI/nno/2011/06/15/20110615-5640727.xml
+Original URL: http://www.firda.no/nyhende/article5640727.ece 253 7 13 1658
+Source: FI
+Date: 2011-06-15 19:51
+Author: Tone Merete Lillesvangstu
+Language: nno
+Title: Denne sikra Florø-gründer pris
+
+Firda-nn 004
+============
+
+File 1
+File name in Norsk aviskorpus: FI/nno/2009/03/20/20090320-4210916.xml
+Original URL: http://www.firda.no/nyhende/article4210916.ece 251 8 13 1536
+Source: FI
+Date: 2009-03-20 23:22
+Author: Simon F. Solheim
+Language: nno
+Title: Rykka ut til bilbrann
+
+File 2
+File name in Norsk aviskorpus: FI/nno/2009/09/16/20090916-4587450.xml
+Original URL: http://www.firda.no/valg09/article4587450.ece 100 0 0 647 %%
+Source: FI
+Date: 2009-09-16 08:24
+Author: Ivar Longvastøl
+Language: nno
+Title: Liv Signe held gjerne fram som samferdsleminister
+
+File 3
+File name in Norsk aviskorpus: FI/nno/2009/09/16/20090916-4587513.xml
+Original URL: http://www.firda.no/nyhende/article4587513.ece 213 16 21 1279
+Source: FI
+Date: 2009-09-16 08:58
+Author: 
+Language: nno
+Title: Truleg klart for nattfly
+
+File 4
+File name in Norsk aviskorpus: FI/nno/2009/09/16/20090916-4587889.xml
+Original URL: http://www.firda.no/valg09/article4587889.ece 285 9 19 1927
+Source: FI
+Date: 2009-09-16 10:48
+Author: 
+Language: nno
+Title: Tidlegare SV-topp vil kaste Grande Røys
+
+File 5
+File name in Norsk aviskorpus: FI/nno/2009/09/16/20090916-4588069.xml
+Original URL: http://www.firda.no/nyhende/article4588069.ece 139 16 12 747 %%
+Source: FI
+Date: 2009-09-16 11:28
+Author: 
+Language: nno
+Title: Berga sauer med gummibåt
+
+File 6
+File name in Norsk aviskorpus: FI/nno/2009/09/16/20090916-4588091.xml
+Original URL: http://www.firda.no/nyhende/landbruk-havbruk/article4588091.ece 171 8 8 957 %%
+Source: FI
+Date: 2009-09-16 11:38
+Author: 
+Language: nno
+Title: Jerv har teke 11 sauer
+
+File 7
+File name in Norsk aviskorpus: FI/nno/2009/09/16/20090916-4588363.xml
+Original URL: http://www.firda.no/nyhende/kultur/article4588363.ece 243 9 14 1529
+Source: FI
+Date: 2009-09-16 13:14
+Author: 
+Language: nno
+Title: Frodig bok om Slettemark
+
+File 8
+File name in Norsk aviskorpus: FI/nno/2009/09/16/20090916-4588580.xml
+Original URL: http://www.firda.no/nyhende/article4588580.ece 276 0 0 1733
+Source: FI
+Date: 2009-09-16 14:28
+Author: 
+Language: nno
+Title: Her er det mest kos - og kjeft
+
+File 9
+File name in Norsk aviskorpus: FI/nno/2009/09/16/20090916-4588654.xml
+Original URL: http://www.firda.no/nyhende/article4588654.ece 166 9 10 1031 %%
+Source: FI
+Date: 2009-09-16 14:57
+Author: Knut Magnussen#Helge Johnsen
+Language: nno
+Title: Slutt på skipsbygging i Florø
+
+File 10
+File name in Norsk aviskorpus: FI/nno/2009/09/16/20090916-4588762.xml
+Original URL: http://www.firda.no/nyhende/article4588762.ece 195 0 0 1212 %%
+Source: FI
+Date: 2009-09-16 15:27
+Author: 
+Language: nno
+Title: Krass kritikk mot to legar
+
+File 11
+File name in Norsk aviskorpus: FI/nno/2010/04/09/20100409-5060916.xml
+Original URL: http://www.firda.no/nyhende/helse/article5060916.ece 344 1 4 2217
+Source: FI
+Date: 2010-04-09 09:15
+Author: ANB-NTB
+Language: nno
+Title: - Må skrive om lova for å redde lokalsjukehusa
+
+File 12
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5311684.xml
+Original URL: http://www.firda.no/nyhende/article5311684.ece 117 13 9 691 %%
+Source: FI
+Date: 2010-09-16 08:32
+Author: 
+Language: nno
+Title: Hamna på taket i sjøen
+
+File 13
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5311731.xml
+Original URL: http://www.firda.no/nyhende/article5311731.ece 196 33 42 1256 %%
+Source: FI
+Date: 2010-09-16 08:56
+Author: 
+Language: nno
+Title: Arkitekt bak avtale med Sp
+
+File 14
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5311808.xml
+Original URL: http://www.firda.no/nyhende/article5311808.ece 236 9 14 1495
+Source: FI
+Date: 2010-09-16 09:31
+Author: Eirik Grane Profil
+Language: nno
+Title: Eigen reklamefilm for fylket
+
+File 15
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5311885.xml
+Original URL: http://www.firda.no/nyhende/kultur/article5311885.ece 277 2 5 1789
+Source: FI
+Date: 2010-09-16 09:51
+Author: 
+Language: nno
+Title: Lagar indisk storfilm i fylket
+
+File 16
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5312022.xml
+Original URL: http://www.firda.no/nyhende/article5312022.ece 233 5 8 1435
+Source: FI
+Date: 2010-09-16 10:59
+Author: 
+Language: nno
+Title: Sender 1,4 tonn miljøgifter i fjorden
+
+File 17
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5312114.xml
+Original URL: http://www.firda.no/nyhende/article5312114.ece 132 9 8 869 %%
+Source: FI
+Date: 2010-09-16 11:57
+Author: Sissel Iren Skjerdal
+Language: nno
+Title: To arbeidsuhell
+
+File 18
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5312170.xml
+Original URL: http://www.firda.no/nyhende/article5312170.ece 205 13 17 1215
+Source: FI
+Date: 2010-09-16 12:57
+Author: Sissel Iren Skjerdal
+Language: nno
+Title: Nullføre og snødekke
+
+File 19
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5312357.xml
+Original URL: http://www.firda.no/nyhende/article5312357.ece 162 18 17 904 %%
+Source: FI
+Date: 2010-09-16 14:17
+Author: NPK
+Language: nno
+Title: Fedrar vil vere meir heime med borna
+
+File 20
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5312377.xml
+Original URL: http://www.firda.no/nyhende/article5312377.ece 420 0 2 2651
+Source: FI
+Date: 2010-09-16 14:30
+Author: 
+Language: nno
+Title: Vestlandet ser sjansar i Kina
+
+File 21
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5312697.xml
+Original URL: http://www.firda.no/nyhende/article5312697.ece 194 0 0 1479 %%
+Source: FI
+Date: 2010-09-16 20:34
+Author: Helge Johnsen
+Language: nno
+Title: Fiskeridirektoratet går mot deponiet
+
+File 22
+File name in Norsk aviskorpus: FI/nno/2010/09/16/20100916-5312797.xml
+Original URL: http://www.firda.no/nyhende/article5312797.ece 168 5 6 1072 %%
+Source: FI
+Date: 2010-09-16 22:34
+Author: Eirik Grane Profil
+Language: nno
+Title: Fem unge trafikkulykke
+
+File 23
+File name in Norsk aviskorpus: FI/nno/2011/09/02/20110902-5720916.xml
+Original URL: http://www.firda.no/nyhende/helse/article5720916.ece 530 2 9 3424
+Source: FI
+Date: 2011-09-02 18:17
+Author: Cato Husabø Fossen Profil
+Language: nno
+Title: Hevdar dei ikkje fekk opplæring i rutinar
+
+File 24
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5738789.xml
+Original URL: http://www.firda.no/nyhende/article5738789.ece 323 30 67 2195
+Source: FI
+Date: 2011-09-16 09:52
+Author: Eirik Grane Profil
+Language: nno
+Title: Fekk desidert mest personrøyster
+
+File 25
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5738808.xml
+Original URL: http://www.firda.no/nyhende/helse/article5738808.ece 180 24 30 1212 %%
+Source: FI
+Date: 2011-09-16 10:02
+Author: 
+Language: nno
+Title: Får 500.000 til samhandling
+
+File 26
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5738860.xml
+Original URL: http://www.firda.no/eigedom/article5738860.ece 194 2 3 1164 %%
+Source: FI
+Date: 2011-09-16 10:25
+Author: 
+Language: nno
+Title: Har for lite kunnskap
+
+File 27
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5738898.xml
+Original URL: http://www.firda.no/nyhende/article5738898.ece 159 21 20 912 %%
+Source: FI
+Date: 2011-09-16 10:47
+Author: 
+Language: nno
+Title: Super sesong i Jølstravatnet
+
+File 28
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5739231.xml
+Original URL: http://www.firda.no/nyhende/article5739231.ece 216 11 15 1274
+Source: FI
+Date: 2011-09-16 14:02
+Author: Eirik Grane Profil
+Language: nno
+Title: Kjempar om 200.000 kroner
+
+File 29
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5739403.xml
+Original URL: http://www.firda.no/nyhende/article5739403.ece 275 4 8 1726
+Source: FI
+Date: 2011-09-16 15:22
+Author: Ivar Longvastøl Profil
+Language: nno
+Title: Eksotisk nok for Princeton
+
+File 30
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5739471.xml
+Original URL: http://www.firda.no/sporten/fotball/article5739471.ece 192 13 15 1150 %%
+Source: FI
+Date: 2011-09-16 16:17
+Author: Asgeir Årdal
+Language: nno
+Title: Solheim blir proff
+
+File 31
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5739550.xml
+Original URL: http://www.firda.no/nyhende/article5739550.ece 164 7 8 1111 %%
+Source: FI
+Date: 2011-09-16 17:17
+Author: Janne G. Sørgulen Profil
+Language: nno
+Title: Har frigitt namn på omkommen
+
+File 32
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5739643.xml
+Original URL: http://www.firda.no/nyhende/kultur/article5739643.ece 416 9 24 2575
+Source: FI
+Date: 2011-09-16 20:15
+Author: Janne G. Sørgulen Profil
+Language: nno
+Title: Fjorden Baby til ungdommen
+
+File 33
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5739662.xml
+Original URL: http://www.firda.no/nyhende/article5739662.ece 164 3 4 1050 %%
+Source: FI
+Date: 2011-09-16 19:42
+Author: Janne G. Sørgulen Profil
+Language: nno
+Title: Høgre kapra ordførvervet i Flora
+
+File 34
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5739718.xml
+Original URL: http://www.firda.no/nyhende/article5739718.ece 280 7 13 1772
+Source: FI
+Date: 2011-09-16 21:00
+Author: Janne G. Sørgulen Profil
+Language: nno
+Title: Ivrigast i Ålfoten
+
+File 35
+File name in Norsk aviskorpus: FI/nno/2011/09/16/20110916-5739806.xml
+Original URL: http://www.firda.no/nyhende/article5739806.ece 294 1 3 1670
+Source: FI
+Date: 2011-09-16 22:42
+Author: Ingunn Osland Profil
+Language: nno
+Title: Vegard klar for Idol-finale
+
+Firda-nn 005
+============
+
+File 1
+File name in Norsk aviskorpus: FI/nno/2003/11/21/20031121-801188.xml
+Original URL: http://www.firda.no/nyhende/article801188.ece 250 2 4 1651
+Source: FI
+Date: 2003-11-21 08:39
+Author: Hilde Genberg
+Language: nno
+Title: - Påminning om mangel på brannutstyr
+
+File 2
+File name in Norsk aviskorpus: FI/nno/2008/12/24/20081224-4011837.xml
+Original URL: http://www.firda.no/nyhende/kultur/article4011837.ece 391 5 12 2228
+Source: FI
+Date: 2008-12-24 15:26
+Author: Simon F. Solheim
+Language: nno
+Title: Tone er MPG-klar
+
+File 3
+File name in Norsk aviskorpus: FI/nno/2009/01/18/20090118-4058185.xml
+Original URL: http://www.firda.no/nyhende/article4058185.ece 256 2 4 1557
+Source: FI
+Date: 2009-01-18 08:04
+Author: Simon F. Solheim
+Language: nno
+Title: Stakk frå staden
+
+File 4
+File name in Norsk aviskorpus: FI/nno/2009/01/18/20090118-4058191.xml
+Original URL: http://www.firda.no/nyhende/article4058191.ece 100 8 6 668 %%
+Source: FI
+Date: 2009-01-18 08:41
+Author: Simon F. Solheim
+Language: nno
+Title: Flogen med luftambulanse
+
+File 5
+File name in Norsk aviskorpus: FI/nno/2009/01/18/20090118-4058903.xml
+Original URL: http://www.firda.no/nyhende/article4058903.ece 106 21 13 619 %%
+Source: FI
+Date: 2009-01-18 17:13
+Author: Svein Heggheim
+Language: nno
+Title: - Knalløp av Trygve
+
+File 6
+File name in Norsk aviskorpus: FI/nno/2009/01/18/20090118-4059256.xml
+Original URL: http://www.firda.no/nyhende/article4059256.ece 182 13 15 1095 %%
+Source: FI
+Date: 2009-01-18 20:03
+Author: Simon F. Solheim
+Language: nno
+Title: Har endeleg fått løn
+
+File 7
+File name in Norsk aviskorpus: FI/nno/2009/02/04/20090204-4101180.xml
+Original URL: http://www.firda.no/nyhende/article4101180.ece 447 1 4 2449
+Source: FI
+Date: 2009-02-04 10:20
+Author: Katrine Sele
+Language: nno
+Title: Kalv fødde kalv
+
+File 8
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4811450.xml
+Original URL: http://www.firda.no/nyhende/article4811450.ece 500 1 4 2938
+Source: FI
+Date: 2010-01-18 08:37
+Author: Karin Flølo
+Language: nno
+Title: - Dundrande sure, kjipe og treige
+
+File 9
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4811474.xml
+Original URL: http://www.firda.no/nyhende/kultur/article4811474.ece 195 17 20 1114 %%
+Source: FI
+Date: 2010-01-18 08:55
+Author: Astrid Iren Solheim
+Language: nno
+Title: Verdskjend boyband til Sogndal
+
+File 10
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4811532.xml
+Original URL: http://www.firda.no/nyhende/article4811532.ece 247 3 5 1482
+Source: FI
+Date: 2010-01-18 09:22
+Author: Astrid Iren Solheim
+Language: nno
+Title: Vimsete mann kan ha kosta 1 million kroner
+
+File 11
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4811655.xml
+Original URL: http://www.firda.no/nyhende/article4811655.ece 277 1 3 1747
+Source: FI
+Date: 2010-01-18 10:01
+Author: Helge Johnsen
+Language: nno
+Title: Ventar deponi-ja frå SFT
+
+File 12
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4811755.xml
+Original URL: http://www.firda.no/nyhende/article4811755.ece 231 0 0 1575
+Source: FI
+Date: 2010-01-18 10:20
+Author: Astrid Iren Solheim
+Language: nno
+Title: Blir etterforska etter uventa dødsfall
+
+File 13
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4811878.xml
+Original URL: http://www.firda.no/nyhende/article4811878.ece 245 15 22 1422
+Source: FI
+Date: 2010-01-18 10:54
+Author: NPK
+Language: nno
+Title: Vil ha totalforbod mot røyking
+
+File 14
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4811973.xml
+Original URL: http://www.firda.no/nyhende/article4811973.ece 150 2 2 841 %%
+Source: FI
+Date: 2010-01-18 11:31
+Author: Astrid Iren Solheim
+Language: nno
+Title: No har vi fått nok av kulda
+
+File 15
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4812178.xml
+Original URL: http://www.firda.no/sporten/article4812178.ece 140 8 7 845 %%
+Source: FI
+Date: 2010-01-18 12:28
+Author: Einar Trovåg
+Language: nno
+Title: Ikkje til OL
+
+File 16
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4812267.xml
+Original URL: http://www.firda.no/nyhende/article4812267.ece 135 24 19 779 %%
+Source: FI
+Date: 2010-01-18 12:56
+Author: 
+Language: nno
+Title: Fylte tanken på eks-sjefen si rekning
+
+File 17
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4812531.xml
+Original URL: http://www.firda.no/nyhende/article4812531.ece 187 5 6 1028 %%
+Source: FI
+Date: 2010-01-18 14:32
+Author: Astrid Iren Solheim
+Language: nno
+Title: Spytta taxisjåføren rett i ansiktet
+
+File 18
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4812750.xml
+Original URL: http://www.firda.no/nyhende/kultur/article4812750.ece 228 24 33 1359
+Source: FI
+Date: 2010-01-18 15:42
+Author: 
+Language: nno
+Title: Pengedryss til filmskular i fylket
+
+File 19
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4813121.xml
+Original URL: http://www.firda.no/nyhende/kultur/article4813121.ece 381 1 4 2332
+Source: FI
+Date: 2010-01-18 19:59
+Author: Sigurd Løseth
+Language: nno
+Title: - Jølster bør kjøpe Apneseth-samlinga
+
+File 20
+File name in Norsk aviskorpus: FI/nno/2010/01/18/20100118-4813142.xml
+Original URL: http://www.firda.no/nyhende/article4813142.ece 122 30 23 752 %%
+Source: FI
+Date: 2010-01-18 20:19
+Author: Karin Flølo
+Language: nno
+Title: Stoppa ikkje i kontroll - fekk 8000 kroner i bot
+
+File 21
+File name in Norsk aviskorpus: FI/nno/2010/07/23/20100723-5201182.xml
+Original URL: http://www.firda.no/nyhende/article5201182.ece 165 10 10 1000 %%
+Source: FI
+Date: 2010-07-23 13:51
+Author: NPK
+Language: nno
+Title: Vil opne for fiske i Lærdalselva
+
+File 22
+File name in Norsk aviskorpus: FI/nno/2011/01/13/20110113-5450118.xml
+Original URL: http://www.firda.no/nyhende/article5450118.ece 190 8 9 1116 %%
+Source: FI
+Date: 2011-01-13 11:01
+Author: Ingunn Osland Profil
+Language: nno
+Title: Nær 700 utan telefon og breiband
+
+File 23
+File name in Norsk aviskorpus: FI/nno/2011/01/18/20110118-5455276.xml
+Original URL: http://www.firda.no/nyhende/article5455276.ece 359 0 1 2159
+Source: FI
+Date: 2011-01-18 08:27
+Author: Janne G. Sørgulen
+Language: nno
+Title: Fekk ikkje rigge MGP - fordi dei er jenter
+
+File 24
+File name in Norsk aviskorpus: FI/nno/2011/01/18/20110118-5455594.xml
+Original URL: http://www.firda.no/nyhende/article5455594.ece 421 13 33 2431
+Source: FI
+Date: 2011-01-18 10:33
+Author: Karin Flølo Profil
+Language: nno
+Title: Slik var altså festane før.....
+
+File 25
+File name in Norsk aviskorpus: FI/nno/2011/01/18/20110118-5455635.xml
+Original URL: http://www.firda.no/nyhende/kultur/article5455635.ece 130 50 44 865 %%
+Source: FI
+Date: 2011-01-18 19:38
+Author: 
+Language: nno
+Title: Seks kulturprosjekt får pengar
+
+File 26
+File name in Norsk aviskorpus: FI/nno/2011/01/18/20110118-5455858.xml
+Original URL: http://www.firda.no/nyhende/article5455858.ece 121 2 2 699 %%
+Source: FI
+Date: 2011-01-18 12:15
+Author: Eirik Grane Profil
+Language: nno
+Title: Sei di meining om nye firda.no
+
+File 27
+File name in Norsk aviskorpus: FI/nno/2011/01/18/20110118-5456056.xml
+Original URL: http://www.firda.no/nyhende/article5456056.ece 159 4 4 961 %%
+Source: FI
+Date: 2011-01-18 13:12
+Author: Karin Flølo Profil
+Language: nno
+Title: Nok eit Eras-utslepp
+
+File 28
+File name in Norsk aviskorpus: FI/nno/2011/01/18/20110118-5456246.xml
+Original URL: http://www.firda.no/nyhende/kultur/article5456246.ece 117 10 8 731 %%
+Source: FI
+Date: 2011-01-18 14:09
+Author: Karin Flølo Profil
+Language: nno
+Title: Hylla av amerikansk storavis
+
+File 29
+File name in Norsk aviskorpus: FI/nno/2011/01/18/20110118-5456743.xml
+Original URL: http://www.firda.no/nyhende/article5456743.ece 111 22 14 628 %%
+Source: FI
+Date: 2011-01-18 19:10
+Author: Svein Heggheim Profil
+Language: nno
+Title: Fem vegar stengde
+
+File 30
+File name in Norsk aviskorpus: FI/nno/2011/01/18/20110118-5456766.xml
+Original URL: http://www.firda.no/nyhende/article5456766.ece 169 0 0 1056 %%
+Source: FI
+Date: 2011-01-18 19:38
+Author: Svein Heggheim Profil
+Language: nno
+Title: - Bygg Stad skipstunnel no
+
+File 31
+File name in Norsk aviskorpus: FI/nno/2011/02/22/20110222-5501186.xml
+Original URL: http://www.firda.no/nyhende/article5501186.ece 138 28 26 904 %%
+Source: FI
+Date: 2011-02-22 13:57
+Author: 
+Language: nno
+Title: Får toppkarakter av turistane
+
+File 32
+File name in Norsk aviskorpus: FI/nno/2011/11/09/20111109-5801183.xml
+Original URL: http://www.firda.no/motor/article5801183.ece 562 4 16 3377
+Source: FI
+Date: 2011-11-09 12:52
+Author: Cato Husabø Fossen Profil
+Language: nno
+Title: På tide å leggje om til vinterdekk?
+
+Klassekampen-nn 001
+===================
+Comment: Some sentences from these texts are not used in the corpus
+
+File 1
+File name in Norsk aviskorpus: KK/nno/2001/07/16/20010716-30995.xml
+Original URL: http://www.klassekampen.no/artikler/30995/article/item/null 659 6 26 3932
+Source: KK
+Date: 2001-07-16
+Author: Magnus E. Marsdal
+Language: nno
+Title: Kanskje kommer kongen
+
+File 2
+File name in Norsk aviskorpus: KK/nno/2002/11/14/20021114-29003.xml
+Original URL: http://www.klassekampen.no/artikler/29003/article/item/null 572 1 7 3722
+Source: KK
+Date: 2002-11-14
+Author: Guri Kulås
+Language: nno
+Title: Norsk historie X
+
+File 3
+File name in Norsk aviskorpus: KK/nno/2002/11/16/20021116-29065.xml
+Original URL: http://www.klassekampen.no/artikler/29065/article/item/null 1650 9 92 10034
+Source: KK
+Date: 2002-11-16
+Author: Magnus E. Marsdal
+Language: nno
+Title: Ein amerikansk fundamentalist
+
+File 4
+File name in Norsk aviskorpus: KK/nno/2002/11/16/20021116-29068.xml
+Original URL: http://www.klassekampen.no/artikler/29068/article/item/null 588 7 28 3548
+Source: KK
+Date: 2002-11-16
+Author: Magnhild Folkvord
+Language: nno
+Title: RV-politikar trekte seg frå alle verv
+
+File 5
+File name in Norsk aviskorpus: KK/nno/2003/08/23/20030823-23678.xml
+Original URL: http://www.klassekampen.no/artikler/23678/article/item/null 1397 2 18 8249
+Source: KK
+Date: 2003-08-23
+Author: Guri Kulås
+Language: nno
+Title: Den sosiale arvesynden
+
+File 6
+File name in Norsk aviskorpus: KK/nno/2007/12/28/20071228-49424.xml
+Original URL: http://www.klassekampen.no/artikler/49424/article/item/null 1047 15 101 6432
+Source: KK
+Date: 2007-12-28
+Author: Alfred Fidjestøl
+Language: nno
+Title: Leste meir enn vi trudde
+
+File 7
+File name in Norsk aviskorpus: KK/nno/2011/08/25/20110825-59206.xml
+Original URL: http://www.klassekampen.no/artikler/59206/article/item/null 699 3 18 4710
+Source: KK
+Date: 2011-08-25
+Author: Johan Brox
+Language: nno
+Title: Strupar kontakt med SSB
+
+File 8
+File name in Norsk aviskorpus: KK/nno/2011/08/25/20110825-59207.xml
+Original URL: http://www.klassekampen.no/artikler/59207/article/item/null 223 4 6 1424
+Source: KK
+Date: 2011-08-25
+Author: 
+Language: nno
+Title: Villeiar om nye retningsliner
+
+File 9
+File name in Norsk aviskorpus: KK/nno/2011/08/26/20110826-59211.xml
+Original URL: http://www.klassekampen.no/artikler/59211/article/item/null 341 11 24 2105
+Source: KK
+Date: 2011-08-26
+Author: Bjørgulv Braanen
+Language: nno
+Title: Eldrestriden
+
+Klassekampen-nn 002
+===================
+
+File 1
+File name in Norsk aviskorpus: KK/nno/2005/08/01/20050801-7084.xml
+Original URL: http://www.klassekampen.no/artikler/7084/article/item/null 348 2 5 2103
+Source: KK
+Date: 2005-08-01
+Author: Håkon Kolmannskog
+Language: nno
+Title: Framleis tid
+
+File 2
+File name in Norsk aviskorpus: KK/nno/2005/08/01/20050801-7085.xml
+Original URL: http://www.klassekampen.no/artikler/7085/article/item/null 727 3 16 4402
+Source: KK
+Date: 2005-08-01
+Author: Håkon Kolmannskog
+Language: nno
+Title: Kallar partia inn på teppet
+
+File 3
+File name in Norsk aviskorpus: KK/nno/2005/08/05/20050805-7170.xml
+Original URL: http://www.klassekampen.no/artikler/7170/article/item/null 795 0 0 5351
+Source: KK
+Date: 2005-08-05
+Author: Alfred Fidjestøl
+Language: nno
+Title:  - Sutrete reformkritikk
+
+File 4
+File name in Norsk aviskorpus: KK/nno/2005/08/06/20050806-7209.xml
+Original URL: http://www.klassekampen.no/artikler/7209/article/item/null 1008 5 32 6242
+Source: KK
+Date: 2005-08-06
+Author: Guri Kulås
+Language: nno
+Title: Forboden munnsex på kino
+
+File 5
+File name in Norsk aviskorpus: KK/nno/2005/08/06/20050806-7218.xml
+Original URL: http://www.klassekampen.no/artikler/7218/article/item/null 1012 9 58 6041
+Source: KK
+Date: 2005-08-06
+Author: Erling Folkvord
+Language: nno
+Title: Hiroshima glømt?
+
+File 6
+File name in Norsk aviskorpus: KK/nno/2005/08/08/20050808-7234.xml
+Original URL: http://www.klassekampen.no/artikler/7234/article/item/null 723 0 4 4492
+Source: KK
+Date: 2005-08-08
+Author: Alfred Fidjestøl
+Language: nno
+Title:  - Utan klasseperspektiv
+
+File 7
+File name in Norsk aviskorpus: KK/nno/2005/08/09/20050809-7260.xml
+Original URL: http://www.klassekampen.no/artikler/7260/article/item/null 1062 0 3 6756
+Source: KK
+Date: 2005-08-09
+Author: Alfred Fidjestøl
+Language: nno
+Title: Damer for Duckert
+
+File 8
+File name in Norsk aviskorpus: KK/nno/2005/08/10/20050810-7284.xml
+Original URL: http://www.klassekampen.no/artikler/7284/article/item/null 1186 3 27 7758
+Source: KK
+Date: 2005-08-10
+Author: Alfred Fidjestøl
+Language: nno
+Title: Einstein i Bergen
+
+Klassekampen-nn 003
+===================
+Comment: Some sentences from these texts are not used in the corpus
+
+File 1
+File name in Norsk aviskorpus: KK/nno/2003/08/25/20030825-23729.xml
+Original URL: http://www.klassekampen.no/artikler/23729/article/item/null 2044 1 18 12441
+Source: KK
+Date: 2003-08-25
+Author: Olav Randen
+Language: nno
+Title: Å forstå ml-rørsla
+
+File 2
+File name in Norsk aviskorpus: KK/nno/2005/06/28/20050628-5798.xml
+Original URL: http://www.klassekampen.no/artikler/5798/article/item/null 1084 8 62 6916
+Source: KK
+Date: 2005-06-28
+Author: Guri Kulås
+Language: nno
+Title: Pessimisten bak klodekampen
+
+File 3
+File name in Norsk aviskorpus: KK/nno/2005/08/24/20050824-7805.xml
+Original URL: http://www.klassekampen.no/artikler/7805/article/item/null 749 0 0 4680
+Source: KK
+Date: 2005-08-24
+Author: Alfred Fidjestøl
+Language: nno
+Title: På tide med ein joggetur?
+
+File 4
+File name in Norsk aviskorpus: KK/nno/2005/08/24/20050824-7825.xml
+Original URL: http://www.klassekampen.no/artikler/7825/article/item/null 879 2 14 5430
+Source: KK
+Date: 2005-08-24
+Author: Magnhild Folkvord
+Language: nno
+Title: Vil leggja ned Utlendingsnemnda
+
+File 5
+File name in Norsk aviskorpus: KK/nno/2008/06/28/20080628-54907.xml
+Original URL: http://www.klassekampen.no/artikler/54907/article/item/null 755 1 8 5182
+Source: KK
+Date: 2008-06-28
+Author: Guri Kulås
+Language: nno
+Title: Språklov med ambisjonar
+
+File 6
+File name in Norsk aviskorpus: KK/nno/2010/06/28/20100628-57640.xml
+Original URL: http://www.klassekampen.no/artikler/57640/article/item/null 862 2 16 5369
+Source: KK
+Date: 2010-06-28
+Author: Johan Brox
+Language: nno
+Title: Kommunane neste ut
+
+File 7
+File name in Norsk aviskorpus: KK/nno/2011/08/01/20110801-59119.xml
+Original URL: http://www.klassekampen.no/artikler/59119/article/item/null 345 2 6 2085
+Source: KK
+Date: 2011-08-01
+Author: Alf Skjeseth
+Language: nno
+Title: Tynn tråd
+
+File 8
+File name in Norsk aviskorpus: KK/nno/2011/08/08/20110808-59146.xml
+Original URL: http://www.klassekampen.no/artikler/59146/article/item/null 693 9 42 4343
+Source: KK
+Date: 2011-08-08
+Author: Johan Brox
+Language: nno
+Title: Fjordman jobba i Hebron
+
+File 9
+File name in Norsk aviskorpus: KK/nno/2011/08/12/20110812-59161.xml
+Original URL: http://www.klassekampen.no/artikler/59161/article/item/null 631 2 8 3624
+Source: KK
+Date: 2011-08-12
+Author: Kjell-Erik Nordenson Kallset
+Language: nno
+Title: Englar og demonar
+
+File 10
+File name in Norsk aviskorpus: KK/nno/2011/08/15/20110815-59169.xml
+Original URL: http://www.klassekampen.no/artikler/59169/article/item/null 339 0 2 2105
+Source: KK
+Date: 2011-08-15
+Author: Bjørgulv Braanen
+Language: nno
+Title: Klassestraff
+
+File 11
+File name in Norsk aviskorpus: KK/nno/2011/08/22/20110822-59193.xml
+Original URL: http://www.klassekampen.no/artikler/59193/article/item/null 334 9 19 2098
+Source: KK
+Date: 2011-08-22
+Author: Johan Brox
+Language: nno
+Title: Bruktbilkjøp
+
+Klassekampen-nn 004
+===================
+
+File 1
+File name in Norsk aviskorpus: KK/nno/2005/02/01/20050201-844.xml
+Original URL: http://www.klassekampen.no/artikler/844/article/item/null 1439 5 47 8599
+Source: KK
+Date: 2005-02-01
+Author: Guri Kulås
+Language: nno
+Title:  - For mykje Hollywood
+
+File 2
+File name in Norsk aviskorpus: KK/nno/2005/02/01/20050201-852.xml
+Original URL: http://www.klassekampen.no/artikler/852/article/item/null 418 22 59 2625
+Source: KK
+Date: 2005-02-01
+Author: Magnus E. Marsdal
+Language: nno
+Title: Noreg flaggar ut mest
+
+File 3
+File name in Norsk aviskorpus: KK/nno/2005/02/02/20050202-859.xml
+Original URL: http://www.klassekampen.no/artikler/859/article/item/null 842 10 53 5270
+Source: KK
+Date: 2005-02-02
+Author: Magnhild Folkvord
+Language: nno
+Title: Sjukehus kan bli nedlagde
+
+File 4
+File name in Norsk aviskorpus: KK/nno/2005/02/04/20050204-949.xml
+Original URL: http://www.klassekampen.no/artikler/949/article/item/null 1092 8 57 6568
+Source: KK
+Date: 2005-02-04
+Author: Guri Kulås
+Language: nno
+Title: Korleis kan vi forstå?
+
+File 5
+File name in Norsk aviskorpus: KK/nno/2005/02/08/20050208-1057.xml
+Original URL: http://www.klassekampen.no/artikler/1057/article/item/null 969 1 8 6063
+Source: KK
+Date: 2005-02-08
+Author: Alfred Fidjestøl
+Language: nno
+Title: Universiteta - Clemet 2-0
+
+File 6
+File name in Norsk aviskorpus: KK/nno/2011/07/01/20110701-59010.xml
+Original URL: http://www.klassekampen.no/artikler/59010/article/item/null 345 0 0 2176
+Source: KK
+Date: 2011-07-01
+Author: Kjell-Erik N. Kallset
+Language: nno
+Title: Fellesskolen
+
+File 7
+File name in Norsk aviskorpus: KK/nno/2011/07/02/20110702-59014.xml
+Original URL: http://www.klassekampen.no/artikler/59014/article/item/null 362 11 25 2144
+Source: KK
+Date: 2011-07-02
+Author: Kjell-Erik N. Kallset
+Language: nno
+Title: Krigens offer
+
+File 8
+File name in Norsk aviskorpus: KK/nno/2011/07/05/20110705-59016.xml
+Original URL: http://www.klassekampen.no/artikler/59016/article/item/null 300 2 5 2078
+Source: KK
+Date: 2011-07-05
+Author: Alf Skjeseth
+Language: nno
+Title: Systemsvikt?
+
+File 9
+File name in Norsk aviskorpus: KK/nno/2011/07/06/20110706-59021.xml
+Original URL: http://www.klassekampen.no/artikler/59021/article/item/null 731 4 22 4565
+Source: KK
+Date: 2011-07-06
+Author: Magnhild Folkvord
+Language: nno
+Title: Helikopter stansa av rein
+
+File 10
+File name in Norsk aviskorpus: KK/nno/2011/07/08/20110708-59029.xml
+Original URL: http://www.klassekampen.no/artikler/59029/article/item/null 327 0 0 2084
+Source: KK
+Date: 2011-07-08
+Author: Alf Skjeseth
+Language: nno
+Title: Skjær i sjøen
+
+File 11
+File name in Norsk aviskorpus: KK/nno/2011/07/25/20110725-59090.xml
+Original URL: http://www.klassekampen.no/artikler/59090/article/item/null 697 6 30 4327
+Source: KK
+Date: 2011-07-25
+Author: Johan Brox
+Language: nno
+Title: Planlegg propagandasak
+
+File 12
+File name in Norsk aviskorpus: KK/nno/2011/07/29/20110729-59109.xml
+Original URL: http://www.klassekampen.no/artikler/59109/article/item/null 333 0 0 2121
+Source: KK
+Date: 2011-07-29
+Author: Alf Skjeseth
+Language: nno
+Title: Undertrykt?
+
+File 13
+File name in Norsk aviskorpus: KK/nno/2011/07/30/20110730-59113.xml
+Original URL: http://www.klassekampen.no/artikler/59113/article/item/null 333 6 14 2097
+Source: KK
+Date: 2011-07-30
+Author: Alf Skjeseth
+Language: nno
+Title: Farleg språk
+
+Klassekampen-nn 005
+===================
+
+File 1
+File name in Norsk aviskorpus: KK/nno/2011/05/05/20110505-58802.xml
+Original URL: http://www.klassekampen.no/artikler/58802/article/item/null 338 1 4 2125
+Source: KK
+Date: 2011-05-05
+Author: Kjell-Erik N. Kallset
+Language: nno
+Title: Vaskehjelp
+
+File 2
+File name in Norsk aviskorpus: KK/nno/2011/05/09/20110509-58814.xml
+Original URL: http://www.klassekampen.no/artikler/58814/article/item/null 335 9 20 2102
+Source: KK
+Date: 2011-05-09
+Author: Magnhild Folkvord
+Language: nno
+Title: Rekneskap
+
+File 3
+File name in Norsk aviskorpus: KK/nno/2011/05/09/20110509-58815.xml
+Original URL: http://www.klassekampen.no/artikler/58815/article/item/null 579 13 46 3519
+Source: KK
+Date: 2011-05-09
+Author: Johan Brox
+Language: nno
+Title: Vil hente jagarflya heim
+
+File 4
+File name in Norsk aviskorpus: KK/nno/2011/05/13/20110513-58835.xml
+Original URL: http://www.klassekampen.no/artikler/58835/article/item/null 665 0 4 4106
+Source: KK
+Date: 2011-05-13
+Author: Johan Brox#Alf Skjeseth
+Language: nno
+Title: Stoppar ikkje bombinga
+
+File 5
+File name in Norsk aviskorpus: KK/nno/2011/05/16/20110516-58850.xml
+Original URL: http://www.klassekampen.no/artikler/58850/article/item/null 333 0 0 2128
+Source: KK
+Date: 2011-05-16
+Author: Alf Skjeseth
+Language: nno
+Title: Sosialkontor
+
+File 6
+File name in Norsk aviskorpus: KK/nno/2011/05/23/20110523-58875.xml
+Original URL: http://www.klassekampen.no/artikler/58875/article/item/null 690 2 9 4169
+Source: KK
+Date: 2011-05-23
+Author: Johan Brox
+Language: nno
+Title: - Soldatane kjem i vegen
+
+File 7
+File name in Norsk aviskorpus: KK/nno/2011/05/25/20110525-58883.xml
+Original URL: http://www.klassekampen.no/artikler/58883/article/item/null 705 8 34 4206
+Source: KK
+Date: 2011-05-25
+Author: Johan Brox
+Language: nno
+Title: Nådelaust oppgjer med SV
+
+File 8
+File name in Norsk aviskorpus: KK/nno/2011/05/26/20110526-58891.xml
+Original URL: http://www.klassekampen.no/artikler/58891/article/item/null 889 2 13 5306
+Source: KK
+Date: 2011-05-26
+Author: Johan Brox
+Language: nno
+Title: - Dyrk ikkje avmakta
+
+File 9
+File name in Norsk aviskorpus: KK/nno/2011/05/29/20110529-58903.xml
+Original URL: http://www.klassekampen.no/artikler/58903/article/item/null 359 0 2 2134
+Source: KK
+Date: 2011-05-29
+Author: Alf Skjeseth
+Language: nno
+Title: Høgresida?
+
+Klassekampen-nn 006
+===================
+
+File 1
+File name in Norsk aviskorpus: KK/nno/2006/08/18/20060818-38671.xml
+Original URL: http://www.klassekampen.no/artikler/38671/article/item/null 2214 4 58 12303
+Source: KK
+Date: 2006-08-18
+Author: Olaug Nilssen
+Language: nno
+Title: Moderne bygdeheltinne
+
+File 2
+File name in Norsk aviskorpus: KK/nno/2007/03/24/20070324-44693.xml
+Original URL: http://www.klassekampen.no/artikler/44693/article/item/null 2681 9 147 15879
+Source: KK
+Date: 2007-03-24
+Author: Magnhild Folkvord
+Language: nno
+Title: Det er her dei vil vere
+
+File 3
+File name in Norsk aviskorpus: KK/nno/2010/09/25/20100925-57997.xml
+Original URL: http://www.klassekampen.no/artikler/57997/article/item/null 2462 3 55 16249
+Source: KK
+Date: 2010-09-25
+Author: Jon Hellesnes
+Language: nno
+Title: Frå ånd til materie
+
+Klassekampen-nn 007
+===================
+
+File 1
+File name in Norsk aviskorpus: KK/nno/2003/01/24/20030124-27894.xml
+Original URL: http://www.klassekampen.no/artikler/27894/article/item/null 1840 0 3 10322
+Source: KK
+Date: 2003-01-24
+Author: Guri Kulås
+Language: nno
+Title: Arbeidarhelt eller reaksjonær?
+
+File 2
+File name in Norsk aviskorpus: KK/nno/2003/02/04/20030204-26839.xml
+Original URL: http://www.klassekampen.no/artikler/26839/article/item/null 1492 4 37 8822
+Source: KK
+Date: 2003-02-04
+Author: Magnus E. Marsdal
+Language: nno
+Title: NHO med Gats i blikket
+
+File 3
+File name in Norsk aviskorpus: KK/nno/2003/08/04/20030804-23304.xml
+Original URL: http://www.klassekampen.no/artikler/23304/article/item/null 1498 9 93 9900
+Source: KK
+Date: 2003-08-04
+Author: Guri Kulås
+Language: nno
+Title: Teknoalderen sin Frankenstein
+
+File 4
+File name in Norsk aviskorpus: KK/nno/2005/04/06/20050406-2630.xml
+Original URL: http://www.klassekampen.no/artikler/2630/article/item/null 1532 3 37 9894
+Source: KK
+Date: 2005-04-06
+Author: Astrid S. Dypvik
+Language: nno
+Title: Vann folket med plyndring
+
+File 5
+File name in Norsk aviskorpus: KK/nno/2006/08/03/20060803-38315.xml
+Original URL: http://www.klassekampen.no/artikler/38315/article/item/null 1742 6 78 12130
+Source: KK
+Date: 2006-08-03
+Author: Svein Tuastad
+Language: nno
+Title: Liberal modernisering
+
+File 6
+File name in Norsk aviskorpus: KK/nno/2006/11/08/20061108-41200.xml
+Original URL: http://www.klassekampen.no/artikler/41200/article/item/null 1669 4 45 10415
+Source: KK
+Date: 2006-11-08
+Author: Bothild Nordsletten
+Language: nno
+Title: Etter Anna
+
+File 7
+File name in Norsk aviskorpus: KK/nno/2011/02/21/20110221-58618.xml
+Original URL: http://www.klassekampen.no/artikler/58618/article/item/null 353 4 10 2153
+Source: KK
+Date: 2011-02-21
+Author: Johan Brox
+Language: nno
+Title: Om ansvar
+
+Vest-Telemark Blad-nn 001
+=========================
+
+File 1
+File name in Norsk aviskorpus: VT/nno/2003/12/23/20031223-1652.xml
+Original URL: http://www.vtb.no/vis.php?id=1652 2287 3 37 11959
+Source: VT
+Date: 2003-12-23
+Author: Kjersti Nordskog
+Language: nno
+Title: Med plass i herberget
+
+File 2
+File name in Norsk aviskorpus: VT/nno/2004/10/16/20041016-2036.xml
+Original URL: http://www.vtb.no/vis.php?id=2036 656 10 38 3674
+Source: VT
+Date: 2004-10-16
+Author: Bjart Schieldrop
+Language: nno
+Title: Ny sag gjer skurtømmeret meir verdfullt
+
+File 3
+File name in Norsk aviskorpus: VT/nno/2011/11/17/20111117-5403.xml
+Original URL: http://www.vtb.no/vis.php?id=5403 852 4 24 4852
+Source: VT
+Date: 2011-11-17
+Author: Stein Olav Lie
+Language: nno
+Title: Statsminister på Vest-Telemarkvisitt
+
+Vest-Telemark Blad-nn 002
+=========================
+
+File 1
+File name in Norsk aviskorpus: VT/nno/2004/04/01/20040401-1780.xml
+Original URL: http://www.vtb.no/vis.php?id=1780 555 4 16 3244
+Source: VT
+Date: 2004-04-01
+Author: Geir Ufs
+Language: nno
+Title: Til kamp mot fylkeskommunen
+
+File 2
+File name in Norsk aviskorpus: VT/nno/2004/04/01/20040401-1781.xml
+Original URL: http://www.vtb.no/vis.php?id=1781 557 6 22 3444
+Source: VT
+Date: 2004-04-01
+Author: Kjersti Nordskog
+Language: nno
+Title: Fleirbrukshus til 42 millionar
+
+File 3
+File name in Norsk aviskorpus: VT/nno/2004/04/01/20040401-1782.xml
+Original URL: http://www.vtb.no/vis.php?id=1782 403 6 13 1992
+Source: VT
+Date: 2004-04-01
+Author: Kjersti Nordskog
+Language: nno
+Title: Grunnsteinen blir lagt på Dalen
+
+Vest-Telemark Blad-nn 003
+=========================
+
+File 1
+File name in Norsk aviskorpus: VT/nno/2000/10/26/20001026-223.xml
+Original URL: http://www.vtb.no/vis.php?id=223 510 6 19 2956
+Source: VT
+Date: 2000-10-26
+Author: Geir Ufs
+Language: nno
+Title: Privatisering av vegar i byggjefelt
+
+File 2
+File name in Norsk aviskorpus: VT/nno/2000/10/26/20001026-224.xml
+Original URL: http://www.vtb.no/vis.php?id=224 429 7 18 2511
+Source: VT
+Date: 2000-10-26
+Author: Hans Eivind Øygarden
+Language: nno
+Title: Kvitsund-ros heilt opp til statsministeren
+
+File 3
+File name in Norsk aviskorpus: VT/nno/2000/10/26/20001026-225.xml
+Original URL: http://www.vtb.no/vis.php?id=225 508 2 7 2838
+Source: VT
+Date: 2000-10-26
+Author: Anne Sofie Tresland
+Language: nno
+Title: Satsar på nisjeprodukt i kjøtbransjen
+
+File 4
+File name in Norsk aviskorpus: VT/nno/2003/04/05/20030405-1298.xml
+Original URL: http://www.vtb.no/vis.php?id=1298 203 3 4 1055
+Source: VT
+Date: 2003-04-05
+Author: 
+Language: nno
+Title: - Må tenkje nytt i skogbruket
+
+File 5
+File name in Norsk aviskorpus: VT/nno/2003/04/05/20030405-1299.xml
+Original URL: http://www.vtb.no/vis.php?id=1299 212 1 2 1148
+Source: VT
+Date: 2003-04-05
+Author: 
+Language: nno
+Title: Vil ha lokale førarkort
+
+File 6
+File name in Norsk aviskorpus: VT/nno/2003/04/05/20030405-1301.xml
+Original URL: http://www.vtb.no/vis.php?id=1301 167 8 8 892 %%
+Source: VT
+Date: 2003-04-05
+Author: 
+Language: nno
+Title: Utvikling av skisenter gav reiselivspris
+
+File 7
+File name in Norsk aviskorpus: VT/nno/2003/05/13/20030513-1338.xml
+Original URL: http://www.vtb.no/vis.php?id=1338 213 25 28 1095
+Source: VT
+Date: 2003-05-13
+Author: 
+Language: nno
+Title: Armoda råkar også rikingen
+
+File 8
+File name in Norsk aviskorpus: VT/nno/2003/05/13/20030513-1339.xml
+Original URL: http://www.vtb.no/vis.php?id=1339 198 21 22 1015 %%
+Source: VT
+Date: 2003-05-13
+Author: 
+Language: nno
+Title: Stal for 400.000 kroner
+
+File 9
+File name in Norsk aviskorpus: VT/nno/2003/05/13/20030513-1340.xml
+Original URL: http://www.vtb.no/vis.php?id=1340 201 12 12 982
+Source: VT
+Date: 2003-05-13
+Author: 
+Language: nno
+Title: Kremmarar i tri generasjonar
+
+File 10
+File name in Norsk aviskorpus: VT/nno/2003/11/11/20031111-1590.xml
+Original URL: http://www.vtb.no/vis.php?id=1590 1122 3 17 5632
+Source: VT
+Date: 2003-11-11
+Author: Svein Halvor Moe
+Language: nno
+Title: Finalehelten
+
+File 11
+File name in Norsk aviskorpus: VT/nno/2003/11/11/20031111-1591.xml
+Original URL: http://www.vtb.no/vis.php?id=1591 800 8 40 4687
+Source: VT
+Date: 2003-11-11
+Author: Geir Ufs
+Language: nno
+Title: Håpar på eit endå betre barnevern
+
+File 12
+File name in Norsk aviskorpus: VT/nno/2003/11/11/20031111-1592.xml
+Original URL: http://www.vtb.no/vis.php?id=1592 900 7 39 4993
+Source: VT
+Date: 2003-11-11
+Author: Anne Nordskog
+Language: nno
+Title: Internatet kan bli lagt ned
+
+File 13
+File name in Norsk aviskorpus: VT/nno/2005/06/28/20050628-2383.xml
+Original URL: http://www.vtb.no/vis.php?id=2383 795 11 50 4313
+Source: VT
+Date: 2005-06-28
+Author: Signe Vinje
+Language: nno
+Title: Vassekte verdsrekord
+
+File 14
+File name in Norsk aviskorpus: VT/nno/2005/06/28/20050628-2384.xml
+Original URL: http://www.vtb.no/vis.php?id=2384 661 9 35 3786
+Source: VT
+Date: 2005-06-28
+Author: Bjart Schieldrop
+Language: nno
+Title: - Sogelandet kjem attande neste sommar
+
+File 15
+File name in Norsk aviskorpus: VT/nno/2005/06/28/20050628-2385.xml
+Original URL: http://www.vtb.no/vis.php?id=2385 418 7 18 2387
+Source: VT
+Date: 2005-06-28
+Author: Anne Sofie Tresland
+Language: nno
+Title: Topplasseringar på Landskappleiken
+
+Vest-Telemark Blad-nn 004
+=========================
+
+File 1
+File name in Norsk aviskorpus: VT/nno/2002/04/13/20020413-808.xml
+Original URL: http://www.vtb.no/vis.php?id=808 609 2 7 3279
+Source: VT
+Date: 2002-04-13
+Author: Erling Brauti
+Language: nno
+Title: Lagt i ruinar av brann
+
+File 2
+File name in Norsk aviskorpus: VT/nno/2002/04/13/20020413-809.xml
+Original URL: http://www.vtb.no/vis.php?id=809 670 2 8 3671
+Source: VT
+Date: 2002-04-13
+Author: Anne Sofie Tresland
+Language: nno
+Title: Bygdeopprør for legen og legekontoret
+
+File 3
+File name in Norsk aviskorpus: VT/nno/2002/04/13/20020413-810.xml
+Original URL: http://www.vtb.no/vis.php?id=810 451 3 9 2498
+Source: VT
+Date: 2002-04-13
+Author: Anne Sofie Tresland
+Language: nno
+Title: - Musea fortener fleire fagfolk
+
+File 4
+File name in Norsk aviskorpus: VT/nno/2005/09/15/20050915-2499.xml
+Original URL: http://www.vtb.no/vis.php?id=2499 786 9 40 4328
+Source: VT
+Date: 2005-09-15
+Author: Bjart Schieldrop
+Language: nno
+Title: Fleirbrukshuset er attende på startstreken
+
+File 5
+File name in Norsk aviskorpus: VT/nno/2005/09/15/20050915-2500.xml
+Original URL: http://www.vtb.no/vis.php?id=2500 999 7 39 5553
+Source: VT
+Date: 2005-09-15
+Author: Bjart Schieldrop
+Language: nno
+Title: Valskred for Arbeidarpartiet og Frp
+
+File 6
+File name in Norsk aviskorpus: VT/nno/2005/09/15/20050915-2501.xml
+Original URL: http://www.vtb.no/vis.php?id=2501 452 4 11 2552
+Source: VT
+Date: 2005-09-15
+Author: Øystein Øygarden
+Language: nno
+Title: Fekk det fyrste Gandhistipendet
+
+File 7
+File name in Norsk aviskorpus: VT/nno/2007/12/18/20071218-3583.xml
+Original URL: http://www.vtb.no/vis.php?id=3583 495 2 6 2504
+Source: VT
+Date: 2007-12-18
+Author: Else Børte
+Language: nno
+Title: Nissespik på lærarkontoret
+
+File 8
+File name in Norsk aviskorpus: VT/nno/2007/12/18/20071218-3584.xml
+Original URL: http://www.vtb.no/vis.php?id=3584 498 6 18 2628
+Source: VT
+Date: 2007-12-18
+Author: Marta Kjøllesdal
+Language: nno
+Title: Vil fylle steinbrot med vatn
+
+File 9
+File name in Norsk aviskorpus: VT/nno/2007/12/18/20071218-3585.xml
+Original URL: http://www.vtb.no/vis.php?id=3585 455 8 19 2347
+Source: VT
+Date: 2007-12-18
+Author: Øystein Øygarden
+Language: nno
+Title: Til Finland med sjølvtillit
+
+File 10
+File name in Norsk aviskorpus: VT/nno/2008/04/29/20080429-3743.xml
+Original URL: http://www.vtb.no/vis.php?id=3743 910 27 142 5128
+Source: VT
+Date: 2008-04-29
+Author: Bjart Schieldrop
+Language: nno
+Title: Blått ljos for Sogelandet
+
+File 11
+File name in Norsk aviskorpus: VT/nno/2008/04/29/20080429-3744.xml
+Original URL: http://www.vtb.no/vis.php?id=3744 413 28 68 2422
+Source: VT
+Date: 2008-04-29
+Author: Øystein Øygarden
+Language: nno
+Title: Handlar mest av telemarkingane
+
+File 12
+File name in Norsk aviskorpus: VT/nno/2008/04/29/20080429-3745.xml
+Original URL: http://www.vtb.no/vis.php?id=3745 287 7 12 1531
+Source: VT
+Date: 2008-04-29
+Author: Bjart Schieldrop
+Language: nno
+Title: Henry Mæland ny dyrsku-general
+
+Vest-Telemark Blad-nn 005
+=========================
+Comment: Some sentences from these texts are not used in the corpus
+
+File 1
+File name in Norsk aviskorpus: VT/nno/2003/09/02/20030902-1488.xml
+Original URL: http://www.vtb.no/vis.php?id=1488 834 7 34 4580
+Source: VT
+Date: 2003-09-02
+Author: Erling Brauti
+Language: nno
+Title: Vil leggje ned asylmottaket
+
+File 2
+File name in Norsk aviskorpus: VT/nno/2003/09/02/20030902-1489.xml
+Original URL: http://www.vtb.no/vis.php?id=1489 830 1 8 4290
+Source: VT
+Date: 2003-09-02
+Author: Geir Ufs
+Language: nno
+Title: Siktar mot heildagsskule
+
+File 3
+File name in Norsk aviskorpus: VT/nno/2003/09/02/20030902-1490.xml
+Original URL: http://www.vtb.no/vis.php?id=1490 835 0 0 4231
+Source: VT
+Date: 2003-09-02
+Author: Anne Nordskog
+Language: nno
+Title: - Meistring skaper livsvarige band
+
+File 4
+File name in Norsk aviskorpus: VT/nno/2003/09/04/20030904-1491.xml
+Original URL: http://www.vtb.no/vis.php?id=1491 425 12 31 2532
+Source: VT
+Date: 2003-09-04
+Author: Erling Brauti
+Language: nno
+Title: - Frp-politikk vil rasere Vest-Telemark
+
+File 5
+File name in Norsk aviskorpus: VT/nno/2003/09/04/20030904-1492.xml
+Original URL: http://www.vtb.no/vis.php?id=1492 598 2 8 3085
+Source: VT
+Date: 2003-09-04
+Author: Geir Ufs
+Language: nno
+Title: Vegstell som pirrar flyttelysta
+
+File 6
+File name in Norsk aviskorpus: VT/nno/2003/09/04/20030904-1494.xml
+Original URL: http://www.vtb.no/vis.php?id=1494 296 1 2 1729
+Source: VT
+Date: 2003-09-04
+Author: Anne Nordskog
+Language: nno
+Title: Gjev fri for å demonstrere
+
+File 7
+File name in Norsk aviskorpus: VT/nno/2003/09/06/20030906-1495.xml
+Original URL: http://www.vtb.no/vis.php?id=1495 470 1 4 2526
+Source: VT
+Date: 2003-09-06
+Author: Geir Ufs
+Language: nno
+Title: Tolvåringar tatt med alkohol på skuletur
+
+File 8
+File name in Norsk aviskorpus: VT/nno/2003/09/06/20030906-1497.xml
+Original URL: http://www.vtb.no/vis.php?id=1497 736 10 40 3933
+Source: VT
+Date: 2003-09-06
+Author: Tore Skaug
+Language: nno
+Title: Ragnvald Skrede blei aldri dømt av raulendingane
+
+File 9
+File name in Norsk aviskorpus: VT/nno/2003/09/09/20030909-1499.xml
+Original URL: http://www.vtb.no/vis.php?id=1499 1204 4 33 6615
+Source: VT
+Date: 2003-09-09
+Author: Erling Brauti#Anne Nordskog
+Language: nno
+Title: - Lause påstandar om asylmottaket
+
+File 10
+File name in Norsk aviskorpus: VT/nno/2003/09/09/20030909-1500.xml
+Original URL: http://www.vtb.no/vis.php?id=1500 472 3 9 2792
+Source: VT
+Date: 2003-09-09
+Author: Øystein Øygarden
+Language: nno
+Title: - Grunnlause skuldingar frå Senterpartiet
+
+File 11
+File name in Norsk aviskorpus: VT/nno/2003/09/09/20030909-1502.xml
+Original URL: http://www.vtb.no/vis.php?id=1502 497 1 5 2729
+Source: VT
+Date: 2003-09-09
+Author: Anne Nordskog
+Language: nno
+Title: Jordeplegraut frå generasjon til generasjon
+
+File 12
+File name in Norsk aviskorpus: VT/nno/2003/09/30/20030930-1530.xml
+Original URL: http://www.vtb.no/vis.php?id=1530 434 7 18 2363
+Source: VT
+Date: 2003-09-30
+Author: Anne Nordskog
+Language: nno
+Title: Dugnad gav ny barnehage
+
+File 13
+File name in Norsk aviskorpus: VT/nno/2003/09/30/20030930-1531.xml
+Original URL: http://www.vtb.no/vis.php?id=1531 1196 2 14 5445
+Source: VT
+Date: 2003-09-30
+Author: Håkon Grestad
+Language: nno
+Title: Frå Holmestrand til Loch Ness
+
+File 14
+File name in Norsk aviskorpus: VT/nno/2003/09/30/20030930-1532.xml
+Original URL: http://www.vtb.no/vis.php?id=1532 966 11 61 5337
+Source: VT
+Date: 2003-09-30
+Author: Øystein Øygarden
+Language: nno
+Title: Lyrisk festkveld for Aslaug Vaa
+
+Vest-Telemark Blad-nn 006
+=========================
+
+File 1
+File name in Norsk aviskorpus: VT/nno/2001/09/01/20010901-536.xml
+Original URL: http://www.vtb.no/vis.php?id=536 535 0 3 3161
+Source: VT
+Date: 2001-09-01
+Author: Geir Ufs
+Language: nno
+Title: Samarbeid kan gje kommunesamanslåing
+
+File 2
+File name in Norsk aviskorpus: VT/nno/2001/09/01/20010901-537.xml
+Original URL: http://www.vtb.no/vis.php?id=537 507 0 3 3086
+Source: VT
+Date: 2001-09-01
+Author: Knut Espelid
+Language: nno
+Title: Avviser reglar for lydforsterking
+
+File 3
+File name in Norsk aviskorpus: VT/nno/2001/09/01/20010901-538.xml
+Original URL: http://www.vtb.no/vis.php?id=538 371 0 0 2125
+Source: VT
+Date: 2001-09-01
+Author: Tone Tveit
+Language: nno
+Title: Statsråd vitja Kviteseid
+
+File 4
+File name in Norsk aviskorpus: VT/nno/2001/09/04/20010904-539.xml
+Original URL: http://www.vtb.no/vis.php?id=539 549 3 11 3290
+Source: VT
+Date: 2001-09-04
+Author: Geir Ufs
+Language: nno
+Title: Refsar fylket for laber veginnsats
+
+File 5
+File name in Norsk aviskorpus: VT/nno/2001/09/04/20010904-540.xml
+Original URL: http://www.vtb.no/vis.php?id=540 548 4 14 2804
+Source: VT
+Date: 2001-09-04
+Author: Geir Ufs
+Language: nno
+Title: Nytt opprykk for Fyresdal ..men ikkje sikkert dei har lag neste år
+
+File 6
+File name in Norsk aviskorpus: VT/nno/2001/09/04/20010904-541.xml
+Original URL: http://www.vtb.no/vis.php?id=541 736 1 8 4181
+Source: VT
+Date: 2001-09-04
+Author: Knut Espelid
+Language: nno
+Title: - Få folk forbanna!
+
+File 7
+File name in Norsk aviskorpus: VT/nno/2001/09/06/20010906-542.xml
+Original URL: http://www.vtb.no/vis.php?id=542 395 5 11 2191
+Source: VT
+Date: 2001-09-06
+Author: Merete Loftsgarden
+Language: nno
+Title: - Pol til Dalen
+
+File 8
+File name in Norsk aviskorpus: VT/nno/2001/09/06/20010906-543.xml
+Original URL: http://www.vtb.no/vis.php?id=543 471 0 2 2412
+Source: VT
+Date: 2001-09-06
+Author: Geir Ufs
+Language: nno
+Title: - Indirekte miljøkriminalitet
+
+File 9
+File name in Norsk aviskorpus: VT/nno/2001/09/06/20010906-544.xml
+Original URL: http://www.vtb.no/vis.php?id=544 557 8 27 3199
+Source: VT
+Date: 2001-09-06
+Author: Geir Ufs
+Language: nno
+Title: Spennande cupfinalar
+
+File 10
+File name in Norsk aviskorpus: VT/nno/2001/09/08/20010908-545.xml
+Original URL: http://www.vtb.no/vis.php?id=545 543 7 23 3150
+Source: VT
+Date: 2001-09-08
+Author: Tone Tveit
+Language: nno
+Title: Ugyldig hastevedtak
+
+File 11
+File name in Norsk aviskorpus: VT/nno/2001/09/08/20010908-546.xml
+Original URL: http://www.vtb.no/vis.php?id=546 283 2 4 1441
+Source: VT
+Date: 2001-09-08
+Author: Merete Loftsgarden
+Language: nno
+Title: Lokalradioen intakt trass truslar
+
+File 12
+File name in Norsk aviskorpus: VT/nno/2001/09/08/20010908-547.xml
+Original URL: http://www.vtb.no/vis.php?id=547 530 4 13 2794
+Source: VT
+Date: 2001-09-08
+Author: Anne Sofie Tresland
+Language: nno
+Title: Glødande farvel til partipolitikk og meiningsfeller
+
+File 13
+File name in Norsk aviskorpus: VT/nno/2007/04/03/20070403-3232.xml
+Original URL: http://www.vtb.no/vis.php?id=3232 456 7 18 2358
+Source: VT
+Date: 2007-04-03
+Author: Rune Helle
+Language: nno
+Title: Dobbeltriumfen
+
+File 14
+File name in Norsk aviskorpus: VT/nno/2007/04/03/20070403-3233.xml
+Original URL: http://www.vtb.no/vis.php?id=3233 715 8 30 3633
+Source: VT
+Date: 2007-04-03
+Author: Inger Johanne Midtgarden
+Language: nno
+Title: På plass i påska
+
+File 15
+File name in Norsk aviskorpus: VT/nno/2007/04/03/20070403-3234.xml
+Original URL: http://www.vtb.no/vis.php?id=3234 1028 2 14 4723
+Source: VT
+Date: 2007-04-03
+Author: Geir Ufs
+Language: nno
+Title: Medmenneske i skogsleiren
+
+Vest-Telemark Blad-nn 007
+=========================
+
+File 1
+File name in Norsk aviskorpus: VT/nno/2009/06/20/20090620-4269.xml
+Original URL: http://www.vtb.no/vis.php?id=4269 632 3 10 3227
+Source: VT
+Date: 2009-06-20
+Author: Randi Berdal Hagen
+Language: nno
+Title: Ut i den store verda
+
+File 2
+File name in Norsk aviskorpus: VT/nno/2009/06/20/20090620-4270.xml
+Original URL: http://www.vtb.no/vis.php?id=4270 576 0 2 3149
+Source: VT
+Date: 2009-06-20
+Author: Geir Ufs
+Language: nno
+Title: Flyttar etter nei til skulebyte
+
+File 3
+File name in Norsk aviskorpus: VT/nno/2009/06/20/20090620-4271.xml
+Original URL: http://www.vtb.no/vis.php?id=4271 437 13 33 2409
+Source: VT
+Date: 2009-06-20
+Author: Audny Barstad
+Language: nno
+Title: Orgelsus i kyrkja att
+
+File 4
+File name in Norsk aviskorpus: VT/nno/2009/06/23/20090623-4272.xml
+Original URL: http://www.vtb.no/vis.php?id=4272 492 8 23 2601
+Source: VT
+Date: 2009-06-23
+Author: Randi Berdal Hagen
+Language: nno
+Title: - Stolt dag for Vest-Telemark
+
+File 5
+File name in Norsk aviskorpus: VT/nno/2009/06/23/20090623-4273.xml
+Original URL: http://www.vtb.no/vis.php?id=4273 354 2 5 1930
+Source: VT
+Date: 2009-06-23
+Author: Dag Svartdal
+Language: nno
+Title: Avfallsproblem i Haukeli
+
+File 6
+File name in Norsk aviskorpus: VT/nno/2009/06/23/20090623-4274.xml
+Original URL: http://www.vtb.no/vis.php?id=4274 364 0 2 2003
+Source: VT
+Date: 2009-06-23
+Author: Randi Berdal Hagen
+Language: nno
+Title: Overraska med litauisk ærespris
+
+File 7
+File name in Norsk aviskorpus: VT/nno/2009/06/25/20090625-4275.xml
+Original URL: http://www.vtb.no/vis.php?id=4275 488 4 12 2568
+Source: VT
+Date: 2009-06-25
+Author: Stein Olav Lie
+Language: nno
+Title: «Marie Claire» er klar
+
+File 8
+File name in Norsk aviskorpus: VT/nno/2009/06/25/20090625-4276.xml
+Original URL: http://www.vtb.no/vis.php?id=4276 656 7 26 3463
+Source: VT
+Date: 2009-06-25
+Author: Dag Svartdal
+Language: nno
+Title: Fotballfeber i Fyresdal
+
+File 9
+File name in Norsk aviskorpus: VT/nno/2009/06/25/20090625-4277.xml
+Original URL: http://www.vtb.no/vis.php?id=4277 540 2 6 2924
+Source: VT
+Date: 2009-06-25
+Author: Randi Berdal Hagen
+Language: nno
+Title: - Foreldra er den viktigaste rollemodellen
+
+File 10
+File name in Norsk aviskorpus: VT/nno/2009/06/27/20090627-4278.xml
+Original URL: http://www.vtb.no/vis.php?id=4278 878 10 52 4754
+Source: VT
+Date: 2009-06-27
+Author: Audny Barstad
+Language: nno
+Title: Ser ein auke i barnevernssaker
+
+File 11
+File name in Norsk aviskorpus: VT/nno/2009/06/27/20090627-4279.xml
+Original URL: http://www.vtb.no/vis.php?id=4279 413 12 29 2373
+Source: VT
+Date: 2009-06-27
+Author: Audny Barstad
+Language: nno
+Title: Pilegrimstur på «apostlanes hestar»
+
+File 12
+File name in Norsk aviskorpus: VT/nno/2009/06/27/20090627-4280.xml
+Original URL: http://www.vtb.no/vis.php?id=4280 782 21 88 4135
+Source: VT
+Date: 2009-06-27
+Author: Geir Ufs
+Language: nno
+Title: Har sikta inn fulltreffar av ei reinstamme
