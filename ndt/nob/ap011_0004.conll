@@ -1,0 +1,22 @@
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	FSUBJ	_	name=O
+2	kan	kunne	verb	verb	pres	0	FINV	_	name=O
+3	være	være	verb	verb	inf	2	INFV	_	name=O
+4	en	en	det	det	mask|ent|kvant	6	DET	_	name=O
+5	god	god	adj	adj	ub|m/f|ent|pos	6	ATR	_	name=O
+6	idé	idé	subst	subst	appell|mask|ub|ent	3	SPRED	_	name=O
+7	å	å	inf-merke	inf-merke	_	3	PSUBJ	_	name=O
+8	snakke	snakke	verb	verb	inf	7	INFV	_	name=O
+9	med	med	prep	prep	_	8	ADV	_	name=O
+10	både	både	konj	konj	<ikke-clb>|<adv>	11	KONJ	_	name=O
+11	A	A	subst	subst	prop	9	PUTFYLL	_	name=B-PER
+12	og	og	konj	konj	<ikke-clb>	13	KONJ	_	name=O
+13	B	B	subst	subst	prop	11	KOORD	_	name=B-PER
+14	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O
+2	kan	kunne	verb	verb	pres	0	FINV	_	name=O
+3	gjerne	gjerne	adv	adv	_	4	ADV	_	name=O
+4	formidle	formidle	verb	verb	inf	2	INFV	_	name=O
+5	kontakt	kontakt	subst	subst	appell|mask|ub|ent	4	DOBJ	_	name=O
+6	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+

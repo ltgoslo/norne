@@ -1,0 +1,10 @@
+1	-	$-	<strek>	<strek>	_	2	IK	_	name=O
+2	Uff	uff	interj	interj	_	0	INTERJ	_	name=O
+3	,	$,	<komma>	<komma>	_	2	IK	_	name=O
+4	ja	ja	interj	interj	_	2	KOORD	_	name=O
+5	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	-	$-	<strek>	<strek>	_	2	IK	_	name=O
+2	Uff	uff	interj	interj	_	0	INTERJ	_	name=O
+3	?	$?	clb	clb	<spm>	2	IP	_	name=O
+

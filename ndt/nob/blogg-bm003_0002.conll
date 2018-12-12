@@ -1,0 +1,938 @@
+1	Ser	se	verb	verb	pres	0	FINV	_	name=O
+2	den	den	pron	pron	mask|fem|ent|pers|3	1	DOBJ	_	name=O
+3	inn	inn	prep	prep	_	1	ADV	_	name=O
+4	i	i	prep	prep	_	3	PUTFYLL	_	name=O
+5	øynene	øye	subst	subst	appell|nøyt|be|fl	4	PUTFYLL	_	name=O
+6	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Hører	høre	verb	verb	pres	0	FINV	_	name=O
+2	oppvaksmaskinen	oppvaksmaskin	subst	subst	appell|mask|be|ent|samset	3	SUBJ	_	name=O
+3	lukkes	lukke	verb	verb	pres|pass	1	DOBJ	_	name=O
+4	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	SUBJ	_	name=O
+2	holder	holde	verb	verb	pres	0	FINV	_	name=O
+3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Selv	selv	adv	adv	_	2	ADV	_	name=O
+2	om	om	sbu	sbu	_	5	SBU	_	name=O
+3	det	det	pron	pron	nøyt|ent|pers|3	5	SUBJ	_	name=O
+4	sikkert	sikker	adj	adj	nøyt|ub|ent|pos	5	ADV	_	name=O
+5	er	være	verb	verb	pres	0	FINV	_	name=O
+6	mer	mye	adj	adj	komp	5	SPRED	_	name=O
+7	.	$.	clb	clb	<punkt>	5	IP	_	name=O
+
+1	Flere	mange	adj	adj	komp	3	ATR	_	name=O
+2	små	liten	adj	adj	fl|pos	3	ATR	_	name=O
+3	prosjeter	prosjekt	subst	subst	appell|nøyt|ub|fl|unorm	0	FRAG	_	name=O
+4	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Små	liten	adj	adj	fl|pos	2	ATR	_	name=O
+2	vitnesbyrd	vitnesbyrd	subst	subst	appell|nøyt|ub|fl	0	FRAG	_	name=O
+3	om	om	prep	prep	_	2	ATR	_	name=O
+4	stunder	stund	subst	subst	appell|fem|ub|fl	3	PUTFYLL	_	name=O
+5	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Men	men	konj	konj	<ikke-clb>	3	KONJ	_	name=O
+2	det	det	pron	pron	nøyt|ent|pers|3	3	SUBJ	_	name=O
+3	kan	kunne	verb	verb	pres	0	FINV	_	name=O
+4	vente	vente	verb	verb	inf	3	INFV	_	name=O
+5	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Til	til	prep	prep	_	0	FRAG	_	name=O
+2	i	i	prep	prep	_	1	PUTFYLL	_	name=O
+3	morgen	morgen	subst	subst	appell|mask|ub|ent	2	PUTFYLL	_	name=O
+4	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Til	til	prep	prep	_	0	FRAG	_	name=O
+2	fortsettelsen	fortsettelse	subst	subst	appell|mask|be|ent	1	PUTFYLL	_	name=O
+3	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Misunnelig	misunnelig	adj	adj	nøyt|ub|ent|pos	0	FRAG	_	name=O
+2	?	$?	clb	clb	<spm>	1	IP	_	name=O
+
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O
+2	trodde	tro	verb	verb	pret	0	FINV	_	name=O
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	5	SUBJ	_	name=O
+4	ikke	ikke	adv	adv	_	5	ADV	_	name=O
+5	lot	late	verb	verb	pret	2	DOBJ	_	name=O
+6	meg	jeg	pron	pron	ent|pers|hum|akk|1	5	IOBJ	_	name=O
+7	påvirke	påvirke	verb	verb	inf	5	DOBJ	_	name=O
+8	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Misunne	misunne	verb	verb	inf	0	FRAG	_	name=O
+2	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Av	av	prep	prep	_	0	FRAG	_	name=O
+2	fine	fin	adj	adj	fl|pos	3	ATR	_	name=O
+3	bilder	bilde	subst	subst	appell|nøyt|ub|fl	1	PUTFYLL	_	name=O
+4	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O
+2	blar	bla	verb	verb	pres	0	FINV	_	name=O
+3	med	med	prep	prep	_	2	ADV	_	name=O
+4	lett	lett	adj	adj	nøyt|ub|ent|pos	5	ATR	_	name=O
+5	hjerte	hjerte	subst	subst	appell|nøyt|ub|ent	3	PUTFYLL	_	name=O
+6	gjennom	gjennom	prep	prep	_	2	ADV	_	name=O
+7	bilder	bilde	subst	subst	appell|nøyt|ub|fl	6	PUTFYLL	_	name=O
+8	av	av	prep	prep	_	7	ATR	_	name=O
+9	kaffe	kaffe	subst	subst	appell|mask|ub|ent	8	PUTFYLL	_	name=O
+10	og	og	konj	konj	<ikke-clb>	11	KONJ	_	name=O
+11	hjemmebakst	hjemmebakst	subst	subst	appell|mask|ub|ent	9	KOORD	_	name=O
+12	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Legger	legge	verb	verb	pres	0	FINV	_	name=O
+2	kanskje	kanskje	adv	adv	_	1	ADV	_	name=O
+3	igjen	igjen	adv	adv	_	1	ADV	_	name=O
+4	et	en	det	det	nøyt|ent|kvant	6	DET	_	name=O
+5	lite	lite	adj	adj	nøyt|ub|ent|pos	6	ATR	_	name=O
+6	hjerte	hjerte	subst	subst	appell|nøyt|ub|ent	1	DOBJ	_	name=O
+7	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Muligens	muligens	adv	adv	_	2	ADV	_	name=O
+2	fordi	fordi	sbu	sbu	_	4	SBU	_	name=O
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	4	SUBJ	_	name=O
+4	synes	synes	verb	verb	pres|<s-verb>	0	FINV	_	name=O
+5	jeg	jeg	pron	pron	ent|pers|hum|nom|1	6	SUBJ	_	name=O
+6	får	få	verb	verb	pres	4	DOBJ	_	name=O
+7	nok	nok	adv	adv	_	8	ATR	_	name=O
+8	kaffe	kaffe	subst	subst	appell|mask|ub|ent	6	DOBJ	_	name=O
+9	.	$.	clb	clb	<punkt>	4	IP	_	name=O
+
+1	Og	og	konj	konj	<ikke-clb>	2	KONJ	_	name=O
+2	kaker	kake	subst	subst	appell|fem|ub|fl	0	FRAG	_	name=O
+3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Eller	eller	konj	konj	<ikke-clb>	5	KONJ	_	name=O
+2	fordi	fordi	sbu	sbu	_	5	SBU	_	name=O
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	5	SUBJ	_	name=O
+4	ikke	ikke	adv	adv	_	5	ADV	_	name=O
+5	har	ha	verb	verb	pres	0	FINV	_	name=O
+6	lyst	lyst	subst	subst	appell|fem|ub|ent	5	DOBJ	_	name=O
+7	på	på	prep	prep	_	6	ATR	_	name=O
+8	boller	bolle	subst	subst	appell|mask|ub|fl	7	PUTFYLL	_	name=O
+9	hele	hel	adj	adj	be|ent|pos	10	ATR	_	name=O
+10	tiden	tid	subst	subst	appell|mask|be|ent	5	ADV	_	name=O
+11	.	$.	clb	clb	<punkt>	5	IP	_	name=O
+
+1	Faktisk	faktisk	adj	adj	nøyt|ub|ent|pos	0	FRAG	_	name=O
+2	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Og	og	konj	konj	<ikke-clb>	4	KONJ	_	name=O
+2	fordi	fordi	sbu	sbu	_	4	SBU	_	name=O
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	4	SUBJ	_	name=O
+4	tenker	tenke	verb	verb	pres	0	FINV	_	name=O
+5	at	at	sbu	sbu	_	10	SBU	_	name=O
+6	bak	bak	prep	prep	_	13	ADV	_	name=O
+7	det	det	det	det	dem|nøyt|ent	9	DET	_	name=O
+8	lille	liten	adj	adj	be|ent|pos	9	ATR	_	name=O
+9	utsnittet	utsnitt	subst	subst	appell|nøyt|be|ent	6	PUTFYLL	_	name=O
+10	må	måtte	verb	verb	pres	4	DOBJ	_	name=O
+11	det	det	pron	pron	nøyt|ent|pers|3	10	FSUBJ	_	name=O
+12	jo	jo	adv	adv	_	13	ADV	_	name=O
+13	finnes	finnes	verb	verb	inf|<s-verb>	10	INFV	_	name=O
+14	rot	rot	subst	subst	appell|nøyt|ub|fl	13	PSUBJ	_	name=O
+15	og	og	konj	konj	<ikke-clb>	16	KONJ	_	name=O
+16	hyl	hyl	subst	subst	appell|nøyt|ub|ent	14	KOORD	_	name=O
+17	og	og	konj	konj	<ikke-clb>	18	KONJ	_	name=O
+18	støvkorn	støvkorn	subst	subst	appell|nøyt|ub|fl	14	KOORD	_	name=O
+19	.	$.	clb	clb	<punkt>	4	IP	_	name=O
+
+1	Der	der	prep	prep	_	0	FRAG	_	name=O
+2	også	også	adv	adv	_	1	ADV	_	name=O
+3	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Hvis	hvis	sbu	sbu	_	7	ADV	_	name=O
+2	ikke	ikke	adv	adv	_	1	ADV	_	name=O
+3	må	måtte	verb	verb	pres	0	FINV	_	name=O
+4	den	den	det	det	dem|mask|ent	6	DET	_	name=O
+5	avbildede	avbilde	adj	adj	be|ent|<perf-part>	6	ATR	_	name=O
+6	kaffen	kaffe	subst	subst	appell|mask|be|ent	3	SUBJ	_	name=O
+7	være	være	verb	verb	inf	3	INFV	_	name=O
+8	veldig	veldig	adj	adj	nøyt|ub|ent|pos	9	ADV	_	name=O
+9	kald	kald	adj	adj	ub|m/f|ent|pos	7	SPRED	_	name=O
+10	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Tenker	tenke	verb	verb	pres	0	FINV	_	name=O
+2	jeg	jeg	pron	pron	ent|pers|hum|nom|1	1	SUBJ	_	name=O
+3	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Bilder	bilde	subst	subst	appell|nøyt|ub|fl	5	SUBJ	_	name=O
+2	av	av	prep	prep	_	1	ATR	_	name=O
+3	stilsikre	stilsikker	adj	adj	fl|pos	4	ATR	_	name=O
+4	hjem	hjem	subst	subst	appell|nøyt|ub|fl	2	PUTFYLL	_	name=O
+5	stikker	stikke	verb	verb	pres	0	FINV	_	name=O
+6	muligens	muligens	adv	adv	_	5	ADV	_	name=O
+7	litt	litt	adj	adj	nøyt|ub|ent|pos	8	ADV	_	name=O
+8	dypere	dyp	adj	adj	komp	5	ADV	_	name=O
+9	.	$.	clb	clb	<punkt>	5	IP	_	name=O
+
+1	Men	men	konj	konj	<ikke-clb>	3	KONJ	_	name=O
+2	ikke	ikke	adv	adv	_	3	ADV	_	name=O
+3	mye	mye	adj	adj	nøyt|ub|ent|pos	0	FRAG	_	name=O
+4	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	For	for	konj	konj	clb	6	KONJ	_	name=O
+2	,	$,	<komma>	<komma>	_	1	IK	_	name=O
+3	joda	joda	interj	interj	_	6	INTERJ	_	name=O
+4	,	$,	<komma>	<komma>	_	3	IK	_	name=O
+5	jeg	jeg	pron	pron	ent|pers|hum|nom|1	6	SUBJ	_	name=O
+6	har	ha	verb	verb	pres	0	FINV	_	name=O
+7	lyst	lyst	subst	subst	appell|fem|ub|ent	6	DOBJ	_	name=O
+8	på	på	prep	prep	_	7	ATR	_	name=O
+9	Omaggio-vaser	Omaggio-vase	subst	subst	appell|mask|ub|fl|samset	8	PUTFYLL	_	name=B-DRV
+10	jeg	jeg	pron	pron	ent|pers|hum|nom|1	5	APP	_	name=O
+11	også	også	adv	adv	_	10	ATR	_	name=O
+12	.	$.	clb	clb	<punkt>	6	IP	_	name=O
+
+1	Og	og	konj	konj	<ikke-clb>	5	KONJ	_	name=O
+2	sorte	sort	adj	adj	fl|pos	5	ATR	_	name=O
+3	og	og	konj	konj	<ikke-clb>	4	KONJ	_	name=O
+4	hvite	hvit	adj	adj	fl|pos	2	KOORD	_	name=O
+5	puter	pute	subst	subst	appell|fem|ub|fl	0	FRAG	_	name=O
+6	.	$.	clb	clb	<punkt>	5	IP	_	name=O
+
+1	Og	og	konj	konj	<ikke-clb>	2	KONJ	_	name=O
+2	tepper	teppe	subst	subst	appell|nøyt|ub|fl	0	FRAG	_	name=O
+3	med	med	prep	prep	_	2	ATR	_	name=O
+4	plusstegn	plusstegn	subst	subst	appell|nøyt|ub|fl	3	PUTFYLL	_	name=O
+5	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O
+2	har	ha	verb	verb	pres	0	FINV	_	name=O
+3	det	det	pron	pron	nøyt|ent|pers|3	2	DOBJ	_	name=O
+4	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Men	men	konj	konj	clb	3	KONJ	_	name=O
+2	så	så	adv	adv	_	3	ADV	_	name=O
+3	kommer	komme	verb	verb	pres	0	FINV	_	name=O
+4	jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	name=O
+5	på	på	prep	prep	_	3	ADV	_	name=O
+6	at	at	sbu	sbu	_	8	SBU	_	name=O
+7	det	det	pron	pron	nøyt|ent|pers|3	8	FSUBJ	_	name=O
+8	er	være	verb	verb	pres	5	PUTFYLL	_	name=O
+9	mange	mange	adj	adj	fl|pos	10	ATR	_	name=O
+10	ting	ting	subst	subst	appell|mask|ub|fl	8	PSUBJ	_	name=O
+11	vi	vi	pron	pron	fl|pers|hum|nom|1	12	SUBJ	_	name=O
+12	trenger	trenge	verb	verb	pres	10	ATR	_	name=O
+13	før	før	sbu	sbu	_	18	SBU	_	name=O
+14	total	total	adj	adj	ub|m/f|ent|pos	15	ATR	_	name=O
+15	fargekoordinering	fargekoordinering	subst	subst	appell|fem|ub|ent|samset	18	SUBJ	_	name=O
+16	av	av	prep	prep	_	15	ATR	_	name=O
+17	leiligheten	leilighet	subst	subst	appell|mask|be|ent	16	PUTFYLL	_	name=O
+18	kan	kunne	verb	verb	pres	12	ADV	_	name=O
+19	prioriteres	prioritere	verb	verb	inf|pass	18	INFV	_	name=O
+20	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Slik	slik	adv	adv	_	0	FRAG	_	name=O
+2	som	som	prep	prep	_	1	ADV	_	name=O
+3	vårsko	vårsko	subst	subst	appell|mask|ub|fl|samset	2	PUTFYLL	_	name=O
+4	i	i	prep	prep	_	3	ATR	_	name=O
+5	str.	str.	subst	subst	appell|fork|unorm	4	PUTFYLL	_	name=O
+6	24	24	det	det	fl|kvant	5	ATR	_	name=O
+7	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Regndress	regndress	subst	subst	appell|mask|ub|ent	0	FRAG	_	name=O
+2	i	i	prep	prep	_	1	ATR	_	name=O
+3	str.	str.	subst	subst	appell|fork|unorm	2	PUTFYLL	_	name=O
+4	98	98	det	det	fl|kvant	3	ATR	_	name=O
+5	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Så	så	konj	konj	clb	3	KONJ	_	name=O
+2	kanskje	kanskje	adv	adv	_	3	ADV	_	name=O
+3	drømmer	drømme	verb	verb	pres	0	FINV	_	name=O
+4	jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	name=O
+5	litt	litt	adj	adj	nøyt|ub|ent|pos	3	ADV	_	name=O
+6	,	$,	<komma>	<komma>	_	3	IK	_	name=O
+7	men	men	konj	konj	clb	8	KONJ	_	name=O
+8	konkluderer	konkludere	verb	verb	pres	3	KOORD	_	name=O
+9	med	med	prep	prep	_	8	ADV	_	name=O
+10	at	at	sbu	sbu	_	12	SBU	_	name=O
+11	det	det	pron	pron	nøyt|ent|pers|3	12	FSUBJ	_	name=O
+12	er	være	verb	verb	pres	9	PUTFYLL	_	name=O
+13	helt	hel	adj	adj	nøyt|ub|ent|pos	14	ADV	_	name=O
+14	greit	grei	adj	adj	nøyt|ub|ent|pos	12	SPRED	_	name=O
+15	å	å	inf-merke	inf-merke	_	12	PSUBJ	_	name=O
+16	ikke	ikke	adv	adv	_	17	ADV	_	name=O
+17	få	få	verb	verb	inf	15	INFV	_	name=O
+18	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Og	og	konj	konj	clb	5	KONJ	_	name=O
+2	til	til	prep	prep	_	4	APP	_	name=O
+3	slutt	slutt	subst	subst	appell|mask|ub|ent	2	PUTFYLL	_	name=O
+4	så	så	adv	adv	_	5	ADV	_	name=O
+5	minner	minne	verb	verb	pres	0	FINV	_	name=O
+6	jeg	jeg	pron	pron	ent|pers|hum|nom|1	5	SUBJ	_	name=O
+7	meg	jeg	pron	pron	ent|pers|hum|akk|1	5	DOBJ	_	name=O
+8	selv	selv	det	det	<adj>|forst	7	DET	_	name=O
+9	på	på	prep	prep	_	5	ADV	_	name=O
+10	at	at	sbu	sbu	_	15	SBU	_	name=O
+11	hjemmet	hjem	subst	subst	appell|nøyt|be|ent	14	APP	_	name=O
+12	vårt	vår	det	det	nøyt|ent|poss	11	DET	_	name=O
+13	,	$,	<komma>	<komma>	_	11	IK	_	name=O
+14	det	det	pron	pron	nøyt|ent|pers|3	15	SUBJ	_	name=O
+15	er	være	verb	verb	pres	9	PUTFYLL	_	name=O
+16	akkurat	akkurat	adv	adv	_	17	ADV	_	name=O
+17	det	det	pron	pron	nøyt|ent|pers|3	15	SPRED	_	name=O
+18	.	$.	clb	clb	<punkt>	5	IP	_	name=O
+
+1	Et	en	det	det	nøyt|ent|kvant	2	DET	_	name=O
+2	hjem	hjem	subst	subst	appell|nøyt|ub|ent	0	FRAG	_	name=O
+3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	For	for	prep	prep	_	0	FRAG	_	name=O
+2	oss	vi	pron	pron	fl|pers|hum|akk|1	1	PUTFYLL	_	name=O
+3	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Nei	nei	interj	interj	_	4	INTERJ	_	name=O
+2	,	$,	<komma>	<komma>	_	1	IK	_	name=O
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	4	SUBJ	_	name=O
+4	trodde	tro	verb	verb	pret	0	FINV	_	name=O
+5	ikke	ikke	adv	adv	_	4	ADV	_	name=O
+6	at	at	sbu	sbu	_	8	SBU	_	name=O
+7	jeg	jeg	pron	pron	ent|pers|hum|nom|1	8	SUBJ	_	name=O
+8	lot	late	verb	verb	pret	4	ADV	_	name=O
+9	meg	jeg	pron	pron	ent|pers|hum|akk|1	8	IOBJ	_	name=O
+10	påvirke	påvirke	verb	verb	inf	8	DOBJ	_	name=O
+11	.	$.	clb	clb	<punkt>	4	IP	_	name=O
+
+1	Men	men	konj	konj	<ikke-clb>	2	KONJ	_	name=O
+2	i	i	prep	prep	_	0	FRAG	_	name=O
+3	dag	dag	subst	subst	appell|mask|ub|ent	2	PUTFYLL	_	name=O
+4	,	$,	<komma>	<komma>	_	2	IK	_	name=O
+5	da	da	sbu	sbu	_	8	SBU	_	name=O
+6	hele	hel	adj	adj	be|ent|pos	7	ATR	_	name=O
+7	Instagram	Instagram	subst	subst	prop	8	SUBJ	_	name=B-PROD
+8	ble	bli	verb	verb	pret	2	ADV	_	name=O
+9	full	full	adj	adj	ub|m/f|ent|pos	8	SPRED	_	name=O
+10	av	av	prep	prep	_	9	ADV	_	name=O
+11	hvite	hvit	adj	adj	fl|pos	12	ATR	_	name=O
+12	fjell	fjell	subst	subst	appell|nøyt|ub|fl	10	PUTFYLL	_	name=O
+13	og	og	konj	konj	<ikke-clb>	14	KONJ	_	name=O
+14	sol	sol	subst	subst	appell|fem|ub|ent	12	KOORD	_	name=O
+15	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Av	av	prep	prep	_	0	FRAG	_	name=O
+2	smilende	smile	adj	adj	<pres-part>	3	ATR	_	name=O
+3	mennesker	menneske	subst	subst	appell|nøyt|ub|fl	1	PUTFYLL	_	name=O
+4	med	med	prep	prep	_	3	ATR	_	name=O
+5	røde	rød	adj	adj	fl|pos	6	ATR	_	name=O
+6	roser	rose	subst	subst	appell|fem|ub|fl	4	PUTFYLL	_	name=O
+7	i	i	prep	prep	_	4	OPRED	_	name=O
+8	kinnene	kinn	subst	subst	appell|nøyt|be|fl	7	PUTFYLL	_	name=O
+9	og	og	konj	konj	<ikke-clb>	10	KONJ	_	name=O
+10	pulker	pulk	subst	subst	appell|mask|ub|fl	6	KOORD	_	name=O
+11	på	på	prep	prep	_	10	OPRED	_	name=O
+12	slep	slep	subst	subst	appell|nøyt|ub|ent	11	PUTFYLL	_	name=O
+13	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Av	av	prep	prep	_	0	FRAG	_	name=O
+2	yndige	yndig	adj	adj	fl|pos	3	ATR	_	name=O
+3	barn	barn	subst	subst	appell|nøyt|ub|fl	1	PUTFYLL	_	name=O
+4	med	med	prep	prep	_	3	ATR	_	name=O
+5	ski	ski	subst	subst	appell|fem|ub|fl	4	PUTFYLL	_	name=O
+6	på	på	prep	prep	_	4	OPRED	_	name=O
+7	bena	ben	subst	subst	appell|nøyt|be|fl	6	PUTFYLL	_	name=O
+8	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Da	da	adv	adv	_	2	ADV	_	name=O
+2	kjente	kjenne	verb	verb	pret	0	FINV	_	name=O
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O
+4	det	det	pron	pron	nøyt|ent|pers|3	2	DOBJ	_	name=O
+5	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Ikke	ikke	adv	adv	_	2	ADV	_	name=O
+2	misunnelsen	misunnelse	subst	subst	appell|mask|be|ent	0	FRAG	_	name=O
+3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Men	men	konj	konj	<ikke-clb>	4	KONJ	_	name=O
+2	den	den	det	det	dem|mask|ent	4	DET	_	name=O
+3	dårlige	dårlig	adj	adj	be|ent|pos	4	ATR	_	name=O
+4	samvittigheten	samvittighet	subst	subst	appell|mask|be|ent	0	FRAG	_	name=O
+5	.	$.	clb	clb	<punkt>	4	IP	_	name=O
+
+1	For	for	konj	konj	clb	17	KONJ	_	name=O
+2	mens	mens	sbu	sbu	_	7	SBU	_	name=O
+3	resten	rest	subst	subst	appell|mask|be|ent	7	SUBJ	_	name=O
+4	av	av	prep	prep	_	3	ATR	_	name=O
+5	Norge	Norge	subst	subst	prop	4	PUTFYLL	_	name=B-GPE_LOC
+6	tydeligvis	tydeligvis	adv	adv	_	7	ADV	_	name=O
+7	tok	ta	verb	verb	pret	16	APP	_	name=O
+8	med	med	prep	prep	_	7	ADV	_	name=O
+9	seg	seg	pron	pron	akk|refl	8	PUTFYLL	_	name=O
+10	sine	sin	det	det	fl|poss	11	DET	_	name=O
+11	barn	barn	subst	subst	appell|nøyt|ub|fl	7	DOBJ	_	name=O
+12	ut	ut	prep	prep	_	7	ADV	_	name=O
+13	i	i	prep	prep	_	12	PUTFYLL	_	name=O
+14	løypene	løype	subst	subst	appell|fem|be|fl	13	PUTFYLL	_	name=O
+15	,	$,	<komma>	<komma>	_	7	IK	_	name=O
+16	så	så	adv	adv	_	17	ADV	_	name=O
+17	var	være	verb	verb	pret	0	FINV	_	name=O
+18	vi	vi	pron	pron	fl|pers|hum|nom|1	17	SUBJ	_	name=O
+19	fortsatt	fortsatt	adv	adv	_	17	ADV	_	name=O
+20	inne	inne	prep	prep	_	17	SPRED	_	name=O
+21	.	$.	clb	clb	<punkt>	17	IP	_	name=O
+
+1	Og	og	konj	konj	clb	2	KONJ	_	name=O
+2	så	se	verb	verb	pret	0	FINV	_	name=O
+3	ut	ut	prep	prep	_	2	ADV	_	name=O
+4	på	på	prep	prep	_	3	PUTFYLL	_	name=O
+5	sola	sol	subst	subst	appell|fem|be|ent	4	PUTFYLL	_	name=O
+6	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Uten	uten	prep	prep	_	0	FRAG	_	name=O
+2	noen	noen	det	det	mask|ent|kvant	4	DET	_	name=O
+3	stor	stor	adj	adj	ub|m/f|ent|pos	4	ATR	_	name=O
+4	plan	plan	subst	subst	appell|mask|ub|ent	1	PUTFYLL	_	name=O
+5	for	for	prep	prep	_	4	ATR	_	name=O
+6	dagen	dag	subst	subst	appell|mask|be|ent	5	PUTFYLL	_	name=O
+7	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Riktignok	riktignok	adv	adv	_	2	ADV	_	name=O
+2	snakket	snakke	verb	verb	pret	0	FINV	_	name=O
+3	vi	vi	pron	pron	fl|pers|hum|nom|1	2	SUBJ	_	name=O
+4	om	om	prep	prep	_	2	ADV	_	name=O
+5	å	å	inf-merke	inf-merke	_	4	PUTFYLL	_	name=O
+6	gå	gå	verb	verb	inf	5	INFV	_	name=O
+7	ut	ut	prep	prep	_	6	ADV	_	name=O
+8	etterhvert	etterhvert	adv	adv	_	6	ADV	_	name=O
+9	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Kanskje	kanskje	adv	adv	_	2	ADV	_	name=O
+2	ake	ake	verb	verb	inf	0	FRAG	_	name=O
+3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	FSUBJ	_	name=O
+2	gikk	gå	verb	verb	pret	0	FINV	_	name=O
+3	bare	bare	adv	adv	_	2	ADV	_	name=O
+4	litt	litt	adj	adj	nøyt|ub|ent|pos	5	ADV	_	name=O
+5	tregt	treg	adj	adj	nøyt|ub|ent|pos	2	ADV	_	name=O
+6	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Og	og	konj	konj	clb	8	KONJ	_	name=O
+2	innen	innen	sbu	sbu	_	4	SBU	_	name=O
+3	vi	vi	pron	pron	fl|pers|hum|nom|1	4	SUBJ	_	name=O
+4	kom	komme	verb	verb	pret	8	ADV	_	name=O
+5	oss	vi	pron	pron	fl|pers|hum|akk|1	4	DOBJ	_	name=O
+6	ut	ut	prep	prep	_	4	ADV	_	name=O
+7	,	$,	<komma>	<komma>	_	4	IK	_	name=O
+8	var	være	verb	verb	pret	0	FINV	_	name=O
+9	det	det	pron	pron	nøyt|ent|pers|3	8	FSUBJ	_	name=O
+10	langt	lang	adj	adj	nøyt|ub|ent|pos	11	ADV	_	name=O
+11	over	over	prep	prep	_	8	SPRED	_	name=O
+12	sovetid	sovetid	subst	subst	appell|fem|ub|ent|samset	11	PUTFYLL	_	name=O
+13	for	for	prep	prep	_	12	ATR	_	name=O
+14	hun	hun	pron	pron	fem|ent|pers|hum|3|nom	13	PUTFYLL	_	name=O
+15	lille	liten	adj	adj	be|ent|pos	14	APP	_	name=O
+16	.	$.	clb	clb	<punkt>	8	IP	_	name=O
+
+1	Så	så	konj	konj	clb	3	KONJ	_	name=O
+2	vi	vi	pron	pron	fl|pers|hum|nom|1	3	SUBJ	_	name=O
+3	puttet	putte	verb	verb	pret	0	FINV	_	name=O
+4	henne	hun	pron	pron	fem|ent|pers|hum|3|akk	3	DOBJ	_	name=O
+5	i	i	prep	prep	_	3	ADV	_	name=O
+6	vogna	vogn	subst	subst	appell|fem|be|ent	5	PUTFYLL	_	name=O
+7	og	og	konj	konj	clb	8	KONJ	_	name=O
+8	lot	late	verb	verb	pret	3	KOORD	_	name=O
+9	akebrettet	akebrett	subst	subst	appell|nøyt|be|ent	8	IOBJ	_	name=O
+10	stå	stå	verb	verb	inf	8	DOBJ	_	name=O
+11	hjemme	hjemme	prep	prep	_	10	ADV	_	name=O
+12	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Fant	finne	verb	verb	pret	0	FINV	_	name=O
+2	raskt	rask	adj	adj	nøyt|ub|ent|pos	1	ADV	_	name=O
+3	en	en	det	det	mask|ent|kvant	4	DET	_	name=O
+4	kafe	kafe	subst	subst	appell|mask|ub|ent	1	DOBJ	_	name=O
+5	,	$,	<komma>	<komma>	_	1	IK	_	name=O
+6	og	og	konj	konj	clb	7	KONJ	_	name=O
+7	satte	sette	verb	verb	pret	1	KOORD	_	name=O
+8	oss	vi	pron	pron	fl|pers|hum|akk|1	7	DOBJ	_	name=O
+9	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Ute	ute	prep	prep	_	0	FRAG	_	name=O
+2	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Klar	klar	adj	adj	ub|m/f|ent|pos	0	FRAG	_	name=O
+2	for	for	prep	prep	_	1	ADV	_	name=O
+3	årets	år	subst	subst	appell|nøyt|be|ent|gen	5	DET	_	name=O
+4	første	første	adj	adj	be|ent|pos|<ordenstall>	5	ATR	_	name=O
+5	utelunsj	utelunsj	subst	subst	appell|mask|ub|ent|samset	2	PUTFYLL	_	name=O
+6	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Og	og	konj	konj	clb	5	KONJ	_	name=O
+2	selv	selv	adv	adv	_	3	ADV	_	name=O
+3	om	om	sbu	sbu	_	5	SBU	_	name=O
+4	sola	sol	subst	subst	appell|fem|be|ent	5	SUBJ	_	name=O
+5	stekte	steke	verb	verb	pret	0	FINV	_	name=O
+6	så	så	sbu	sbu	_	8	SBU	_	name=O
+7	vi	vi	pron	pron	fl|pers|hum|nom|1	8	SUBJ	_	name=O
+8	måtte	måtte	verb	verb	pret	5	ADV	_	name=O
+9	finne	finne	verb	verb	inf	8	INFV	_	name=O
+10	solbriller	solbrille	subst	subst	appell|fem|ub|fl	9	DOBJ	_	name=O
+11	,	$,	<komma>	<komma>	_	5	IK	_	name=O
+12	kaffen	kaffe	subst	subst	appell|mask|be|ent	13	SUBJ	_	name=O
+13	var	være	verb	verb	pret	5	KOORD	_	name=O
+14	god	god	adj	adj	ub|m/f|ent|pos	13	SPRED	_	name=O
+15	og	og	konj	konj	clb	17	KONJ	_	name=O
+16	mannen	mann	subst	subst	appell|mask|be|ent	17	SUBJ	_	name=O
+17	var	være	verb	verb	pret	5	KOORD	_	name=O
+18	kjekk	kjekk	adj	adj	ub|m/f|ent|pos	17	SPRED	_	name=O
+19	.	$.	clb	clb	<punkt>	5	IP	_	name=O
+
+1	Selv	selv	adv	adv	_	2	ADV	_	name=O
+2	om	om	sbu	sbu	_	4	SBU	_	name=O
+3	vi	vi	pron	pron	fl|pers|hum|nom|1	4	SUBJ	_	name=O
+4	sa	si	verb	verb	pret	0	FINV	_	name=O
+5	obligatoriske	obligatorisk	adj	adj	fl|pos	6	ATR	_	name=O
+6	ting	ting	subst	subst	appell|mask|ub|fl	4	DOBJ	_	name=O
+7	som	som	sbu	sbu	_	9	SBU	_	name=O
+8	-	$-	<strek>	<strek>	_	9	IK	_	name=O
+9	skulle	skulle	verb	verb	pret	6	ATR	_	name=O
+10	nesten	nesten	adv	adv	_	11	ADV	_	name=O
+11	tro	tro	verb	verb	inf	9	INFV	_	name=O
+12	det	det	pron	pron	nøyt|ent|pers|3	13	FSUBJ	_	name=O
+13	var	være	verb	verb	pret	11	DOBJ	_	name=O
+14	påske	påske	subst	subst	appell|fem|ub|ent	13	SPRED	_	name=O
+15	.	$.	clb	clb	<punkt>	4	IP	_	name=O
+
+1	Så	så	adv	adv	_	2	ADV	_	name=O
+2	tok	ta	verb	verb	pret	0	FINV	_	name=O
+3	vi	vi	pron	pron	fl|pers|hum|nom|1	2	SUBJ	_	name=O
+4	ingen	ingen	det	det	fl|kvant	5	DET	_	name=O
+5	bilder	bilde	subst	subst	appell|nøyt|ub|fl	2	DOBJ	_	name=O
+6	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	For	for	konj	konj	clb	3	KONJ	_	name=O
+2	jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	name=O
+3	smiler	smile	verb	verb	pres	0	FINV	_	name=O
+4	liksom	liksom	adv	adv	_	3	ADV	_	name=O
+5	ikke	ikke	adv	adv	_	3	ADV	_	name=O
+6	like	like	adv	adv	_	7	ADV	_	name=O
+7	pent	pen	adj	adj	nøyt|ub|ent|pos	3	ADV	_	name=O
+8	med	med	prep	prep	_	3	ADV	_	name=O
+9	dårlig	dårlig	adj	adj	ub|m/f|ent|pos	10	ATR	_	name=O
+10	samvittighet	samvittighet	subst	subst	appell|fem|ub|ent	8	PUTFYLL	_	name=O
+11	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	I	i	prep	prep	_	4	ADV	_	name=O
+2	hvert	hver	det	det	nøyt|ent|kvant	3	DET	_	name=O
+3	fall	fall	subst	subst	appell|nøyt|ub|ent	1	PUTFYLL	_	name=O
+4	ikke	ikke	adv	adv	_	5	ADV	_	name=O
+5	før	før	sbu	sbu	_	7	SBU	_	name=O
+6	vi	vi	pron	pron	fl|pers|hum|nom|1	7	SUBJ	_	name=O
+7	kom	komme	verb	verb	pret	0	FINV	_	name=O
+8	hjem	hjem	prep	prep	_	7	ADV	_	name=O
+9	igjen	igjen	adv	adv	_	7	ADV	_	name=O
+10	.	$.	clb	clb	<punkt>	7	IP	_	name=O
+
+1	For	for	konj	konj	clb	11	KONJ	_	name=O
+2	,	$,	<komma>	<komma>	_	1	IK	_	name=O
+3	mens	mens	sbu	sbu	_	7	SBU	_	name=O
+4	resten	rest	subst	subst	appell|mask|be|ent	7	SUBJ	_	name=O
+5	av	av	prep	prep	_	4	ATR	_	name=O
+6	Instagramfolket	Instagramfolk	subst	subst	appell|nøyt|be|ent|samset|unorm	5	PUTFYLL	_	name=B-DRV
+7	pakket	pakke	verb	verb	pret	11	ADV	_	name=O
+8	skiboksene	skiboks	subst	subst	appell|mask|be|fl	7	DOBJ	_	name=O
+9	sine	sin	det	det	fl|poss	8	DET	_	name=O
+10	,	$,	<komma>	<komma>	_	7	IK	_	name=O
+11	stod	stå	verb	verb	pret	0	FINV	_	name=O
+12	vi	vi	pron	pron	fl|pers|hum|nom|1	11	SUBJ	_	name=O
+13	på	på	prep	prep	_	11	ADV	_	name=O
+14	kjøkkenet	kjøkken	subst	subst	appell|nøyt|be|ent	13	PUTFYLL	_	name=O
+15	.	$.	clb	clb	<punkt>	11	IP	_	name=O
+
+1	Og	og	konj	konj	clb	2	KONJ	_	name=O
+2	laget	lage	verb	verb	pret	0	FINV	_	name=O
+3	lammekebab	lammekebab	subst	subst	appell|mask|ub|ent|samset	2	DOBJ	_	name=O
+4	og	og	konj	konj	<ikke-clb>	5	KONJ	_	name=O
+5	bulgursalat	bulgursalat	subst	subst	appell|mask|ub|ent|samset	3	KOORD	_	name=O
+6	med	med	prep	prep	_	5	ATR	_	name=O
+7	ovnsbakte	ovnsbake	adj	adj	fl|<perf-part>	8	ATR	_	name=O
+8	reddiker	reddik	subst	subst	appell|mask|ub|fl	6	PUTFYLL	_	name=O
+9	og	og	konj	konj	<ikke-clb>	10	KONJ	_	name=O
+10	granateple	granateple	subst	subst	appell|nøyt|ub|ent	8	KOORD	_	name=O
+11	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Så	så	adv	adv	_	2	ADV	_	name=O
+2	klart	klar	adj	adj	nøyt|ub|ent|pos	0	FRAG	_	name=O
+3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Som	som	sbu	sbu	_	3	SBU	_	name=O
+2	jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	name=O
+3	tok	ta	verb	verb	pret	0	FINV	_	name=O
+4	bilde	bilde	subst	subst	appell|nøyt|ub|ent	3	DOBJ	_	name=O
+5	av	av	prep	prep	_	4	ATR	_	name=O
+6	og	og	konj	konj	clb	7	KONJ	_	name=O
+7	sendte	sende	verb	verb	pret	3	KOORD	_	name=O
+8	ut	ut	prep	prep	_	7	ADV	_	name=O
+9	på	på	prep	prep	_	8	PUTFYLL	_	name=O
+10	nett	nett	subst	subst	appell|nøyt|ub|ent	9	PUTFYLL	_	name=O
+11	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Sånn	sånn	adv	adv	_	2	ADV	_	name=O
+2	i	i	prep	prep	_	0	FRAG	_	name=O
+3	tilfelle	tilfelle	subst	subst	appell|nøyt|ub|ent	2	PUTFYLL	_	name=O
+4	jeg	jeg	pron	pron	ent|pers|hum|nom|1	5	SUBJ	_	name=O
+5	kunne	kunne	verb	verb	pret	3	ATR	_	name=O
+6	misunne	misunne	verb	verb	inf	5	INFV	_	name=O
+7	noen	noen	det	det	fl|kvant	6	DOBJ	_	name=O
+8	av	av	prep	prep	_	7	ATR	_	name=O
+9	de	de	pron	pron	fl|pers|3|nom	8	PUTFYLL	_	name=O
+10	som	som	sbu	sbu	_	11	SBU	_	name=O
+11	satt	sitte	verb	verb	pret	9	ATR	_	name=O
+12	på	på	prep	prep	_	11	ADV	_	name=O
+13	en	en	det	det	mask|ent|kvant	15	DET	_	name=O
+14	slitt	slite	adj	adj	ub|m/f|ent|<perf-part>	15	ATR	_	name=O
+15	veikro	veikro	subst	subst	appell|mask|ub|ent	12	PUTFYLL	_	name=O
+16	og	og	konj	konj	clb	17	KONJ	_	name=O
+17	knasket	knaske	verb	verb	pret	11	KOORD	_	name=O
+18	tørre	tørr	adj	adj	fl|pos	20	ATR	_	name=O
+19	pommes	pommes	subst	subst	ufl	20	FLAT	_	name=O
+20	frites	frites	subst	subst	appell|mask|ub|ent	17	DOBJ	_	name=O
+21	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Bare	bare	adv	adv	_	2	ADV	_	name=O
+2	fordi	fordi	sbu	sbu	_	4	SBU	_	name=O
+3	de	de	pron	pron	fl|pers|3|nom	4	SUBJ	_	name=O
+4	dro	dra	verb	verb	pret	0	FINV	_	name=O
+5	akkurat	akkurat	adv	adv	_	6	ADV	_	name=O
+6	litt	litt	adj	adj	nøyt|ub|ent|pos	7	ADV	_	name=O
+7	for	for	adv	adv	_	8	ADV	_	name=O
+8	sent	sen	adj	adj	nøyt|ub|ent|pos	4	ADV	_	name=O
+9	fra	fra	prep	prep	_	4	ADV	_	name=O
+10	det	det	det	det	dem|nøyt|ent	12	DET	_	name=O
+11	solrike	solrik	adj	adj	be|ent|pos	12	ATR	_	name=O
+12	fjellet	fjell	subst	subst	appell|nøyt|be|ent	9	PUTFYLL	_	name=O
+13	til	til	prep	prep	_	7	ADV	_	name=O
+14	å	å	inf-merke	inf-merke	_	13	PUTFYLL	_	name=O
+15	rekke	rekke	verb	verb	inf	14	INFV	_	name=O
+16	middagslaging	middagslaging	subst	subst	appell|fem|ub|ent|samset	15	DOBJ	_	name=O
+17	hjemme	hjemme	prep	prep	_	15	ADV	_	name=O
+18	.	$.	clb	clb	<punkt>	4	IP	_	name=O
+
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O
+2	skrev	skrive	verb	verb	pret	0	FINV	_	name=O
+3	selvsagt	selvsagt	adj	adj	nøyt|ub|ent|pos	2	ADV	_	name=O
+4	ingen	ingen	det	det	fl|kvant	5	DET	_	name=O
+5	ting	ting	subst	subst	appell|mask|ub|fl	2	DOBJ	_	name=O
+6	om	om	prep	prep	_	5	ATR	_	name=O
+7	at	at	sbu	sbu	_	11	SBU	_	name=O
+8	barnet	barn	subst	subst	appell|nøyt|be|ent	11	SUBJ	_	name=O
+9	ikke	ikke	adv	adv	_	12	ADV	_	name=O
+10	engang	engang	adv	adv	_	12	ADV	_	name=O
+11	ville	ville	verb	verb	pret	6	PUTFYLL	_	name=O
+12	smake	smake	verb	verb	inf	11	INFV	_	name=O
+13	på	på	prep	prep	_	12	ADV	_	name=O
+14	maten	mat	subst	subst	appell|mask|be|ent	13	PUTFYLL	_	name=O
+15	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	For	for	prep	prep	_	0	FRAG	_	name=O
+2	to	to	det	det	fl|kvant	3	DET	_	name=O
+3	år	år	subst	subst	appell|nøyt|ub|fl	1	PUTFYLL	_	name=O
+4	siden	siden	adv	adv	_	3	ATR	_	name=O
+5	|	$|	clb	clb	<overskrift>	1	IP	_	name=O
+
+1	I	i	prep	prep	_	3	ADV	_	name=O
+2	dag	dag	subst	subst	appell|mask|ub|ent	1	PUTFYLL	_	name=O
+3	er	være	verb	verb	pres	0	FINV	_	name=O
+4	det	det	pron	pron	nøyt|ent|pers|3	3	FSUBJ	_	name=O
+5	to	to	det	det	fl|kvant	6	DET	_	name=O
+6	år	år	subst	subst	appell|nøyt|ub|fl	3	SPRED	_	name=O
+7	siden	siden	sbu	sbu	_	11	SBU	_	name=O
+8	i	i	prep	prep	_	11	ADV	_	name=O
+9	dag	dag	subst	subst	appell|mask|ub|ent	8	PUTFYLL	_	name=O
+10	jeg	jeg	pron	pron	ent|pers|hum|nom|1	11	SUBJ	_	name=O
+11	gikk	gå	verb	verb	pret	3	PSUBJ	_	name=O
+12	nedover	nedover	prep	prep	_	11	ADV	_	name=O
+13	bakkene	bakke	subst	subst	appell|mask|be|fl	12	PUTFYLL	_	name=O
+14	mot	mot	prep	prep	_	13	ATR	_	name=O
+15	Carl	Carl	subst	subst	prop|mask	14	PUTFYLL	_	name=B-LOC
+16	Berner	Berner	subst	subst	prop	15	FLAT	_	name=I-LOC
+17	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Retning	retning	prep	prep	_	0	FRAG	_	name=O
+2	T-banen	T-bane	subst	subst	appell|mask|be|ent	1	PUTFYLL	_	name=O
+3	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O
+2	hadde	ha	verb	verb	pret	0	FINV	_	name=O
+3	vært	være	verb	verb	perf-part	2	INFV	_	name=O
+4	på	på	prep	prep	_	3	SPRED	_	name=O
+5	barselbesøk	barselbesøk	subst	subst	appell|nøyt|ub|ent|samset	4	PUTFYLL	_	name=O
+6	hos	hos	prep	prep	_	3	ADV	_	name=O
+7	en	en	det	det	mask|ent|kvant	8	DET	_	name=O
+8	venninne	venninne	subst	subst	appell|mask|ub|ent	6	PUTFYLL	_	name=O
+9	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Hun	hun	pron	pron	fem|ent|pers|hum|3|nom	0	FRAG	_	name=O
+2	som	som	sbu	sbu	_	3	SBU	_	name=O
+3	oppdaget	oppdage	verb	verb	pret	1	ATR	_	name=O
+4	at	at	sbu	sbu	_	6	SBU	_	name=O
+5	hun	hun	pron	pron	fem|ent|pers|hum|3|nom	6	SUBJ	_	name=O
+6	var	være	verb	verb	pret	3	DOBJ	_	name=O
+7	gravid	gravid	adj	adj	ub|m/f|ent|pos	6	SPRED	_	name=O
+8	samtidig	samtidig	adj	adj	nøyt|ub|ent|pos	6	ADV	_	name=O
+9	som	som	prep	prep	_	8	ADV	_	name=O
+10	meg	jeg	pron	pron	ent|pers|hum|akk|1	9	PUTFYLL	_	name=O
+11	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Som	som	sbu	sbu	_	3	SBU	_	name=O
+2	egentlig	egentlig	adj	adj	nøyt|ub|ent|pos	3	ADV	_	name=O
+3	hadde	ha	verb	verb	pret	0	FINV	_	name=O
+4	termin	termin	subst	subst	appell|mask|ub|ent	3	DOBJ	_	name=O
+5	akkurat	akkurat	adv	adv	_	6	ADV	_	name=O
+6	en	en	det	det	mask|ent|kvant	7	DET	_	name=O
+7	uke	uke	subst	subst	appell|mask|ub|ent	8	ADV	_	name=O
+8	før	før	prep	prep	_	3	ADV	_	name=O
+9	oss	vi	pron	pron	fl|pers|hum|akk|1	8	PUTFYLL	_	name=O
+10	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Men	men	konj	konj	<ikke-clb>	3	KONJ	_	name=O
+2	som	som	sbu	sbu	_	3	SBU	_	name=O
+3	bar	bære	verb	verb	pret	0	FINV	_	name=O
+4	på	på	prep	prep	_	3	ADV	_	name=O
+5	en	en	det	det	mask|ent|kvant	7	DET	_	name=O
+6	utålmodig	utålmodig	adj	adj	ub|m/f|ent|pos	7	ATR	_	name=O
+7	jente	jente	subst	subst	appell|mask|ub|ent	4	PUTFYLL	_	name=O
+8	som	som	sbu	sbu	_	9	SBU	_	name=O
+9	kom	komme	verb	verb	pret	7	ATR	_	name=O
+10	10	10	det	det	fl|kvant	11	DET	_	name=O
+11	dager	dag	subst	subst	appell|mask|ub|fl	12	ADV	_	name=O
+12	før	før	prep	prep	_	9	ADV	_	name=O
+13	tiden	tid	subst	subst	appell|mask|be|ent	12	PUTFYLL	_	name=O
+14	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Selv	selv	adv	adv	_	2	ADV	_	name=O
+2	var	være	verb	verb	pret	0	FINV	_	name=O
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O
+4	fire	fire	det	det	fl|kvant	5	DET	_	name=O
+5	dager	dag	subst	subst	appell|mask|ub|fl	2	SPRED	_	name=O
+6	på	på	prep	prep	_	5	ATR	_	name=O
+7	overtid	overtid	subst	subst	appell|fem|ub|ent	6	PUTFYLL	_	name=O
+8	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Passelig	passelig	adj	adj	nøyt|ub|ent|pos	2	ADV	_	name=O
+2	klar	klar	adj	adj	ub|m/f|ent|pos	0	FRAG	_	name=O
+3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O
+2	hadde	ha	verb	verb	pret	0	FINV	_	name=O
+3	sittet	sitte	verb	verb	perf-part	2	INFV	_	name=O
+4	og	og	konj	konj	<ikke-clb>	5	KONJ	_	name=O
+5	sett	se	verb	verb	perf-part	3	KOORD	_	name=O
+6	på	på	prep	prep	_	5	ADV	_	name=O
+7	det	det	det	det	dem|nøyt|ent	9	DET	_	name=O
+8	lille	liten	adj	adj	be|ent|pos	9	ATR	_	name=O
+9	mennesket	menneske	subst	subst	appell|nøyt|be|ent	6	PUTFYLL	_	name=O
+10	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Sett	se	verb	verb	perf-part	0	FRAG	_	name=O
+2	hvordan	hvordan	adv	adv	_	4	ADV	_	name=O
+3	hun	hun	pron	pron	fem|ent|pers|hum|3|nom	4	SUBJ	_	name=O
+4	sparket	sparke	verb	verb	pret	1	DOBJ	_	name=O
+5	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Fektet	fekte	verb	verb	pret	0	FINV	_	name=O
+2	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Gråt	gråte	verb	verb	pret	0	FINV	_	name=O
+2	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Så	så	adv	adv	_	2	ADV	_	name=O
+2	vakker	vakker	adj	adj	ub|m/f|ent|pos	0	FRAG	_	name=O
+3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Så	så	adv	adv	_	2	ADV	_	name=O
+2	perfekt	perfekt	adj	adj	ub|m/f|ent|pos	0	FRAG	_	name=O
+3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Samtidig	samtidig	adj	adj	nøyt|ub|ent|pos	0	FRAG	_	name=O
+2	som	som	sbu	sbu	_	4	SBU	_	name=O
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	4	SUBJ	_	name=O
+4	kjente	kjenne	verb	verb	pret	1	ADV	_	name=O
+5	at	at	sbu	sbu	_	7	SBU	_	name=O
+6	noen	noen	pron	pron	mask|fem|ent|pers|3	7	SUBJ	_	name=O
+7	sparket	sparke	verb	verb	pret	4	DOBJ	_	name=O
+8	inni	inni	prep	prep	_	7	ADV	_	name=O
+9	meg	jeg	pron	pron	ent|pers|hum|akk|1	8	PUTFYLL	_	name=O
+10	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Flyttet	flytte	verb	verb	perf-part	0	FRAG	_	name=O
+2	på	på	prep	prep	_	1	ADV	_	name=O
+3	seg	seg	pron	pron	akk|refl	2	PUTFYLL	_	name=O
+4	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Og	og	konj	konj	clb	3	KONJ	_	name=O
+2	jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	name=O
+3	prøvde	prøve	verb	verb	pret	0	FINV	_	name=O
+4	å	å	inf-merke	inf-merke	_	3	DOBJ	_	name=O
+5	forstå	forstå	verb	verb	inf	4	INFV	_	name=O
+6	at	at	sbu	sbu	_	8	SBU	_	name=O
+7	det	det	pron	pron	nøyt|ent|pers|3	8	FSUBJ	_	name=O
+8	lå	ligge	verb	verb	pret	5	DOBJ	_	name=O
+9	et	en	det	det	nøyt|ent|kvant	12	DET	_	name=O
+10	like	like	adv	adv	_	11	ADV	_	name=O
+11	ferdig	ferdig	adj	adj	nøyt|ub|ent|pos	12	ATR	_	name=O
+12	menneske	menneske	subst	subst	appell|nøyt|ub|ent	8	PSUBJ	_	name=O
+13	der	der	prep	prep	_	8	ADV	_	name=O
+14	inne	inne	prep	prep	_	13	PUTFYLL	_	name=O
+15	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Helt	hel	adj	adj	nøyt|ub|ent|pos	2	ADV	_	name=O
+2	likt	lik	adj	adj	nøyt|ub|ent|pos	0	FRAG	_	name=O
+3	som	som	prep	prep	_	2	ADV	_	name=O
+4	hun	hun	pron	pron	fem|ent|pers|hum|3|nom	3	PUTFYLL	_	name=O
+5	som	som	sbu	sbu	_	6	SBU	_	name=O
+6	lå	ligge	verb	verb	pret	4	ATR	_	name=O
+7	foran	foran	prep	prep	_	6	ADV	_	name=O
+8	meg	jeg	pron	pron	ent|pers|hum|akk|1	7	PUTFYLL	_	name=O
+9	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Men	men	konj	konj	clb	3	KONJ	_	name=O
+2	nå	nå	adv	adv	_	3	ADV	_	name=O
+3	var	være	verb	verb	pret	0	FINV	_	name=O
+4	jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	name=O
+5	altså	altså	adv	adv	_	3	ADV	_	name=O
+6	på	på	prep	prep	_	3	SPRED	_	name=O
+7	vei	vei	subst	subst	appell|mask|ub|ent	6	PUTFYLL	_	name=O
+8	hjem	hjem	prep	prep	_	7	ATR	_	name=O
+9	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Det	det	pron	pron	nøyt|ent|pers|3	2	FSUBJ	_	name=O
+2	var	være	verb	verb	pret	0	FINV	_	name=O
+3	fredag	fredag	subst	subst	appell|mask|ub|ent	2	SPRED	_	name=O
+4	og	og	konj	konj	<ikke-clb>	5	KONJ	_	name=O
+5	ettermiddag	ettermiddag	subst	subst	appell|mask|ub|ent	3	KOORD	_	name=O
+6	,	$,	<komma>	<komma>	_	2	IK	_	name=O
+7	og	og	konj	konj	clb	9	KONJ	_	name=O
+8	jeg	jeg	pron	pron	ent|pers|hum|nom|1	9	SUBJ	_	name=O
+9	skulle	skulle	verb	verb	pret	2	KOORD	_	name=O
+10	egentlig	egentlig	adj	adj	nøyt|ub|ent|pos	11	ADV	_	name=O
+11	gå	gå	verb	verb	inf	9	INFV	_	name=O
+12	hele	hel	adj	adj	be|ent|pos	13	ATR	_	name=O
+13	veien	vei	subst	subst	appell|mask|be|ent	11	DOBJ	_	name=O
+14	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Men	men	konj	konj	clb	2	KONJ	_	name=O
+2	kjente	kjenne	verb	verb	pret	0	FINV	_	name=O
+3	at	at	sbu	sbu	_	5	SBU	_	name=O
+4	kroppen	kropp	subst	subst	appell|mask|be|ent	5	SUBJ	_	name=O
+5	var	være	verb	verb	pret	2	DOBJ	_	name=O
+6	for	for	adv	adv	_	7	ADV	_	name=O
+7	tung	tung	adj	adj	ub|m/f|ent|pos	5	SPRED	_	name=O
+8	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	For	for	adv	adv	_	2	ADV	_	name=O
+2	trett	trett	adj	adj	ub|m/f|ent|pos	0	FRAG	_	name=O
+3	,	$,	<komma>	<komma>	_	2	IK	_	name=O
+4	etter	etter	prep	prep	_	2	ADV	_	name=O
+5	null	null	det	det	fl|kvant	6	DET	_	name=O
+6	søvn	søvn	subst	subst	appell|mask|ub|ent	4	PUTFYLL	_	name=O
+7	natten	natt	subst	subst	appell|mask|be|ent	8	PUTFYLL	_	name=O
+8	før	før	prep	prep	_	6	ATR	_	name=O
+9	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Så	så	konj	konj	clb	3	KONJ	_	name=O
+2	jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	name=O
+3	gikk	gå	verb	verb	pret	0	FINV	_	name=O
+4	mot	mot	prep	prep	_	3	ADV	_	name=O
+5	banen	bane	subst	subst	appell|mask|be|ent	4	PUTFYLL	_	name=O
+6	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Fremme	fremme	prep	prep	_	4	ADV	_	name=O
+2	på	på	prep	prep	_	1	PUTFYLL	_	name=O
+3	perrongen	perrong	subst	subst	appell|mask|be|ent	2	PUTFYLL	_	name=O
+4	ringte	ringe	verb	verb	pret	0	FINV	_	name=O
+5	jeg	jeg	pron	pron	ent|pers|hum|nom|1	4	SUBJ	_	name=O
+6	mannen	mann	subst	subst	appell|mask|be|ent	4	DOBJ	_	name=O
+7	som	som	sbu	sbu	_	8	SBU	_	name=O
+8	var	være	verb	verb	pret	6	ATR	_	name=O
+9	på	på	prep	prep	_	8	SPRED	_	name=O
+10	jobb	jobb	subst	subst	appell|mask|ub|ent	9	PUTFYLL	_	name=O
+11	,	$,	<komma>	<komma>	_	4	IK	_	name=O
+12	forsikret	forsikre	verb	verb	pret	4	KOORD	_	name=O
+13	om	om	prep	prep	_	12	ADV	_	name=O
+14	at	at	sbu	sbu	_	17	SBU	_	name=O
+15	ingen	ingen	det	det	fl|kvant	16	DET	_	name=O
+16	ting	ting	subst	subst	appell|mask|ub|fl	17	SUBJ	_	name=O
+17	hadde	ha	verb	verb	pret	13	PUTFYLL	_	name=O
+18	skjedd	skje	verb	verb	perf-part	17	INFV	_	name=O
+19	.	$.	clb	clb	<punkt>	4	IP	_	name=O
+
+1	Fortalte	fortelle	verb	verb	pret	0	FINV	_	name=O
+2	at	at	sbu	sbu	_	4	SBU	_	name=O
+3	kroppen	kropp	subst	subst	appell|mask|be|ent	4	SUBJ	_	name=O
+4	var	være	verb	verb	pret	1	DOBJ	_	name=O
+5	ekstra	ekstra	adj	adj	nøyt|ub|ent|pos	6	ADV	_	name=O
+6	tung	tung	adj	adj	ub|m/f|ent|pos	4	SPRED	_	name=O
+7	i	i	prep	prep	_	6	ADV	_	name=O
+8	dag	dag	subst	subst	appell|mask|ub|ent	7	PUTFYLL	_	name=O
+9	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Spurte	spørre	verb	verb	pret	0	FINV	_	name=O
+2	om	om	sbu	sbu	_	4	SBU	_	name=O
+3	han	han	pron	pron	mask|ent|pers|hum|3|nom	4	SUBJ	_	name=O
+4	kunne	kunne	verb	verb	pret	1	DOBJ	_	name=O
+5	handle	handle	verb	verb	inf	4	INFV	_	name=O
+6	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	-	$-	<strek>	<strek>	_	2	IK	_	name=O
+2	Sov	sove	verb	verb	imp	0	FINV	_	name=O
+3	litt	litt	adj	adj	nøyt|ub|ent|pos	2	ADV	_	name=O
+4	,	$,	<komma>	<komma>	_	2	IK	_	name=O
+5	sa	si	verb	verb	pret	2	PAR	_	name=O
+6	han	han	pron	pron	mask|ent|pers|hum|3|nom	5	SUBJ	_	name=O
+7	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Og	og	konj	konj	clb	3	KONJ	_	name=O
+2	det	det	pron	pron	nøyt|ent|pers|3	3	DOBJ	_	name=O
+3	gjorde	gjøre	verb	verb	pret	0	FINV	_	name=O
+4	jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	name=O
+5	.	$.	clb	clb	<punkt>	3	IP	_	name=O
+
+1	Sov	sove	verb	verb	pret	0	FINV	_	name=O
+2	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	Frem	frem	prep	prep	_	0	FRAG	_	name=O
+2	til	til	sbu	sbu	_	4	SBU	_	name=O
+3	jeg	jeg	pron	pron	ent|pers|hum|nom|1	4	SUBJ	_	name=O
+4	ble	bli	verb	verb	pret	1	PUTFYLL	_	name=O
+5	vekket	vekke	verb	verb	perf-part	4	INFV	_	name=O
+6	av	av	prep	prep	_	5	ADV	_	name=O
+7	mannen	mann	subst	subst	appell|mask|be|ent	6	PUTFYLL	_	name=O
+8	som	som	sbu	sbu	_	9	SBU	_	name=O
+9	kom	komme	verb	verb	pret	7	ATR	_	name=O
+10	fra	fra	prep	prep	_	9	ADV	_	name=O
+11	trening	trening	subst	subst	appell|fem|ub|ent	10	PUTFYLL	_	name=O
+12	.	$.	clb	clb	<punkt>	1	IP	_	name=O
+
+1	-	$-	<strek>	<strek>	_	2	IK	_	name=O
+2	Sover	sove	verb	verb	pres	0	FINV	_	name=O
+3	du	du	pron	pron	ent|pers|hum|nom|2	2	SUBJ	_	name=O
+4	enda	enda	adv	adv	_	2	ADV	_	name=O
+5	,	$,	<komma>	<komma>	_	2	IK	_	name=O
+6	lo	le	verb	verb	pret	2	PAR	_	name=O
+7	han	han	pron	pron	mask|ent|pers|hum|3|nom	6	SUBJ	_	name=O
+8	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Og	og	konj	konj	clb	2	KONJ	_	name=O
+2	ba	be	verb	verb	pret	0	FINV	_	name=O
+3	meg	jeg	pron	pron	ent|pers|hum|akk|1	2	DOBJ	_	name=O
+4	om	om	prep	prep	_	2	ADV	_	name=O
+5	å	å	inf-merke	inf-merke	_	4	PUTFYLL	_	name=O
+6	sove	sove	verb	verb	inf	5	INFV	_	name=O
+7	litt	litt	adj	adj	nøyt|ub|ent|pos	6	ADV	_	name=O
+8	til	til	prep	prep	_	7	ADV	_	name=O
+9	,	$,	<komma>	<komma>	_	2	IK	_	name=O
+10	han	han	pron	pron	mask|ent|pers|hum|3|nom	11	SUBJ	_	name=O
+11	skulle	skulle	verb	verb	pret	2	KOORD	_	name=O
+12	lage	lage	verb	verb	inf	11	INFV	_	name=O
+13	middag	middag	subst	subst	appell|mask|ub|ent	12	DOBJ	_	name=O
+14	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	-	$-	<strek>	<strek>	_	2	IK	_	name=O
+2	Vekker	vekke	verb	verb	pres	0	FINV	_	name=O
+3	deg	du	pron	pron	ent|pers|hum|akk|2	2	DOBJ	_	name=O
+4	da	da	adv	adv	_	2	ADV	_	name=O
+5	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
