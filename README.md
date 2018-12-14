@@ -46,6 +46,7 @@ The following types of entities are annotated:
 * Product (`PROD`)
 * Event (`EVT`)
 * Miscellaneous (`MISC`)
+* Derived(`DRV`)
 
 Furthermore, all `GPE` entities are additionally sub-categorized as being either `ORG` or `LOC`, with the two annotation levels separated by an underscore:
 
@@ -84,6 +85,7 @@ A GPE entity subsumes and does not distinguish between a nation, its region, its
 * **Product:** Artificially produced entities are regarded products. This may include more abstract entities, such as speeches, 
 radio shows, programming languages, contracts, laws and ideas.
 * **Event:** Festivals, cultural events, sports events, weather phenomena, wars, etc. Events are bounded in time and space.
+* **Derived:** Words (and phrases?) that are dervied from a name, but not a name in themselves. They typically contain a full name and are capitalized, but are not proper nouns. Examples (fictive) are "Brann-treneren" ("the Brann coach") or "Oslo-mannen" ("the man from Oslo").
 * **Miscellaneous:** Names that do not belong in the other categories. Examples are animals species and 
 names of medical conditions. Entities that are manufactured or produced are of type Products, 
 whereas thing naturally or spontaneously occurring are of type Miscellaneous. 
