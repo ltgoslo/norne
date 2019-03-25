@@ -4137,8 +4137,8 @@
 10	minner	minne	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	O
 11	om	om	ADP	_	_	15	case	_	O
 12	SA-mannen	SA-mann	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	13	appos	_	B-DRV
-13	Horst	Horst	PROPN	_	_	15	det	_	O
-14	Wessels	Wessel	PROPN	_	Case=Gen	13	name	_	O
+13	Horst	Horst	PROPN	_	_	15	det	_	B-PER
+14	Wessels	Wessel	PROPN	_	Case=Gen	13	name	_	I-PER
 15	skjebne	skjebne	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	10	nmod	_	O
 16	,	$,	PUNCT	_	_	10	punct	_	O
 17	og	og	CONJ	_	_	10	cc	_	O
@@ -6653,7 +6653,7 @@
 22	at	at	SCONJ	_	_	30	mark	_	O
 23	de	de	DET	_	Number=Plur|PronType=Dem	24	det	_	O
 24	Fortodol-kapslene	Fortodol-kapsel	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	30	nsubj	_	B-DRV
-25	Sverre	Sverre	PROPN	_	Gender=Masc	27	nsubj	_	O
+25	Sverre	Sverre	PROPN	_	Gender=Masc	27	nsubj	_	B-PER
 26	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	27	aux	_	O
 27	spist	spise	VERB	_	VerbForm=Part	24	acl:relcl	_	O
 28	,	$,	PUNCT	_	_	24	punct	_	O
@@ -23170,8 +23170,8 @@
 5	klart	klar	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	xcomp	_	O
 6	at	at	SCONJ	_	_	11	mark	_	O
 7	VIF-keeper	VIF-keeper	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	8	appos	_	B-DRV
-8	Patrick	Patrick	PROPN	_	_	11	nsubj	_	O
-9	DesRochers	DesRochers	PROPN	_	_	8	name	_	O
+8	Patrick	Patrick	PROPN	_	_	11	nsubj	_	B-PER
+9	DesRochers	DesRochers	PROPN	_	_	8	name	_	B-PER
 10	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	O
 11	skrevet	skrive	VERB	_	VerbForm=Part	3	csubj	_	O
 12	under	under	ADP	_	_	11	compound:prt	_	O
@@ -24329,8 +24329,8 @@
 3	at	at	SCONJ	_	_	9	mark	_	O
 4	selv	selv	ADV	_	_	6	nmod	_	O
 5	F-35-tilhenger	F-35-tilhenger	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	6	appos	_	B-DRV
-6	Robert	Robert	PROPN	_	Gender=Masc	9	nsubj	_	O
-7	Gates	Gates	PROPN	_	_	6	name	_	O
+6	Robert	Robert	PROPN	_	Gender=Masc	9	nsubj	_	B-PER
+7	Gates	Gates	PROPN	_	_	6	name	_	I-PER
 8	nå	nå	ADV	_	_	9	advmod	_	O
 9	antar	anta	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	O
 10	at	at	SCONJ	_	_	13	mark	_	O
@@ -24825,9 +24825,9 @@
 8	.	$.	PUNCT	_	_	2	punct	_	O
 
 1	Midtøsten-ekspert	Midtøsten-ekspert	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	appos	_	B-DRV
-2	Knut	Knut	PROPN	_	Gender=Masc	5	nsubj	_	O
-3	S.	S.	PROPN	_	_	2	name	_	O
-4	Vikør	Vikør	PROPN	_	_	2	name	_	O
+2	Knut	Knut	PROPN	_	Gender=Masc	5	nsubj	_	B-PER
+3	S.	S.	PROPN	_	_	2	name	_	I-PER
+4	Vikør	Vikør	PROPN	_	_	2	name	_	I-PER
 5	frykter	frykte	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	O
 6	at	at	SCONJ	_	_	14	mark	_	O
 7	sivile	sivil	ADJ	_	Degree=Pos|Number=Plur	14	nsubjpass	_	O

@@ -1585,8 +1585,8 @@
 14	med	med	ADP	_	_	17	case	_	O
 15	tidligere	tidlig	ADJ	_	Degree=Cmp	16	amod	_	O
 16	Dagsnytt-redaktør	Dagsnytt-redaktør	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	17	appos	_	B-DRV
-17	Per	Per	PROPN	_	Gender=Masc	13	nmod	_	O
-18	Bøhn	Bøhn	PROPN	_	_	17	name	_	O
+17	Per	Per	PROPN	_	Gender=Masc	13	nmod	_	B-PER
+18	Bøhn	Bøhn	PROPN	_	_	17	name	_	I-PER
 19	og	og	CONJ	_	_	13	cc	_	O
 20	70	70	NUM	_	Number=Plur	24	nummod	_	O
 21	-	$-	PUNCT	_	_	20	punct	_	O
@@ -2200,8 +2200,8 @@
 16	,	$,	PUNCT	_	_	5	punct	_	O
 17	sier	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	parataxis	_	O
 18	NATO-talsmann	NATO-talsmann	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	19	appos	_	B-DRV
-19	James	James	PROPN	_	_	17	nsubj	_	O
-20	Appathurai	Appathurai	PROPN	_	_	19	name	_	O
+19	James	James	PROPN	_	_	17	nsubj	_	B-PER
+20	Appathurai	Appathurai	PROPN	_	_	19	name	_	I-PER
 21	.	$.	PUNCT	_	_	5	punct	_	O
 
 1	Han	han	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	O
@@ -3128,8 +3128,8 @@
 19	.	$.	PUNCT	_	_	6	punct	_	O
 
 1	Venstre-leder	venstre-leder	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	appos	_	B-DRV
-2	Lars	Lars	PROPN	_	Gender=Masc	4	nsubj	_	O
-3	Sponheim	Sponheim	PROPN	_	_	2	name	_	O
+2	Lars	Lars	PROPN	_	Gender=Masc	4	nsubj	_	B-PER
+3	Sponheim	Sponheim	PROPN	_	_	2	name	_	I-PER
 4	etterlater	etterlate	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	O
 5	ingen	ingen	DET	_	Gender=Masc|Number=Sing	6	neg	_	O
 6	tvil	tvil	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	dobj	_	O
@@ -3155,8 +3155,8 @@
 2	vil	ville	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	O
 3	også	også	ADV	_	_	2	advmod	_	O
 4	KrF-leder	KrF-leder	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	appos	_	B-DRV
-5	Dagfinn	Dagfinn	PROPN	_	Gender=Masc	2	nsubj	_	O
-6	Høybråten	Høybråten	PROPN	_	_	5	name	_	O
+5	Dagfinn	Dagfinn	PROPN	_	Gender=Masc	2	nsubj	_	B-PER
+6	Høybråten	Høybråten	PROPN	_	_	5	name	_	I-PER
 7	selv	selv	ADV	_	_	8	advmod	_	O
 8	om	om	SCONJ	_	_	11	mark	_	O
 9	han	han	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	O
@@ -23841,9 +23841,9 @@
 5	|	$|	SYM	_	_	2	punct	_	O
 
 1	Tønsberg-ordfører	Tønsberg-ordfører	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	appos	_	B-DRV
-2	Per	Per	PROPN	_	Gender=Masc	9	nsubj	_	O
-3	Arne	Arne	PROPN	_	Gender=Masc	2	name	_	O
-4	Olsen	Olsen	PROPN	_	_	2	name	_	O
+2	Per	Per	PROPN	_	Gender=Masc	9	nsubj	_	B-PER
+3	Arne	Arne	PROPN	_	Gender=Masc	2	name	_	I-PER
+4	Olsen	Olsen	PROPN	_	_	2	name	_	I-PER
 5	(	$(	PUNCT	_	_	6	punct	_	O
 6	Frp	Frp	PROPN	_	_	2	nmod	_	B-ORG
 7	)	$)	PUNCT	_	_	6	punct	_	O
