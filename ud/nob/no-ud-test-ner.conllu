@@ -23171,7 +23171,7 @@
 6	at	at	SCONJ	_	_	11	mark	_	O
 7	VIF-keeper	VIF-keeper	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	8	appos	_	B-DRV
 8	Patrick	Patrick	PROPN	_	_	11	nsubj	_	B-PER
-9	DesRochers	DesRochers	PROPN	_	_	8	name	_	B-PER
+9	DesRochers	DesRochers	PROPN	_	_	8	name	_	I-PER
 10	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	O
 11	skrevet	skrive	VERB	_	VerbForm=Part	3	csubj	_	O
 12	under	under	ADP	_	_	11	compound:prt	_	O
