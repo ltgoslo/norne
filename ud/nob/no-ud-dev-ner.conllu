@@ -2146,7 +2146,7 @@
 7	til	til	ADP	_	_	10	case	_	O
 8	den	den	DET	_	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	O
 9	NATO-ledede	NATO-lede	ADJ	_	Definite=Def|Number=Sing	10	amod	_	B-DRV
-10	ISAF-styrken	ISAF-styrke	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	O
+10	ISAF-styrken	ISAF-styrke	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	B-DRV
 11	i	i	ADP	_	_	12	case	_	O
 12	Afghanistan	Afghanistan	PROPN	_	_	10	nmod	_	B-GPE_LOC
 13	.	$.	PUNCT	_	_	5	punct	_	O
