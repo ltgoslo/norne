@@ -55,9 +55,9 @@ Furthermore, all `GPE` entities are additionally sub-categorized as being either
 
 The two special types `GPE_LOC` and `GPE_ORG` can easily be altered depending on the task, choosing either the more general `GPE` tag or the more specific `LOC`/`ORG` tags, conflating them with the other annotations of the same type. This means that the following sets of entity types can be derived:
 
-* 6 types, deleting `_GPE`: **`ORG`**, **`LOC`**, `PER`, `PROD`, `EVT`, `MISC`
-* 7 types, deleting `LOC_` and `ORG_`: **`ORG`**, **`LOC`**, **`GPE`**, `PER`, `PROD`, `EVT`, `MISC`
-* 8 types, keeping all types: **`ORG`**, **`LOC`**, **`GPE_LOC`**, **`GPE_ORG`**, `PER`, `PROD`, `EVT`, `MISC`
+* 7 types, deleting `_GPE`: **`ORG`**, **`LOC`**, `PER`, `PROD`, `EVT`, `DRV`, `MISC`
+* 8 types, deleting `LOC_` and `ORG_`: **`ORG`**, **`LOC`**, **`GPE`**, `PER`, `PROD`, `EVT`, `DRV`, `MISC`
+* 9 types, keeping all types: **`ORG`**, **`LOC`**, **`GPE_LOC`**, **`GPE_ORG`**, `PER`, `PROD`, `EVT`, `DRV`, `MISC`
 
 
 The class distribution is as follows, broken down across the data splits of the UD version of NDT, and sorted by total counts (i.e. the number of examples, not tokens within the spans of the annotatons):
