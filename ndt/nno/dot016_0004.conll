@@ -1,0 +1,37 @@
+1	Difor	difor	adv	adv	_	2	ADV	_	name=O
+2	vert	verte	verb	verb	pres	0	FINV	_	name=O
+3	det	det	pron	pron	pers|3|nøyt|eint	2	FSUBJ	_	name=O
+4	meir	mykje	adj	adj	komp	5	ATR	_	name=O
+5	merksemd	merksemd	subst	subst	fem|appell|ub|eint	2	PSUBJ	_	name=O
+6	kring	kring	prep	prep	_	5	ATR	_	name=O
+7	spørsmål	spørsmål	subst	subst	nøyt|appell|ub|fl	6	PUTFYLL	_	name=O
+8	om	om	prep	prep	_	7	ATR	_	name=O
+9	integritet	integritet	subst	subst	mask|appell|ub|eint	8	PUTFYLL	_	name=O
+10	og	og	konj	konj	<ikkje-clb>	13	KONJ	_	name=O
+11	om	om	sbu	sbu	_	13	SBU	_	name=O
+12	ein	ein	pron	pron	pers|eint|hum	13	SUBJ	_	name=O
+13	kan	kunne	verb	verb	pres	8	KOORD	_	name=O
+14	ta	ta	verb	verb	inf	13	INFV	_	name=O
+15	ein	ein	det	det	kvant|mask|eint	16	DET	_	name=O
+16	politikar	politikar	subst	subst	mask|appell|ub|eint	14	DOBJ	_	name=O
+17	for	for	prep	prep	_	14	ADV	_	name=O
+18	å	å	inf-merke	inf-merke	_	17	PUTFYLL	_	name=O
+19	tala	tale	verb	verb	inf	18	INFV	_	name=O
+20	usant	usann	adj	adj	pos|nøyt|ub|eint	19	ADV	_	name=O
+21	-	$-	<strek>	<strek>	_	14	IK	_	name=O
+22	same	same	det	det	dem|<adj>|bu	23	ADV	_	name=O
+23	kor	kor	adv	adv	_	24	ADV	_	name=O
+24	bagatellmessig	bagatellmessig	adj	adj	pos|m/f|ub|eint	27	SPRED	_	name=O
+25	saka	sak	subst	subst	fem|appell|eint|bu	26	SUBJ	_	name=O
+26	måtte	måtte	verb	verb	pret	14	ADV	_	name=O
+27	vera	vere	verb	verb	inf	26	INFV	_	name=O
+28	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
+1	Det	det	pron	pron	pers|3|nøyt|eint	6	PUTFYLL	_	name=O
+2	må	måtte	verb	verb	pres	0	FINV	_	name=O
+3	politikarane	politikar	subst	subst	mask|appell|fl|bu	2	SUBJ	_	name=O
+4	ta	ta	verb	verb	inf	2	INFV	_	name=O
+5	høgd	høgd	subst	subst	fem|appell|ub|eint	4	DOBJ	_	name=O
+6	for	for	prep	prep	_	4	ADV	_	name=O
+7	.	$.	clb	clb	<punkt>	2	IP	_	name=O
+
