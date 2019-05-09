@@ -829,8 +829,8 @@
 19	og	og	konj	konj	<ikke-clb>	20	KONJ	_	name=O
 20	irritert	irritere	adj	adj	ub|m/f|ent|<perf-part>	18	KOORD	_	name=O
 21	Start-trener	Start-trener	subst	subst	appell|mask|ub|ent|samset	22	APP	_	name=B-DRV
-22	Arne	Arne	subst	subst	prop|mask	16	SUBJ	_	name=O
-23	Sandstø	Sandstø	subst	subst	prop	22	FLAT	_	name=O
+22	Arne	Arne	subst	subst	prop|mask	16	SUBJ	_	name=B-PER
+23	Sandstø	Sandstø	subst	subst	prop	22	FLAT	_	name=I-PER
 24	til	til	prep	prep	_	16	ADV	_	name=O
 25	fvn.no	fvn.no	subst	subst	prop	24	PUTFYLL	_	name=B-PROD
 26	etter	etter	prep	prep	_	16	ADV	_	name=O
@@ -858,8 +858,8 @@
 8	,	$,	<komma>	<komma>	_	2	IK	_	name=O
 9	kontrer	kontre	verb	verb	pres	2	PAR	_	name=O
 10	Bryne-spiller	Bryne-spiller	subst	subst	appell|mask|ub|ent|samset	11	APP	_	name=B-DRV
-11	Espen	Espen	subst	subst	prop|mask	9	SUBJ	_	name=O
-12	Ertzeid	Ertzeid	subst	subst	prop	11	FLAT	_	name=O
+11	Espen	Espen	subst	subst	prop|mask	9	SUBJ	_	name=B-PER
+12	Ertzeid	Ertzeid	subst	subst	prop	11	FLAT	_	name=I-PER
 13	når	når	sbu	sbu	_	15	SBU	_	name=O
 14	han	han	pron	pron	mask|ent|pers|hum|3|nom	15	SUBJ	_	name=O
 15	får	få	verb	verb	pres	9	ADV	_	name=O
@@ -871,8 +871,8 @@
 21	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Bryne-trener	Bryne-trener	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Rolf	Rolf	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Teigen	Teigen	subst	subst	prop	2	FLAT	_	name=O
+2	Rolf	Rolf	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Teigen	Teigen	subst	subst	prop	2	FLAT	_	name=I-PER
 4	nekter	nekte	verb	verb	pres	0	FINV	_	name=O
 5	å	å	inf-merke	inf-merke	_	4	DOBJ	_	name=O
 6	kommentere	kommentere	verb	verb	inf	5	INFV	_	name=O

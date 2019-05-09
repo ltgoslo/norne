@@ -71,7 +71,7 @@
 18	tjene	tjene	verb	verb	inf	17	INFV	_	name=O
 19	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
-1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	2	DET	_	name=O
+1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	2	DET	_	name=B-ORG
 2	virke	virke	subst	subst	appell|nøyt|ub|ent	3	SUBJ	_	name=O
 3	skal	skulle	verb	verb	pres	0	FINV	_	name=O
 4	være	være	verb	verb	inf	3	INFV	_	name=O

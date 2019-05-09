@@ -22,8 +22,8 @@
 3	intervjuet	intervju	subst	subst	appell|nøyt|be|ent	1	PUTFYLL	_	name=O
 4	med	med	prep	prep	_	3	ATR	_	name=O
 5	Insomniac-sjef	Insomniac-sjef	subst	subst	appell|mask|ub|ent|samset	6	APP	_	name=B-DRV
-6	Ted	Ted	subst	subst	prop	4	PUTFYLL	_	name=O
-7	Price	Price	subst	subst	prop	6	FLAT	_	name=O
+6	Ted	Ted	subst	subst	prop	4	PUTFYLL	_	name=B-PER
+7	Price	Price	subst	subst	prop	6	FLAT	_	name=I-PER
 8	forteller	fortelle	verb	verb	pres	0	FINV	_	name=O
 9	han	han	pron	pron	mask|ent|pers|hum|3|nom	8	SUBJ	_	name=O
 10	mer	mye	adj	adj	komp	8	SPRED	_	name=O
@@ -745,8 +745,8 @@
 4	Mario	Mario	subst	subst	prop	6	FLAT	_	name=I-DRV
 5	»	$"	<anf>	<anf>	_	6	FLAT	_	name=I-DRV
 6	-skaper	-skaper	subst	subst	appell|mask|ub|ent|samset	7	APP	_	name=I-DRV
-7	Shigeru	Shigeru	subst	subst	prop	9	SUBJ	_	name=O
-8	Miyamoto	Miyamoto	subst	subst	prop	7	FLAT	_	name=O
+7	Shigeru	Shigeru	subst	subst	prop	9	SUBJ	_	name=B-PER
+8	Miyamoto	Miyamoto	subst	subst	prop	7	FLAT	_	name=I-PER
 9	står	stå	verb	verb	pres	1	DOBJ	_	name=O
 10	bak	bak	prep	prep	_	9	ADV	_	name=O
 11	dette	dette	pron	pron	nøyt|ent|pers|3	10	PUTFYLL	_	name=O

@@ -417,7 +417,7 @@
 5	gjestet	gjeste	verb	verb	pret	0	FINV	_	name=O
 6	António	António	subst	subst	prop	5	SUBJ	_	name=B-PER
 7	Guterres	Guterres	subst	subst	prop	6	FLAT	_	name=I-PER
-8	Norge	Norge	subst	subst	prop	5	DOBJ	_	name=O
+8	Norge	Norge	subst	subst	prop	5	DOBJ	_	name=B-GPE_LOC
 9	som	som	prep	prep	_	5	FSPRED	_	name=O
 10	Portugals	Portugal	subst	subst	prop|gen	11	DET	_	name=B-GPE_ORG
 11	statsminister	statsminister	subst	subst	appell|mask|ub|ent	9	PUTFYLL	_	name=O

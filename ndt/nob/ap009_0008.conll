@@ -411,8 +411,8 @@
 15	USAs	USA	subst	subst	prop|fork|gen	17	DET	_	name=B-GPE_ORG
 16	daværende	daværende	adj	adj	be|ent|pos	17	ATR	_	name=O
 17	FN-ambassadør	FN-ambassadør	subst	subst	appell|mask|ub|ent	18	APP	_	name=B-DRV
-18	John	John	subst	subst	prop|mask	14	SUBJ	_	name=O
-19	Bolten	Bolten	subst	subst	prop	18	FLAT	_	name=O
+18	John	John	subst	subst	prop|mask	14	SUBJ	_	name=B-PER
+19	Bolten	Bolten	subst	subst	prop	18	FLAT	_	name=I-PER
 20	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	Kinesere	kineser	subst	subst	appell|mask|ub|fl	4	SUBJ	_	name=O

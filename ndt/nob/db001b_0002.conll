@@ -292,8 +292,8 @@
 10	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	NHL-lagene	NHL-lag	subst	subst	appell|nøyt|be|fl|samset	2	APP	_	name=B-DRV
-2	Pittsburgh	Pittsburgh	subst	subst	prop	7	SUBJ	_	name=O
-3	Penguins	Penguins	subst	subst	prop	2	FLAT	_	name=O
+2	Pittsburgh	Pittsburgh	subst	subst	prop	7	SUBJ	_	name=B-ORG
+3	Penguins	Penguins	subst	subst	prop	2	FLAT	_	name=I-ORG
 4	og	og	konj	konj	<ikke-clb>	5	KONJ	_	name=O
 5	Ottawa	Ottawa	subst	subst	prop	2	KOORD	_	name=B-ORG
 6	Senators	Senators	subst	subst	prop	5	FLAT	_	name=I-ORG

@@ -1210,8 +1210,8 @@
 3	minoritetsmotstander	minoritetsmotstander	subst	subst	appell|mask|ub|ent|samset	6	APP	_	name=O
 4	,	$,	<komma>	<komma>	_	3	IK	_	name=O
 5	Venstres	Venstre	subst	subst	prop|gen	6	ATR	_	name=B-ORG
-6	Abid	Abid	subst	subst	prop	9	SUBJ	_	name=O
-7	Raja	Raja	subst	subst	prop	6	FLAT	_	name=O
+6	Abid	Abid	subst	subst	prop	9	SUBJ	_	name=B-PER
+7	Raja	Raja	subst	subst	prop	6	FLAT	_	name=I-PER
 8	,	$,	<komma>	<komma>	_	6	IK	_	name=O
 9	velger	velge	verb	verb	pres	0	FINV	_	name=O
 10	en	en	det	det	mask|ent|kvant	12	DET	_	name=O
@@ -1354,8 +1354,8 @@
 22	.	$.	clb	clb	<punkt>	5	IP	_	name=O
 
 1	Høyres	Høyre	subst	subst	prop|gen	2	DET	_	name=B-ORG
-2	Afshan	Afshan	subst	subst	prop	4	SUBJ	_	name=O
-3	Rafiq	Rafiq	subst	subst	prop	2	FLAT	_	name=O
+2	Afshan	Afshan	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Rafiq	Rafiq	subst	subst	prop	2	FLAT	_	name=I-PER
 4	er	være	verb	verb	pres	0	FINV	_	name=O
 5	ikke	ikke	adv	adv	_	4	ADV	_	name=O
 6	like	like	adv	adv	_	7	ADV	_	name=O

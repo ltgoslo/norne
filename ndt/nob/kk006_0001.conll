@@ -288,8 +288,8 @@
 11	Demokratene	Demokratene	subst	subst	prop	10	PUTFYLL	_	name=B-ORG
 12	i	i	prep	prep	_	11	ATR	_	name=O
 13	Kristiansund	Kristiansund	subst	subst	prop	12	PUTFYLL	_	name=B-GPE_LOC
-14	Håvard	Håvard	subst	subst	prop|mask	16	SUBJ	_	name=O
-15	Krane	Krane	subst	subst	prop	14	FLAT	_	name=O
+14	Håvard	Håvard	subst	subst	prop|mask	16	SUBJ	_	name=B-PER
+15	Krane	Krane	subst	subst	prop	14	FLAT	_	name=I-PER
 16	har	ha	verb	verb	pres	2	PSUBJ	_	name=O
 17	sagt	si	verb	verb	perf-part	16	INFV	_	name=O
 18	at	at	sbu	sbu	_	20	SBU	_	name=O

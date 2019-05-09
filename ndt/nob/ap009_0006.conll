@@ -1498,8 +1498,8 @@
 10	konsulenter	konsulent	subst	subst	appell|mask|ub|fl	8	KOORD	_	name=O
 11	i	i	prep	prep	_	10	ATR	_	name=O
 12	Norges	Norge	subst	subst	prop|gen	13	DET	_	name=B-GPE_LOC
-13	Silicon	Silicon	subst	subst	prop	11	PUTFYLL	_	name=O
-14	Valley	Valley	subst	subst	prop	13	FLAT	_	name=O
+13	Silicon	Silicon	subst	subst	prop	11	PUTFYLL	_	name=B-LOC
+14	Valley	Valley	subst	subst	prop	13	FLAT	_	name=I-LOC
 15	-	$-	<strek>	<strek>	_	13	IK	_	name=O
 16	IT-Fornebu	IT-Fornebu	subst	subst	prop	13	APP	_	name=B-LOC
 17	.	$.	clb	clb	<punkt>	5	IP	_	name=O
@@ -1616,8 +1616,8 @@
 23	arrangert	arrangere	verb	verb	perf-part	21	ATR	_	name=O
 24	av	av	prep	prep	_	23	ADV	_	name=O
 25	Høyres	Høyre	subst	subst	prop|gen	26	DET	_	name=B-ORG
-26	Aamir	Aamir	subst	subst	prop	24	PUTFYLL	_	name=O
-27	Sheikh	Sheikh	subst	subst	prop	26	FLAT	_	name=O
+26	Aamir	Aamir	subst	subst	prop	24	PUTFYLL	_	name=B-PER
+27	Sheikh	Sheikh	subst	subst	prop	26	FLAT	_	name=I-PER
 28	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Imidlertid	imidlertid	adv	adv	_	4	ADV	_	name=O

@@ -1173,7 +1173,7 @@
 1	Presidenten	president	subst	subst	appell|mask|be|ent	0	FRAG	_	name=O
 2	:	$:	clb	clb	<kolon>	1	IP	_	name=O
 
-1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	2	DET	_	name=O
+1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	2	DET	_	name=B-ORG
 2	erklæring	erklæring	subst	subst	appell|fem|ub|ent	3	SUBJ	_	name=O
 3	foreslås	foreslå	verb	verb	pres|pass	0	FINV	_	name=O
 4	utlagt	utlegge	verb	verb	perf-part	3	INFV	_	name=O

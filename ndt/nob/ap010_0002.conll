@@ -642,8 +642,8 @@
 4	.	$.	clb	clb	<punkt>	1	IP	_	name=O
 
 1	AUF-leder	AUF-leder	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Martin	Martin	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Henriksen	Henriksen	subst	subst	prop	2	FLAT	_	name=O
+2	Martin	Martin	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Henriksen	Henriksen	subst	subst	prop	2	FLAT	_	name=I-PER
 4	skulle	skulle	verb	verb	pret	0	FINV	_	name=O
 5	ønske	ønske	verb	verb	inf	4	INFV	_	name=O
 6	at	at	sbu	sbu	_	10	SBU	_	name=O
@@ -810,7 +810,7 @@
 3	finnes	finnes	verb	verb	pres|<s-verb>	0	FINV	_	name=O
 4	i	i	prep	prep	_	3	ADV	_	name=O
 5	Obamas	Obama	subst	subst	prop|gen	6	DET	_	name=B-PER
-6	Berlin-tale	Berlin-tale	subst	subst	appell|mask|ub|ent|samset	4	PUTFYLL	_	name=O
+6	Berlin-tale	Berlin-tale	subst	subst	appell|mask|ub|ent|samset	4	PUTFYLL	_	name=B-DRV
 7	,	$,	<komma>	<komma>	_	3	IK	_	name=O
 8	men	men	konj	konj	clb	10	KONJ	_	name=O
 9	pathos	pathos	subst	subst	ubøy	10	SUBJ	_	name=O

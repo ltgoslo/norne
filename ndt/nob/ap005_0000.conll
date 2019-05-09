@@ -972,7 +972,7 @@
 13	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Aftenbladet.no	Aftenbladet.no	subst	subst	prop	0	FRAG	_	name=B-ORG
-2	Sofia	Sofia	subst	subst	prop	1	ADV	_	name=O
+2	Sofia	Sofia	subst	subst	prop	1	ADV	_	name=B-GPE_LOC
 3	:	$:	clb	clb	<kolon>	1	IP	_	name=O
 
 1	Viking	Viking	subst	subst	prop	2	SUBJ	_	name=B-ORG
@@ -1165,7 +1165,7 @@
 10	fravær	fravær	subst	subst	appell|nøyt|ub|ent	7	PUTFYLL	_	name=O
 11	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
-1	Kongen	konge	subst	subst	appell|mask|be|ent	2	SUBJ	_	name=O
+1	Kongen	konge	subst	subst	appell|mask|be|ent	2	SUBJ	_	name=B-PER
 2	er	være	verb	verb	pres	0	FINV	_	name=O
 3	for	for	prep	prep	_	2	ADV	_	name=O
 4	tiden	tid	subst	subst	appell|mask|be|ent	3	PUTFYLL	_	name=O

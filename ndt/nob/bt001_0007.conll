@@ -1559,8 +1559,8 @@
 5	til	til	prep	prep	_	4	ADV	_	name=O
 6	Patti	Patti	subst	subst	prop	7	FLAT	_	name=B-DRV
 7	Smith-sangen	Smith-sang	subst	subst	appell|mask|be|ent|samset	8	APP	_	name=I-DRV
-8	Till	Till	subst	subst	prop	5	PUTFYLL	_	name=O
-9	Victory	Victory	subst	subst	prop	8	FLAT	_	name=O
+8	Till	Till	subst	subst	prop	5	PUTFYLL	_	name=B-PROD
+9	Victory	Victory	subst	subst	prop	8	FLAT	_	name=I-PROD
 10	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Det	det	pron	pron	nøyt|ent|pers|3	2	FSUBJ	_	name=O

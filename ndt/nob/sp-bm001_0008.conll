@@ -749,9 +749,9 @@
 5	.	$.	clb	clb	<punkt>	1	IP	_	name=O
 
 1	Norges	Norge	subst	subst	prop|gen	2	DET	_	name=B-GPE_LOC
-2	Alexander	Alexander	subst	subst	prop|mask	0	FRAG	_	name=O
-3	Dale	Dale	subst	subst	prop	2	FLAT	_	name=O
-4	Oen	Oen	subst	subst	prop	2	FLAT	_	name=O
+2	Alexander	Alexander	subst	subst	prop|mask	0	FRAG	_	name=B-PER
+3	Dale	Dale	subst	subst	prop	2	FLAT	_	name=I-PER
+4	Oen	Oen	subst	subst	prop	2	FLAT	_	name=I-PER
 5	i	i	prep	prep	_	2	ATR	_	name=O
 6	aksjon	aksjon	subst	subst	appell|mask|ub|ent	5	PUTFYLL	_	name=O
 7	på	på	prep	prep	_	6	ATR	_	name=O

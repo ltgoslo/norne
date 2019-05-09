@@ -73,9 +73,9 @@
 
 1	Også	også	adv	adv	_	3	ATR	_	name=O
 2	Vålerengas	Vålerenga	subst	subst	prop|gen	3	DET	_	name=B-ORG
-3	Freddy	Freddy	subst	subst	prop	17	SUBJ	_	name=O
-4	dos	dos	subst	subst	prop	3	FLAT	_	name=O
-5	Santos	Santos	subst	subst	prop	3	FLAT	_	name=O
+3	Freddy	Freddy	subst	subst	prop	17	SUBJ	_	name=B-PER
+4	dos	dos	subst	subst	prop	3	FLAT	_	name=I-PER
+5	Santos	Santos	subst	subst	prop	3	FLAT	_	name=I-PER
 6	,	$,	<komma>	<komma>	_	3	IK	_	name=O
 7	som	som	sbu	sbu	_	9	SBU	_	name=O
 8	selv	selv	adv	adv	_	10	ADV	_	name=O
@@ -183,8 +183,8 @@
 27	,	$,	<komma>	<komma>	_	16	IK	_	name=O
 28	sier	si	verb	verb	pres	3	PAR	_	name=O
 29	Vålerenga-kaptein	Vålerenga-kaptein	subst	subst	appell|mask|ub|ent|samset	30	APP	_	name=B-DRV
-30	Kristofer	Kristofer	subst	subst	prop	28	SUBJ	_	name=O
-31	Hæstad	Hæstad	subst	subst	prop	30	FLAT	_	name=O
+30	Kristofer	Kristofer	subst	subst	prop	28	SUBJ	_	name=B-PER
+31	Hæstad	Hæstad	subst	subst	prop	30	FLAT	_	name=I-PER
 32	til	til	prep	prep	_	28	ADV	_	name=O
 33	VIF	VIF	subst	subst	prop	32	PUTFYLL	_	name=B-ORG
 34	TV	TV	subst	subst	appell|mask|ub|ent	33	FLAT	_	name=I-ORG
@@ -738,8 +738,8 @@
 7	video	video	subst	subst	appell|mask|ub|ent	3	DOBJ	_	name=O
 8	hvor	hvor	adv	adv	_	13	ADV	_	name=O
 9	Utøya-overlevende	utøya-overlevende	subst	subst	appell|mask|ub|ent|samset	10	APP	_	name=B-DRV
-10	Kristoffer	Kristoffer	subst	subst	prop|mask	13	SUBJ	_	name=O
-11	Bergersen	Bergersen	subst	subst	prop	10	FLAT	_	name=O
+10	Kristoffer	Kristoffer	subst	subst	prop|mask	13	SUBJ	_	name=B-PER
+11	Bergersen	Bergersen	subst	subst	prop	10	FLAT	_	name=I-PER
 12	som	som	sbu	sbu	_	13	SBU	_	name=O
 13	går	gå	verb	verb	pres	7	ATR	_	name=O
 14	opp	opp	prep	prep	_	13	ADV	_	name=O

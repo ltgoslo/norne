@@ -99,7 +99,7 @@
 2	Bibelen	Bibelen	subst	subst	prop	1	PUTFYLL	_	name=B-PROD
 3	var	være	verb	verb	pret	0	FINV	_	name=O
 4	Leah	Leah	subst	subst	prop	3	SUBJ	_	name=B-PER
-5	Jakobs	Jakob	subst	subst	prop|mask|gen	6	DET	_	name=O
+5	Jakobs	Jakob	subst	subst	prop|mask|gen	6	DET	_	name=B-PER
 6	kone	kone	subst	subst	appell|fem|ub|ent	3	SPRED	_	name=O
 7	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
@@ -501,8 +501,8 @@
 19	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Ap-leder	Ap-leder	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Jens	Jens	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Stoltenberg	Stoltenberg	subst	subst	prop	2	FLAT	_	name=O
+2	Jens	Jens	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Stoltenberg	Stoltenberg	subst	subst	prop	2	FLAT	_	name=I-PER
 4	sender	sende	verb	verb	pres	0	FINV	_	name=O
 5	sine	sin	det	det	fl|poss	6	DET	_	name=O
 6	gratulasjoner	gratulasjon	subst	subst	appell|mask|ub|fl	4	DOBJ	_	name=O
@@ -686,9 +686,9 @@
 8	"	$"	<anf>	<anf>	_	2	IK	_	name=O
 
 1	Oslo-biskop	Oslo-biskop	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Ole	Ole	subst	subst	prop|mask	5	SUBJ	_	name=O
-3	Christian	Christian	subst	subst	prop|mask	2	FLAT	_	name=O
-4	Kvarme	Kvarme	subst	subst	prop	2	FLAT	_	name=O
+2	Ole	Ole	subst	subst	prop|mask	5	SUBJ	_	name=B-PER
+3	Christian	Christian	subst	subst	prop|mask	2	FLAT	_	name=I-PER
+4	Kvarme	Kvarme	subst	subst	prop	2	FLAT	_	name=I-PER
 5	sender	sende	verb	verb	pres	0	FINV	_	name=O
 6	sine	sin	det	det	fl|poss	8	DET	_	name=O
 7	varmeste	varm	adj	adj	be|sup	8	ATR	_	name=O
@@ -1107,8 +1107,8 @@
 18	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	Akvariet-sjef	Akvariet-sjef	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Kees	Kees	subst	subst	prop	4	SUBJ	_	name=O
-3	Ekeli	Ekeli	subst	subst	prop	2	FLAT	_	name=O
+2	Kees	Kees	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Ekeli	Ekeli	subst	subst	prop	2	FLAT	_	name=I-PER
 4	reagerer	reagere	verb	verb	pres	0	FINV	_	name=O
 5	sterkt	sterk	adj	adj	nøyt|ub|ent|pos	4	ADV	_	name=O
 6	på	på	prep	prep	_	4	ADV	_	name=O

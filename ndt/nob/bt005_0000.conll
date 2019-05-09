@@ -512,9 +512,9 @@
 16	,	$,	<komma>	<komma>	_	13	IK	_	name=O
 17	spør	spørre	verb	verb	pres	13	PAR	_	name=O
 18	Venstres	Venstre	subst	subst	prop|gen	19	DET	_	name=B-ORG
-19	Trine	Trine	subst	subst	prop|fem	17	SUBJ	_	name=O
-20	Skei	Skei	subst	subst	prop	19	FLAT	_	name=O
-21	Grande	Grande	subst	subst	prop	19	FLAT	_	name=O
+19	Trine	Trine	subst	subst	prop|fem	17	SUBJ	_	name=B-PER
+20	Skei	Skei	subst	subst	prop	19	FLAT	_	name=I-PER
+21	Grande	Grande	subst	subst	prop	19	FLAT	_	name=I-PER
 22	.	$.	clb	clb	<punkt>	13	IP	_	name=O
 
 1	-	$-	<strek>	<strek>	_	3	IK	_	name=O
@@ -627,8 +627,8 @@
 30	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	PST-sjef	PST-sjef	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Janne	Janne	subst	subst	prop	4	SUBJ	_	name=O
-3	Kristiansen	Kristiansen	subst	subst	prop	2	FLAT	_	name=O
+2	Janne	Janne	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Kristiansen	Kristiansen	subst	subst	prop	2	FLAT	_	name=I-PER
 4	utdyper	utdype	verb	verb	pres	0	FINV	_	name=O
 5	:	$:	clb	clb	<kolon>	4	IP	_	name=O
 
@@ -809,9 +809,9 @@
 12	,	$,	<komma>	<komma>	_	3	IK	_	name=O
 13	spør	spørre	verb	verb	pres	3	PAR	_	name=O
 14	Venstres	Venstre	subst	subst	prop|gen	15	DET	_	name=B-ORG
-15	Trine	Trine	subst	subst	prop|fem	13	SUBJ	_	name=O
-16	Skei	Skei	subst	subst	prop	15	FLAT	_	name=O
-17	Grande	Grande	subst	subst	prop	15	FLAT	_	name=O
+15	Trine	Trine	subst	subst	prop|fem	13	SUBJ	_	name=B-PER
+16	Skei	Skei	subst	subst	prop	15	FLAT	_	name=I-PER
+17	Grande	Grande	subst	subst	prop	15	FLAT	_	name=I-PER
 18	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	-	$-	<strek>	<strek>	_	4	IK	_	name=O
@@ -951,7 +951,7 @@
 8	,	$,	<komma>	<komma>	_	2	IK	_	name=O
 9	svare	svare	verb	verb	pres|unorm	2	PAR	_	name=O
 10	PST-sjef	PST-sjef	subst	subst	appell|mask|ub|ent|samset	11	APP	_	name=B-DRV
-11	Kristiansen	Kristiansen	subst	subst	prop	9	SUBJ	_	name=O
+11	Kristiansen	Kristiansen	subst	subst	prop	9	SUBJ	_	name=B-PER
 12	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	-	$-	<strek>	<strek>	_	3	IK	_	name=O
@@ -1322,8 +1322,8 @@
 16	?	$?	clb	clb	<spm>	1	IP	_	name=O
 
 1	PST-sjef	PST-sjef	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Janne	Janne	subst	subst	prop	4	SUBJ	_	name=O
-3	Kristiansen	Kristiansen	subst	subst	prop	2	FLAT	_	name=O
+2	Janne	Janne	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Kristiansen	Kristiansen	subst	subst	prop	2	FLAT	_	name=I-PER
 4	svarer	svare	verb	verb	pres	0	FINV	_	name=O
 5	:	$:	clb	clb	<kolon>	4	IP	_	name=O
 

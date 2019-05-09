@@ -107,7 +107,7 @@
 13	vedtatt	vedta	verb	verb	perf-part	12	INFV	_	name=O
 14	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
-1	Demokratene	Demokratene	subst	subst	prop	2	SUBJ	_	name=O
+1	Demokratene	Demokratene	subst	subst	prop	2	SUBJ	_	name=B-ORG
 2	kan	kunne	verb	verb	pres	0	FINV	_	name=O
 3	trolig	trolig	adj	adj	nøyt|ub|ent|pos	7	ADV	_	name=O
 4	med	med	prep	prep	_	7	ADV	_	name=O
@@ -1418,7 +1418,7 @@
 
 1	Taper	tape	verb	verb	pres	5	ADV	_	name=O
 2	NATO	NATO	subst	subst	appell|fork	1	SUBJ	_	name=B-ORG
-3	Afghanistan	Afghanistan	subst	subst	prop	1	DOBJ	_	name=O
+3	Afghanistan	Afghanistan	subst	subst	prop	1	DOBJ	_	name=B-EVT
 4	,	$,	<komma>	<komma>	_	1	IK	_	name=O
 5	styrker	styrke	verb	verb	pres	0	FINV	_	name=O
 6	man	man	pron	pron	ent|pers|hum|nom	5	SUBJ	_	name=O

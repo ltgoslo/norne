@@ -1271,7 +1271,7 @@
 12	Forsvaret	Forsvaret	subst	subst	prop	11	PUTFYLL	_	name=B-ORG
 13	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
-1	Forsvaret	Forsvaret	subst	subst	prop	2	SUBJ	_	name=O
+1	Forsvaret	Forsvaret	subst	subst	prop	2	SUBJ	_	name=B-ORG
 2	skal	skulle	verb	verb	pres	0	FINV	_	name=O
 3	tilpasses	tilpasse	verb	verb	inf|pass	2	INFV	_	name=O
 4	de	de	det	det	dem|fl	6	DET	_	name=O

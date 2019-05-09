@@ -978,8 +978,8 @@
 12	innover	innover	prep	prep	_	8	ADV	_	name=O
 13	mot	mot	prep	prep	_	12	PUTFYLL	_	name=O
 14	Oslo	Oslo	subst	subst	prop	13	PUTFYLL	_	name=B-GPE_LOC
-15	22.	22.	adj	adj	fl|<ordenstall>	16	ATR	_	name=O
-16	juli	juli	subst	subst	appell|mask|ubøy	8	ADV	_	name=O
+15	22.	22.	adj	adj	fl|<ordenstall>	16	ATR	_	name=B-EVT
+16	juli	juli	subst	subst	appell|mask|ubøy	8	ADV	_	name=I-EVT
 17	var	være	verb	verb	pret	0	FINV	_	name=O
 18	palestinernes	palestiner	subst	subst	appell|mask|be|fl|gen	19	DET	_	name=O
 19	president	president	subst	subst	appell|mask|ub|ent	20	APP	_	name=O
@@ -1118,8 +1118,8 @@
 27	han	han	pron	pron	mask|ent|pers|hum|3|nom	26	SUBJ	_	name=O
 28	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
-1	Statsministerens	statsministerens	subst	subst	prop	3	SUBJ	_	name=O
-2	kontor	kontor	subst	subst	appell|nøyt|ub|ent	1	FLAT	_	name=O
+1	Statsministerens	statsministerens	subst	subst	prop	3	SUBJ	_	name=B-ORG
+2	kontor	kontor	subst	subst	appell|nøyt|ub|ent	1	FLAT	_	name=I-ORG
 3	har	ha	verb	verb	pres	0	FINV	_	name=O
 4	mottatt	motta	verb	verb	perf-part	3	INFV	_	name=O
 5	opp	opp	prep	prep	_	8	DET	_	name=O

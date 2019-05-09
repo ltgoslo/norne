@@ -633,7 +633,7 @@
 1	Ta	ta	verb	verb	imp	0	FINV	_	name=O
 2	Phil	Phil	subst	subst	prop	1	DOBJ	_	name=B-PER
 3	Scolari	Scolari	subst	subst	prop	2	FLAT	_	name=I-PER
-4	Chelsea-manageren	Chelsea-manager	subst	subst	appell|mask|be|ent|samset	2	APP	_	name=O
+4	Chelsea-manageren	Chelsea-manager	subst	subst	appell|mask|be|ent|samset	2	APP	_	name=B-DRV
 5	som	som	sbu	sbu	_	6	SBU	_	name=O
 6	har	ha	verb	verb	pres	4	ATR	_	name=O
 7	sagt	si	verb	verb	perf-part	6	INFV	_	name=O

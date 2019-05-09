@@ -1002,7 +1002,7 @@
 22	.	$.	clb	clb	<punkt>	5	IP	_	name=O
 
 1	USAs	USA	subst	subst	prop|fork|gen	2	DET	_	name=B-GPE_ORG
-2	FN-ambassadør	FN-ambassadør	subst	subst	appell|mask|ub|ent	3	APP	_	name=O
+2	FN-ambassadør	FN-ambassadør	subst	subst	appell|mask|ub|ent	3	APP	_	name=B-DRV
 3	Susan	Susan	subst	subst	prop	5	SUBJ	_	name=B-PER
 4	Rice	Rice	subst	subst	prop	3	FLAT	_	name=I-PER
 5	sa	si	verb	verb	pret	0	FINV	_	name=O

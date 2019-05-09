@@ -1639,9 +1639,9 @@
 9	utfordrer	utfordrer	subst	subst	appell|mask|ub|ent	12	APP	_	name=O
 10	,	$,	<komma>	<komma>	_	9	IK	_	name=O
 11	Senterpartiets	Senterpartiet	subst	subst	prop|nøyt|gen	12	DET	_	name=B-ORG
-12	Lars	Lars	subst	subst	prop|mask	3	KOORD	_	name=O
-13	Peder	Peder	subst	subst	prop|mask	12	FLAT	_	name=O
-14	Brekk	Brekk	subst	subst	prop	12	FLAT	_	name=O
+12	Lars	Lars	subst	subst	prop|mask	3	KOORD	_	name=B-PER
+13	Peder	Peder	subst	subst	prop|mask	12	FLAT	_	name=I-PER
+14	Brekk	Brekk	subst	subst	prop	12	FLAT	_	name=I-PER
 15	,	$,	<komma>	<komma>	_	12	IK	_	name=O
 16	møtes	møtes	verb	verb	pres|<s-verb>	0	FINV	_	name=O
 17	til	til	prep	prep	_	16	ADV	_	name=O

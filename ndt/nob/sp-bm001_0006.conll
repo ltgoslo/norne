@@ -1492,8 +1492,8 @@
 4	|	$|	clb	clb	<overskrift>	1	IP	_	name=O
 
 1	Frps	Frp	subst	subst	prop|fork|gen	2	DET	_	name=B-ORG
-2	Oskar	Oskar	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Grimstad	Grimstad	subst	subst	prop	2	FLAT	_	name=O
+2	Oskar	Oskar	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Grimstad	Grimstad	subst	subst	prop	2	FLAT	_	name=I-PER
 4	fikk	få	verb	verb	pret	0	FINV	_	name=O
 5	ikke	ikke	adv	adv	_	4	ADV	_	name=O
 6	øye	øye	subst	subst	appell|nøyt|ub|ent	4	DOBJ	_	name=O
@@ -1524,8 +1524,8 @@
 12	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	Frps	Frp	subst	subst	prop|fork|gen	2	DET	_	name=B-ORG
-2	Oskar	Oskar	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Grimstad	Grimstad	subst	subst	prop	2	FLAT	_	name=O
+2	Oskar	Oskar	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Grimstad	Grimstad	subst	subst	prop	2	FLAT	_	name=I-PER
 4	fikk	få	verb	verb	pret	0	FINV	_	name=O
 5	se	se	verb	verb	inf	4	INFV	_	name=O
 6	fire	fire	det	det	fl|kvant	5	DOBJ	_	name=O

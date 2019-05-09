@@ -363,8 +363,8 @@
 3	uke	uke	subst	subst	appell|fem|ub|ent	1	PUTFYLL	_	name=O
 4	signaliserte	signalisere	verb	verb	pret	0	FINV	_	name=O
 5	SFT-direktør	SFT-direktør	subst	subst	appell|mask|ub|ent|samset	6	APP	_	name=B-DRV
-6	Håvard	Håvard	subst	subst	prop|mask	4	SUBJ	_	name=O
-7	Holm	Holm	subst	subst	prop	6	FLAT	_	name=O
+6	Håvard	Håvard	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+7	Holm	Holm	subst	subst	prop	6	FLAT	_	name=I-PER
 8	en	en	det	det	mask|ent|kvant	9	DET	_	name=O
 9	holdning	holdning	subst	subst	appell|mask|ub|ent	4	DOBJ	_	name=O
 10	som	som	sbu	sbu	_	11	SBU	_	name=O

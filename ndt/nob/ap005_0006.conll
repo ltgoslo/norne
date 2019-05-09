@@ -1119,8 +1119,8 @@
 30	,	$,	<komma>	<komma>	_	14	IK	_	name=O
 31	men	men	konj	konj	clb	35	KONJ	_	name=O
 32	AaFK-keeper	AaFK-keeper	subst	subst	appell|mask|ub|ent|samset	33	APP	_	name=B-DRV
-33	Nenad	Nenad	subst	subst	prop	35	SUBJ	_	name=O
-34	Novakovic	Novakovic	subst	subst	prop	33	FLAT	_	name=O
+33	Nenad	Nenad	subst	subst	prop	35	SUBJ	_	name=B-PER
+34	Novakovic	Novakovic	subst	subst	prop	33	FLAT	_	name=I-PER
 35	reddet	redde	verb	verb	pret	14	KOORD	_	name=O
 36	forholdsvis	forholdsvis	adv	adv	_	37	ADV	_	name=O
 37	enkelt	enkel	adj	adj	nøyt|ub|ent|pos	35	ADV	_	name=O
@@ -1588,8 +1588,8 @@
 6	duell	duell	subst	subst	appell|mask|ub|ent	5	PUTFYLL	_	name=O
 7	med	med	prep	prep	_	6	ATR	_	name=O
 8	Rosenborgs	Rosenborg	subst	subst	prop|gen	9	DET	_	name=B-ORG
-9	Adreas	Adreas	subst	subst	prop	7	PUTFYLL	_	name=O
-10	Nordvik	Nordvik	subst	subst	prop	9	FLAT	_	name=O
+9	Adreas	Adreas	subst	subst	prop	7	PUTFYLL	_	name=B-PER
+10	Nordvik	Nordvik	subst	subst	prop	9	FLAT	_	name=I-PER
 11	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	(	$(	<parentes-beg>	<parentes-beg>	_	2	IK	_	name=O
@@ -1613,8 +1613,8 @@
 11	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Rosenborg-trener	Rosenborg-trener	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Erik	Erik	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Hamrén	Hamrén	subst	subst	prop	2	FLAT	_	name=O
+2	Erik	Erik	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Hamrén	Hamrén	subst	subst	prop	2	FLAT	_	name=I-PER
 4	uttalte	uttale	verb	verb	pret	0	FINV	_	name=O
 5	blant	blant	prep	prep	_	4	ADV	_	name=O
 6	annet	annen	det	det	dem|nøyt|ub|ent|<adj>	5	PUTFYLL	_	name=O

@@ -1396,8 +1396,8 @@
 5	!	$!	clb	clb	<utrop>	2	IK	_	name=O
 6	jubler	juble	verb	verb	pres	2	PAR	_	name=O
 7	SVs	SV	subst	subst	prop|gen	8	DET	_	name=B-ORG
-8	Bjørn	Bjørn	subst	subst	prop|mask	6	SUBJ	_	name=O
-9	Jacobsen	Jacobsen	subst	subst	prop	8	FLAT	_	name=O
+8	Bjørn	Bjørn	subst	subst	prop|mask	6	SUBJ	_	name=B-PER
+9	Jacobsen	Jacobsen	subst	subst	prop	8	FLAT	_	name=I-PER
 10	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	name=O

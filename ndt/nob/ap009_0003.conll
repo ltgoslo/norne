@@ -1073,8 +1073,8 @@
 22	hvorvidt	hvorvidt	sbu	sbu	_	27	SBU	_	name=O
 23	Quentin	Quentin	subst	subst	prop	25	DET	_	name=B-PER
 24	Tarantinos	Tarantino	subst	subst	prop|gen	23	FLAT	_	name=I-PER
-25	Pulp	Pulp	subst	subst	prop	27	SUBJ	_	name=O
-26	Fiction	Fiction	subst	subst	prop	25	FLAT	_	name=O
+25	Pulp	Pulp	subst	subst	prop	27	SUBJ	_	name=B-PROD
+26	Fiction	Fiction	subst	subst	prop	25	FLAT	_	name=I-PROD
 27	er	være	verb	verb	pres	21	PUTFYLL	_	name=O
 28	en	en	det	det	mask|ent|kvant	30	DET	_	name=O
 29	moderne	moderne	adj	adj	ub|m/f|ent|pos	30	ATR	_	name=O

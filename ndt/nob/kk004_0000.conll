@@ -1778,8 +1778,8 @@
 4	frifant	frifinne	verb	verb	pret	0	FINV	_	name=O
 5	Boot	Boot	subst	subst	prop	6	FLAT	_	name=B-DRV
 6	Boys-medlem	Boys-medlem	subst	subst	appell|nøyt|ub|ent|samset	7	APP	_	name=I-DRV
-7	Terje	Terje	subst	subst	prop|mask	4	DOBJ	_	name=O
-8	Sjølie	Sjølie	subst	subst	prop	7	FLAT	_	name=O
+7	Terje	Terje	subst	subst	prop|mask	4	DOBJ	_	name=B-PER
+8	Sjølie	Sjølie	subst	subst	prop	7	FLAT	_	name=I-PER
 9	for	for	prep	prep	_	4	ADV	_	name=O
 10	hans	hans	det	det	fl|poss	12	DET	_	name=O
 11	antisemittiske	antisemittisk	adj	adj	fl|pos	12	ATR	_	name=O

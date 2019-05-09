@@ -1018,7 +1018,7 @@
 6	småbarn	småbarn	subst	subst	appell|nøyt|ub|fl	4	DOBJ	_	name=O
 7	|	$|	clb	clb	<overskrift>	3	IP	_	name=O
 
-1	Mattilsynet	Mattilsynet	subst	subst	prop	4	SUBJ	_	name=O
+1	Mattilsynet	Mattilsynet	subst	subst	prop	4	SUBJ	_	name=B-ORG
 2	i	i	prep	prep	_	1	ATR	_	name=O
 3	Nigeria	Nigeria	subst	subst	prop	2	PUTFYLL	_	name=B-GPE_LOC
 4	har	ha	verb	verb	pres	0	FINV	_	name=O

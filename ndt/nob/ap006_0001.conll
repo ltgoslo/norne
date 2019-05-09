@@ -770,7 +770,7 @@
 24	ene	ene	det	det	be|ent|kvant	21	APP	_	name=O
 25	om	om	prep	prep	_	24	ATR	_	name=O
 26	Ibsens	Ibsen	subst	subst	prop|gen	27	DET	_	name=B-PER
-27	Brand	Brand	subst	subst	prop	25	PUTFYLL	_	name=O
+27	Brand	Brand	subst	subst	prop	25	PUTFYLL	_	name=B-PROD
 28	der	der	sbu	sbu	_	30	SBU	_	name=O
 29	han	han	pron	pron	mask|ent|pers|hum|3|nom	30	SUBJ	_	name=O
 30	kritiserer	kritisere	verb	verb	pres	24	ATR	_	name=O

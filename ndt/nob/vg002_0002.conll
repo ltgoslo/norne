@@ -656,8 +656,8 @@
 2	:	$:	clb	clb	<kolon>	1	IP	_	name=O
 
 1	Venstre-politikeren	Venstre-politiker	subst	subst	appell|mask|be|ent|samset	2	APP	_	name=B-DRV
-2	Abid	Abid	subst	subst	prop	4	SUBJ	_	name=O
-3	Raja	Raja	subst	subst	prop	2	FLAT	_	name=O
+2	Abid	Abid	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Raja	Raja	subst	subst	prop	2	FLAT	_	name=I-PER
 4	er	være	verb	verb	pres	0	FINV	_	name=O
 5	selv	selv	adv	adv	_	4	ADV	_	name=O
 6	mulism	muslim	subst	subst	appell|mask|ub|ent|unorm	4	SPRED	_	name=O
@@ -730,8 +730,8 @@
 9	blant	blant	prep	prep	_	12	ATR	_	name=O
 10	annet	annen	det	det	dem|nøyt|ub|ent|<adj>	9	PUTFYLL	_	name=O
 11	Høyre-leder	Høyre-leder	subst	subst	appell|mask|ub|ent|samset	12	APP	_	name=B-DRV
-12	Erna	Erna	subst	subst	prop	8	PUTFYLL	_	name=O
-13	Solberg	Solberg	subst	subst	prop	12	FLAT	_	name=O
+12	Erna	Erna	subst	subst	prop	8	PUTFYLL	_	name=B-PER
+13	Solberg	Solberg	subst	subst	prop	12	FLAT	_	name=I-PER
 14	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	-	$-	<strek>	<strek>	_	4	IK	_	name=O
@@ -802,8 +802,8 @@
 31	blant	blant	prep	prep	_	34	ATR	_	name=O
 32	andre	annen	det	det	dem|fl|<adj>	31	PUTFYLL	_	name=O
 33	Frp-leder	Frp-leder	subst	subst	appell|mask|ub|ent|samset	34	APP	_	name=B-DRV
-34	Siv	Siv	subst	subst	prop	30	PUTFYLL	_	name=O
-35	Jensen	Jensen	subst	subst	prop	34	FLAT	_	name=O
+34	Siv	Siv	subst	subst	prop	30	PUTFYLL	_	name=B-PER
+35	Jensen	Jensen	subst	subst	prop	34	FLAT	_	name=I-PER
 36	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	-	$-	<strek>	<strek>	_	3	IK	_	name=O
@@ -871,9 +871,9 @@
 16	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Venstre-politiker	Venstre-politiker	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Abid	Abid	subst	subst	prop	5	SUBJ	_	name=O
-3	Q.	Q.	subst	subst	prop|fork	2	FLAT	_	name=O
-4	Raja	Raja	subst	subst	prop	2	FLAT	_	name=O
+2	Abid	Abid	subst	subst	prop	5	SUBJ	_	name=B-PER
+3	Q.	Q.	subst	subst	prop|fork	2	FLAT	_	name=I-PER
+4	Raja	Raja	subst	subst	prop	2	FLAT	_	name=I-PER
 5	forstår	forstå	verb	verb	pres	0	FINV	_	name=O
 6	at	at	sbu	sbu	_	8	SBU	_	name=O
 7	det	det	pron	pron	nøyt|ent|pers|3	8	FSUBJ	_	name=O

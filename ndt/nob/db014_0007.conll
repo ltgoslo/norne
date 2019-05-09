@@ -228,7 +228,7 @@
 1	Lørdag	lørdag	subst	subst	appell|mask|ub|ent	2	ADV	_	name=O
 2	slo	slå	verb	verb	pret	0	FINV	_	name=O
 3	Norge	Norge	subst	subst	prop	2	SUBJ	_	name=B-ORG
-4	Danmark	Danmark	subst	subst	prop	2	DOBJ	_	name=O
+4	Danmark	Danmark	subst	subst	prop	2	DOBJ	_	name=B-ORG
 5	7	7	det	det	fl|kvant	2	ADV	_	name=O
 6	-	$-	<strek>	<strek>	_	5	IK	_	name=O
 7	3	3	det	det	fl|kvant	5	KOORD	_	name=O

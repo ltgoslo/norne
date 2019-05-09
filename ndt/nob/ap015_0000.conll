@@ -751,7 +751,7 @@
 22	at	at	sbu	sbu	_	29	SBU	_	name=O
 23	de	de	det	det	dem|fl	24	DET	_	name=O
 24	Fortodol-kapslene	Fortodol-kapsel	subst	subst	appell|mask|be|fl|samset	29	SUBJ	_	name=B-DRV
-25	Sverre	Sverre	subst	subst	prop|mask	26	SUBJ	_	name=O
+25	Sverre	Sverre	subst	subst	prop|mask	26	SUBJ	_	name=B-PER
 26	har	ha	verb	verb	pres	24	ATR	_	name=O
 27	spist	spise	verb	verb	perf-part	26	INFV	_	name=O
 28	,	$,	<komma>	<komma>	_	24	IK	_	name=O

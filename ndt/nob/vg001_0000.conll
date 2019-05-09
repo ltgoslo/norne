@@ -1459,8 +1459,8 @@
 3	:	$:	clb	clb	<kolon>	1	IP	_	name=O
 
 1	Odd-trener	Odd-trener	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Dag-Eilev	Dag-Eilev	subst	subst	prop	4	SUBJ	_	name=O
-3	Fagermo	Fagermo	subst	subst	prop	2	FLAT	_	name=O
+2	Dag-Eilev	Dag-Eilev	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Fagermo	Fagermo	subst	subst	prop	2	FLAT	_	name=I-PER
 4	kan	kunne	verb	verb	pres	0	FINV	_	name=O
 5	glise	glise	verb	verb	inf	4	INFV	_	name=O
 6	etter	etter	prep	prep	_	5	ADV	_	name=O
@@ -1714,8 +1714,8 @@
 28	,	$,	<komma>	<komma>	_	24	IK	_	name=O
 29	sa	si	verb	verb	pret	5	KOORD	_	name=O
 30	Odd-trener	Odd-trener	subst	subst	appell|mask|ub|ent|samset	31	APP	_	name=B-DRV
-31	Dag-Eilev	Dag-Eilev	subst	subst	prop	29	SUBJ	_	name=O
-32	Fagermo	Fagermo	subst	subst	prop	31	FLAT	_	name=O
+31	Dag-Eilev	Dag-Eilev	subst	subst	prop	29	SUBJ	_	name=B-PER
+32	Fagermo	Fagermo	subst	subst	prop	31	FLAT	_	name=I-PER
 33	til	til	prep	prep	_	29	ADV	_	name=O
 34	VG	VG	subst	subst	prop	33	PUTFYLL	_	name=B-ORG
 35	Nett	Nett	subst	subst	prop	34	FLAT	_	name=I-ORG

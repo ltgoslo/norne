@@ -86,15 +86,15 @@
 6	fra	fra	prep	prep	_	5	ATR	_	name=O
 7	Stevie	Stevie	subst	subst	prop	8	FLAT	_	name=B-DRV
 8	Wonder-sangen	Wonder-sang	subst	subst	appell|mask|be|ent|samset	9	APP	_	name=I-DRV
-9	Signed	Signed	subst	subst	prop	6	PUTFYLL	_	name=O
-10	,	$,	<komma>	<komma>	_	9	FLAT	_	name=O
-11	Sealed	Sealed	subst	subst	prop	9	FLAT	_	name=O
-12	,	$,	<komma>	<komma>	_	9	FLAT	_	name=O
-13	Delivered	Delivered	subst	subst	prop	9	FLAT	_	name=O
-14	(	$(	<parentes-beg>	<parentes-beg>	_	9	FLAT	_	name=O
-15	I'm	I'm	subst	subst	prop	9	FLAT	_	name=O
-16	Yours	Yours	subst	subst	prop	9	FLAT	_	name=O
-17	)	$)	<parentes-slutt>	<parentes-slutt>	_	9	FLAT	_	name=O
+9	Signed	Signed	subst	subst	prop	6	PUTFYLL	_	name=B-PROD
+10	,	$,	<komma>	<komma>	_	9	FLAT	_	name=I-PROD
+11	Sealed	Sealed	subst	subst	prop	9	FLAT	_	name=I-PROD
+12	,	$,	<komma>	<komma>	_	9	FLAT	_	name=I-PROD
+13	Delivered	Delivered	subst	subst	prop	9	FLAT	_	name=I-PROD
+14	(	$(	<parentes-beg>	<parentes-beg>	_	9	FLAT	_	name=I-PROD
+15	I'm	I'm	subst	subst	prop	9	FLAT	_	name=I-PROD
+16	Yours	Yours	subst	subst	prop	9	FLAT	_	name=I-PROD
+17	)	$)	<parentes-slutt>	<parentes-slutt>	_	9	FLAT	_	name=I-PROD
 18	nå	nå	adv	adv	_	1	ADV	_	name=O
 19	.	$.	clb	clb	<punkt>	1	IP	_	name=O
 
@@ -855,8 +855,8 @@
 9	,	$,	<komma>	<komma>	_	6	IK	_	name=O
 10	skriver	skrive	verb	verb	pres	6	PAR	_	name=O
 11	BT-kommentator	BT-kommentator	subst	subst	appell|mask|ub|ent|samset	12	APP	_	name=B-DRV
-12	Frode	Frode	subst	subst	prop|mask	10	SUBJ	_	name=O
-13	Bjerkestrand	Bjerkestrand	subst	subst	prop	12	FLAT	_	name=O
+12	Frode	Frode	subst	subst	prop|mask	10	SUBJ	_	name=B-PER
+13	Bjerkestrand	Bjerkestrand	subst	subst	prop	12	FLAT	_	name=I-PER
 14	.	$.	clb	clb	<punkt>	6	IP	_	name=O
 
 1	Demokraten	demokrat	subst	subst	appell|mask|be|ent	2	APP	_	name=O
@@ -935,8 +935,8 @@
 17	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	CNNs	CNN	subst	subst	prop|gen	2	DET	_	name=B-ORG
-2	Wolf	Wolf	subst	subst	prop	4	SUBJ	_	name=O
-3	Blitzer	Blitzer	subst	subst	prop	2	FLAT	_	name=O
+2	Wolf	Wolf	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Blitzer	Blitzer	subst	subst	prop	2	FLAT	_	name=I-PER
 4	forventer	forvente	verb	verb	pres	0	FINV	_	name=O
 5	at	at	sbu	sbu	_	8	SBU	_	name=O
 6	Obamas	Obama	subst	subst	prop|gen	7	DET	_	name=B-PER

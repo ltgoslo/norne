@@ -788,8 +788,8 @@
 17	for	for	prep	prep	_	16	ATR	_	name=O
 18	partiet	parti	subst	subst	appell|nøyt|be|ent	19	APP	_	name=O
 19	Rødt	Rødt	subst	subst	prop	17	PUTFYLL	_	name=B-ORG
-20	Arne	Arne	subst	subst	prop|mask	15	SUBJ	_	name=O
-21	Byrkjeflot	Byrkjeflot	subst	subst	prop	20	FLAT	_	name=O
+20	Arne	Arne	subst	subst	prop|mask	15	SUBJ	_	name=B-PER
+21	Byrkjeflot	Byrkjeflot	subst	subst	prop	20	FLAT	_	name=I-PER
 22	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	Byrkjeflot	Byrkjeflot	subst	subst	prop	12	SUBJ	_	name=B-PER
@@ -1042,7 +1042,7 @@
 1	Dermed	dermed	adv	adv	_	2	ADV	_	name=O
 2	opplever	oppleve	verb	verb	pres	0	FINV	_	name=O
 3	LO-general	LO-general	subst	subst	appell|mask|ub|ent|samset	4	APP	_	name=B-DRV
-4	Byrkjeflot	Byrkjeflot	subst	subst	prop	2	SUBJ	_	name=O
+4	Byrkjeflot	Byrkjeflot	subst	subst	prop	2	SUBJ	_	name=B-PER
 5	å	å	inf-merke	inf-merke	_	2	DOBJ	_	name=O
 6	få	få	verb	verb	inf	5	INFV	_	name=O
 7	flere	mange	adj	adj	komp	15	DOBJ	_	name=O

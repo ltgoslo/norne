@@ -968,8 +968,8 @@
 11	mens	mens	sbu	sbu	_	16	SBU	_	name=O
 12	Frode	Frode	subst	subst	prop|mask	16	SUBJ	_	name=B-PER
 13	Andresen	Andresen	subst	subst	prop	12	FLAT	_	name=I-PER
-14	Lars	Lars	subst	subst	prop|mask	12	KOORD	_	name=O
-15	Berger	Berger	subst	subst	prop	14	FLAT	_	name=O
+14	Lars	Lars	subst	subst	prop|mask	12	KOORD	_	name=B-PER
+15	Berger	Berger	subst	subst	prop	14	FLAT	_	name=I-PER
 16	kom	komme	verb	verb	pret	7	ADV	_	name=O
 17	inn	inn	prep	prep	_	16	ADV	_	name=O
 18	på	på	prep	prep	_	16	ADV	_	name=O

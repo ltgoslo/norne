@@ -1482,8 +1482,8 @@
 3	ringte	ringe	verb	verb	pret	0	FINV	_	name=O
 4	Olav	Olav	subst	subst	prop|mask	3	SUBJ	_	name=B-PER
 5	Johansen	Johansen	subst	subst	prop	4	FLAT	_	name=I-PER
-6	Forsvarets	Forsvaret	subst	subst	prop|gen	7	DET	_	name=O
-7	overkommando	overkommando	subst	subst	appell|mask|ub|ent	3	DOBJ	_	name=O
+6	Forsvarets	Forsvaret	subst	subst	prop|gen	7	DET	_	name=B-ORG
+7	overkommando	overkommando	subst	subst	appell|mask|ub|ent	3	DOBJ	_	name=I-ORG
 8	og	og	konj	konj	clb	9	KONJ	_	name=O
 9	sa	si	verb	verb	pret	3	KOORD	_	name=O
 10	at	at	sbu	sbu	_	13	SBU	_	name=O

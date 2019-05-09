@@ -646,7 +646,7 @@
 17	i	i	prep	prep	_	14	ADV	_	name=O
 18	Saddam	Saddam	subst	subst	prop	20	DET	_	name=B-PER
 19	Husseins	Hussein	subst	subst	prop|gen	18	FLAT	_	name=I-PER
-20	Irak	Irak	subst	subst	prop	17	PUTFYLL	_	name=O
+20	Irak	Irak	subst	subst	prop	17	PUTFYLL	_	name=B-GPE_LOC
 21	,	$,	<komma>	<komma>	_	2	IK	_	name=O
 22	samtidig	samtidig	adj	adj	nøyt|ub|ent|pos	2	ADV	_	name=O
 23	som	som	sbu	sbu	_	28	SBU	_	name=O

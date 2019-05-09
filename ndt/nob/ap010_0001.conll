@@ -1741,7 +1741,7 @@
 21	tilgjengelig	tilgjengelig	adj	adj	ub|m/f|ent|pos	17	OPRED	_	name=O
 22	.	$.	clb	clb	<punkt>	5	IP	_	name=O
 
-1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	3	DET	_	name=O
+1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	3	DET	_	name=B-ORG
 2	nye	ny	adj	adj	be|ent|pos	3	ATR	_	name=O
 3	mantra	mantra	subst	subst	appell|nøyt|ub|ent	12	SUBJ	_	name=O
 4	for	for	prep	prep	_	3	ATR	_	name=O

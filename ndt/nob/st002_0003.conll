@@ -238,7 +238,7 @@
 27	sin	sin	det	det	mask|ent|poss	26	DET	_	name=O
 28	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
-1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=O
+1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=B-ORG
 2	vedtak	vedtak	subst	subst	appell|nøyt|ub|ent	3	SUBJ	_	name=O
 3	er	være	verb	verb	pres	0	FINV	_	name=O
 4	heller	heller	adv	adv	_	3	ADV	_	name=O
@@ -331,7 +331,7 @@
 3	Gjønnes	Gjønnes	subst	subst	prop	2	FLAT	_	name=I-PER
 4	:	$:	clb	clb	<kolon>	2	IP	_	name=O
 
-1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=O
+1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=B-ORG
 2	behandling	behandling	subst	subst	appell|fem|ub|ent	9	SUBJ	_	name=O
 3	gjennom	gjennom	prep	prep	_	2	ATR	_	name=O
 4	kgl.	kgl.	adj	adj	fork	5	ATR	_	name=O
@@ -368,7 +368,7 @@
 8	det	det	pron	pron	nøyt|ent|pers|3	7	PUTFYLL	_	name=O
 9	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
-1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=O
+1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=B-ORG
 2	behandling	behandling	subst	subst	appell|fem|ub|ent	3	SUBJ	_	name=O
 3	har	ha	verb	verb	pres	0	FINV	_	name=O
 4	resultert	resultere	verb	verb	perf-part	3	INFV	_	name=O
@@ -432,7 +432,7 @@
 41	kort	kort	adj	adj	nøyt|ub|ent|pos	39	ADV	_	name=O
 42	.	$.	clb	clb	<punkt>	8	IP	_	name=O
 
-1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=O
+1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=B-ORG
 2	konklusjon	konklusjon	subst	subst	appell|mask|ub|ent	3	SUBJ	_	name=O
 3	bygger	bygge	verb	verb	pres	0	FINV	_	name=O
 4	på	på	prep	prep	_	3	ADV	_	name=O

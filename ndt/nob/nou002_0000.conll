@@ -1689,7 +1689,7 @@
 28	fellesråd	fellesråd	subst	subst	appell|nøyt|ub|fl	24	KOORD	_	name=O
 29	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
-1	Riksantikvaren	Riksantikvaren	subst	subst	prop	2	SUBJ	_	name=O
+1	Riksantikvaren	Riksantikvaren	subst	subst	prop	2	SUBJ	_	name=B-ORG
 2	skal	skulle	verb	verb	pres	0	FINV	_	name=O
 3	uttale	uttale	verb	verb	inf	2	INFV	_	name=O
 4	seg	seg	pron	pron	akk|refl	3	DOBJ	_	name=O

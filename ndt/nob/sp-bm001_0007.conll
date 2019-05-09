@@ -258,8 +258,8 @@
 16	,	$,	<komma>	<komma>	_	3	IK	_	name=O
 17	skrev	skrive	verb	verb	pret	3	PAR	_	name=O
 18	Fremskrittspartiets	Fremskrittspartiet	subst	subst	prop|nøyt|gen	19	DET	_	name=B-ORG
-19	Oskar	Oskar	subst	subst	prop|mask	17	SUBJ	_	name=O
-20	Grimstad	Grimstad	subst	subst	prop	19	FLAT	_	name=O
+19	Oskar	Oskar	subst	subst	prop|mask	17	SUBJ	_	name=B-PER
+20	Grimstad	Grimstad	subst	subst	prop	19	FLAT	_	name=I-PER
 21	i	i	prep	prep	_	17	ADV	_	name=O
 22	en	en	det	det	mask|ent|kvant	23	DET	_	name=O
 23	tekstmelding	tekstmelding	subst	subst	appell|mask|ub|ent	21	PUTFYLL	_	name=O
@@ -317,16 +317,16 @@
 10	villmarken	villmark	subst	subst	appell|mask|be|ent	9	PUTFYLL	_	name=O
 11	var	være	verb	verb	pret	0	FINV	_	name=O
 12	Høyres	Høyre	subst	subst	prop|gen	13	DET	_	name=B-ORG
-13	Gunnar	Gunnar	subst	subst	prop|mask	11	SPRED	_	name=O
-14	Gundersen	Gundersen	subst	subst	prop	13	FLAT	_	name=O
+13	Gunnar	Gunnar	subst	subst	prop|mask	11	SPRED	_	name=B-PER
+14	Gundersen	Gundersen	subst	subst	prop	13	FLAT	_	name=I-PER
 15	og	og	konj	konj	<ikke-clb>	16	KONJ	_	name=O
 16	Siri	Siri	subst	subst	prop|fem	13	KOORD	_	name=B-PER
 17	A.	A.	subst	subst	prop|fork	16	FLAT	_	name=I-PER
 18	Meling	Meling	subst	subst	prop	16	FLAT	_	name=I-PER
 19	og	og	konj	konj	<ikke-clb>	21	KONJ	_	name=O
 20	Sps	Sp	subst	subst	prop|fork|gen	21	DET	_	name=B-ORG
-21	Erling	Erling	subst	subst	prop|mask	13	KOORD	_	name=O
-22	Sande	Sande	subst	subst	prop	21	FLAT	_	name=O
+21	Erling	Erling	subst	subst	prop|mask	13	KOORD	_	name=B-PER
+22	Sande	Sande	subst	subst	prop	21	FLAT	_	name=I-PER
 23	,	$,	<komma>	<komma>	_	21	IK	_	name=O
 24	som	som	sbu	sbu	_	25	SBU	_	name=O
 25	er	være	verb	verb	pres	21	ATR	_	name=O
@@ -492,7 +492,7 @@
 1	Fredag	fredag	subst	subst	appell|mask|ub|ent	2	ADV	_	name=O
 2	møter	møte	verb	verb	pres	0	FINV	_	name=O
 3	Norge	Norge	subst	subst	prop	2	SUBJ	_	name=B-ORG
-4	Montenegro	Montenegro	subst	subst	prop	2	DOBJ	_	name=O
+4	Montenegro	Montenegro	subst	subst	prop	2	DOBJ	_	name=B-ORG
 5	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Foto	foto	subst	subst	appell|nøyt|ub|ent	0	FRAG	_	name=O
@@ -1103,7 +1103,7 @@
 22	ifølge	ifølge	prep	prep	_	15	ADV	_	name=O
 23	Verdens	Verdens	subst	subst	prop	22	PUTFYLL	_	name=B-ORG
 24	barnefond	barnefond	subst	subst	appell|nøyt|ub|ent|samset	23	FLAT	_	name=I-ORG
-25	UNICEF	UNICEF	subst	subst	prop	23	FLAT	_	name=O
+25	UNICEF	UNICEF	subst	subst	prop	23	FLAT	_	name=B-ORG
 26	.	$.	clb	clb	<punkt>	4	IP	_	name=O
 
 1	UNICEF	UNICEF	subst	subst	prop	2	SUBJ	_	name=B-ORG
