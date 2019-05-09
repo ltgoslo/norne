@@ -1,3 +1,4 @@
+# coding=utf-8
 import codecs
 import logging
 import re
@@ -53,7 +54,7 @@ def write_result(result, outputdir):
     for key in result:
         path = os.path.join(outputdir, key)
         logging.info('Writing results to {}'.format(path))
-        with codecs.open(path, "w", "utf-8") as f:
+        with open(path, "w") as f:
             lines = ['\t'.join(line) + '\n' for line in result[key]]
             f.writelines(lines)
 
@@ -92,6 +93,7 @@ def assert_equal(filenames, inputdir, outputdir):
                 exit()
         logging.info("File looks correct: {}".format(output_path))
 
+
 def find_next_ndt_file(ud_lines, ndt_data):
     ud_words = [x[1] for x in ud_lines if len(x) > 5]
     best = 1.0
@@ -117,8 +119,42 @@ def find_next_ndt_file(ud_lines, ndt_data):
 
 
 def line_match(ndt_line, ud_line):
-    if ndt_line[0] == ud_line[1]:
+    ndt = ndt_line[0]
+    ud = ud_line[1]
+
+    edge_cases = {
+        'Sjå': 'SJÅ',
+        'må': 'MÅ',
+        'Tequila-dagbøkene': 'TEQUILA-DAGBØKENE',
+        'Ndranghetaen': '\'Ndranghetaen',
+        'Lærdals-ordførar': 'Lærdals-ordføraren',
+        'stortinget': 'Stortinget',
+        'Nedleggjing': 'NEDLEGGJING',
+        'fN-landenes': 'FN-landenes',
+        'norge': 'Norge',
+        'du': 'Du',
+        'å': 'Å',
+        'at': 'ved',
+        'nissespik': 'Nissespik',
+        '-sosialtenestene': 'sosialtenestene',
+        '-nattestid': 'nattestid',
+        '-Aust-Telemark': 'Aust-Telemark',
+        'PST': 'pst',
+        'vi': 'oss',
+        '-turistsenteret': 'turistsenteret',
+    }
+
+    if ndt == ud:
         return True
+    elif ndt in {'«', '»', '”', '“', '"'} and ud in {"'", '"', '”', '“', '»'}:
+        return True
+    elif ndt == ud + '.':
+        return True
+    elif ndt in edge_cases and edge_cases[ndt] == ud:
+        return True
+
+    if ndt != '|' and ndt != '.':
+        logging.error('NDT ne UD:\n\'{}\': \'{}\','.format(ndt, ud))
     return False
 
 
@@ -135,6 +171,17 @@ def valid_ud(line):
 def skip_ndt(line):
     if len(line) == 0:
         return True
+    return False
+
+
+def skip_ndt_2(ud_line, ndt_line):
+    edge_cases = {'«': '\'Ndranghetaen'}
+
+    if len(ud_line) > 5:
+        ud = ud_line[1]
+        ndt = ndt_line[0]
+        return ndt in edge_cases and edge_cases[ndt] == ud
+
     return False
 
 
@@ -157,6 +204,8 @@ def merge_data(ud, ndt, merged):
             sentid = ' '.join(ud_line)
             logging.debug(sentid)
         if skip_ndt(ndt_line):
+            ndt_i += 1
+        elif skip_ndt_2(ud_line, ndt_line):
             ndt_i += 1
         elif valid_ud(ud_line):
             merged.append(ud_line)
@@ -207,7 +256,7 @@ def read_ndt(language):
     for filename in os.listdir(directory):
         with io.open(os.path.join(directory, filename), encoding='utf-8') as f:
             for line in f.readlines():
-                line = line.strip()
+                line = line.encode('utf-8').strip()
                 if '\t' in line:
                     word = get_word(line)
                     ner = get_ner(line)
@@ -221,7 +270,7 @@ def read_ud(language):
     for filename in os.listdir(directory):
         if filename.endswith('.conllu'):
             with io.open(os.path.join(directory, filename), encoding='utf-8') as f:
-                data[filename] = [x.strip().split('\t') for x in f.readlines()]
+                data[filename] = [x.encode('utf-8').strip().split('\t') for x in f.readlines()]
     return data
 
 
