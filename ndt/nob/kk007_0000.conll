@@ -94,9 +94,9 @@
 21	i	i	prep	prep	_	20	ATR	_	name=O
 22	danske	dansk	adj	adj	be|ent|pos	23	ATR	_	name=O
 23	Jyllands-Posten	Jyllands-Posten	subst	subst	prop	21	PUTFYLL	_	name=B-ORG
-24	Jon	Jon	subst	subst	prop|mask	19	SUBJ	_	name=O
-25	Helt	Helt	subst	subst	prop	24	FLAT	_	name=O
-26	Haarder	Haarder	subst	subst	prop	24	FLAT	_	name=O
+24	Jon	Jon	subst	subst	prop|mask	19	SUBJ	_	name=B-PER
+25	Helt	Helt	subst	subst	prop	24	FLAT	_	name=I-PER
+26	Haarder	Haarder	subst	subst	prop	24	FLAT	_	name=I-PER
 27	når	når	sbu	sbu	_	29	SBU	_	name=O
 28	Klassekampen	Klassekampen	subst	subst	prop	29	SUBJ	_	name=B-ORG
 29	ringer	ringe	verb	verb	pres	19	ADV	_	name=O

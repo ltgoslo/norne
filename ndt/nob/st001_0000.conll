@@ -1927,7 +1927,7 @@
 14	ett	én	det	det	nøyt|ent|kvant	13	PUTFYLL	_	name=O
 15	.	$.	clb	clb	<punkt>	6	IP	_	name=O
 
-1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	2	DET	_	name=O
+1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	2	DET	_	name=B-ORG
 2	miljøbegrunnelse	miljøbegrunnelse	subst	subst	appell|mask|ub|ent|samset	11	SUBJ	_	name=O
 3	for	for	prep	prep	_	2	ATR	_	name=O
 4	å	å	inf-merke	inf-merke	_	3	PUTFYLL	_	name=O

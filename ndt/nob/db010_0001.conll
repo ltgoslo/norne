@@ -63,8 +63,8 @@
 17	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	EU-ekspert	EU-ekspert	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Eivind	Eivind	subst	subst	prop|mask	6	SUBJ	_	name=O
-3	Hoff	Hoff	subst	subst	prop	2	FLAT	_	name=O
+2	Eivind	Eivind	subst	subst	prop|mask	6	SUBJ	_	name=B-PER
+3	Hoff	Hoff	subst	subst	prop	2	FLAT	_	name=I-PER
 4	i	i	prep	prep	_	2	ATR	_	name=O
 5	Bellona	Bellona	subst	subst	prop	4	PUTFYLL	_	name=B-ORG
 6	mener	mene	verb	verb	pres	0	FINV	_	name=O
@@ -516,8 +516,8 @@
 20	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Italias	Italia	subst	subst	prop|gen	2	DET	_	name=B-GPE_LOC
-2	Silvio	Silvio	subst	subst	prop	4	SUBJ	_	name=O
-3	Berlusconi	Berlusconi	subst	subst	prop	2	FLAT	_	name=O
+2	Silvio	Silvio	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Berlusconi	Berlusconi	subst	subst	prop	2	FLAT	_	name=I-PER
 4	har	ha	verb	verb	pres	0	FINV	_	name=O
 5	vært	være	verb	verb	perf-part	4	INFV	_	name=O
 6	blant	blant	prep	prep	_	5	SPRED	_	name=O

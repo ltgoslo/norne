@@ -554,7 +554,7 @@
 8	etter	etter	prep	prep	_	7	ATR	_	name=O
 9	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
-1	Bibelen	bibel	subst	subst	appell|mask|be|ent	2	SUBJ	_	name=O
+1	Bibelen	bibel	subst	subst	appell|mask|be|ent	2	SUBJ	_	name=B-PROD
 2	ligger	ligge	verb	verb	pres	0	FINV	_	name=O
 3	oppslått	oppslått	adj	adj	ub|m/f|ent|pos	2	FSPRED	_	name=O
 4	på	på	prep	prep	_	2	ADV	_	name=O

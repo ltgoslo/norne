@@ -1482,8 +1482,8 @@
 5	klart	klar	adj	adj	nøyt|ub|ent|pos	3	SPRED	_	name=O
 6	at	at	sbu	sbu	_	10	SBU	_	name=O
 7	VIF-keeper	VIF-keeper	subst	subst	appell|mask|ub|ent|samset	8	APP	_	name=B-DRV
-8	Patrick	Patrick	subst	subst	prop	10	SUBJ	_	name=O
-9	DesRochers	DesRochers	subst	subst	prop	8	FLAT	_	name=O
+8	Patrick	Patrick	subst	subst	prop	10	SUBJ	_	name=B-PER
+9	DesRochers	DesRochers	subst	subst	prop	8	FLAT	_	name=I-PER
 10	har	ha	verb	verb	pres	3	PSUBJ	_	name=O
 11	skrevet	skrive	verb	verb	perf-part	10	INFV	_	name=O
 12	under	under	prep	prep	_	11	ADV	_	name=O

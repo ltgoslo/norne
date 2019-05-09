@@ -741,8 +741,8 @@
 3	periode	periode	subst	subst	appell|mask|ub|ent	1	PUTFYLL	_	name=O
 4	vises	vise	verb	verb	pres|pass	0	FINV	_	name=O
 5	NHL-sjefen	NHL-sjef	subst	subst	appell|mask|be|ent|samset	6	APP	_	name=B-DRV
-6	Gary	Gary	subst	subst	prop	4	SUBJ	_	name=O
-7	Bettman	Bettman	subst	subst	prop	6	FLAT	_	name=O
+6	Gary	Gary	subst	subst	prop	4	SUBJ	_	name=B-PER
+7	Bettman	Bettman	subst	subst	prop	6	FLAT	_	name=I-PER
 8	på	på	prep	prep	_	4	ADV	_	name=O
 9	storskjermen	storskjerm	subst	subst	appell|mask|be|ent	8	PUTFYLL	_	name=O
 10	.	$.	clb	clb	<punkt>	4	IP	_	name=O
@@ -1069,8 +1069,8 @@
 3	treffer	treffe	verb	verb	pres	0	FINV	_	name=O
 4	vi	vi	pron	pron	fl|pers|hum|nom|1	3	SUBJ	_	name=O
 5	NHL-direktøren	NHL-direktør	subst	subst	appell|mask|be|ent|samset	6	APP	_	name=B-DRV
-6	Kenneth	Kenneth	subst	subst	prop|mask	3	DOBJ	_	name=O
-7	Yaffe	Yaffe	subst	subst	prop	6	FLAT	_	name=O
+6	Kenneth	Kenneth	subst	subst	prop|mask	3	DOBJ	_	name=B-PER
+7	Yaffe	Yaffe	subst	subst	prop	6	FLAT	_	name=I-PER
 8	på	på	prep	prep	_	3	ADV	_	name=O
 9	nytt	ny	adj	adj	nøyt|ub|ent|pos	8	PUTFYLL	_	name=O
 10	.	$.	clb	clb	<punkt>	3	IP	_	name=O

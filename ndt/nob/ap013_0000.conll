@@ -408,8 +408,8 @@
 14	med	med	prep	prep	_	13	ATR	_	name=O
 15	tidligere	tidlig	adj	adj	komp	16	ATR	_	name=O
 16	Dagsnytt-redaktør	Dagsnytt-redaktør	subst	subst	appell|mask|ub|ent|samset	17	APP	_	name=B-DRV
-17	Per	Per	subst	subst	prop|mask	14	PUTFYLL	_	name=O
-18	Bøhn	Bøhn	subst	subst	prop	17	FLAT	_	name=O
+17	Per	Per	subst	subst	prop|mask	14	PUTFYLL	_	name=B-PER
+18	Bøhn	Bøhn	subst	subst	prop	17	FLAT	_	name=I-PER
 19	og	og	konj	konj	<ikke-clb>	24	KONJ	_	name=O
 20	70	70	det	det	fl|kvant	24	DET	_	name=O
 21	-	$-	<strek>	<strek>	_	20	IK	_	name=O
@@ -969,7 +969,7 @@
 7	til	til	prep	prep	_	5	ADV	_	name=O
 8	den	den	det	det	dem|mask|ent	10	DET	_	name=O
 9	NATO-ledede	NATO-lede	adj	adj	be|ent|<perf-part>|samset	10	ATR	_	name=B-DRV
-10	ISAF-styrken	ISAF-styrke	subst	subst	appell|mask|be|ent|samset	7	PUTFYLL	_	name=O
+10	ISAF-styrken	ISAF-styrke	subst	subst	appell|mask|be|ent|samset	7	PUTFYLL	_	name=B-DRV
 11	i	i	prep	prep	_	10	ATR	_	name=O
 12	Afghanistan	Afghanistan	subst	subst	prop	11	PUTFYLL	_	name=B-GPE_LOC
 13	.	$.	clb	clb	<punkt>	5	IP	_	name=O
@@ -1023,8 +1023,8 @@
 16	,	$,	<komma>	<komma>	_	4	IK	_	name=O
 17	sier	si	verb	verb	pres	4	PAR	_	name=O
 18	NATO-talsmann	NATO-talsmann	subst	subst	appell|mask|ub|ent|samset	19	APP	_	name=B-DRV
-19	James	James	subst	subst	prop	17	SUBJ	_	name=O
-20	Appathurai	Appathurai	subst	subst	prop	19	FLAT	_	name=O
+19	James	James	subst	subst	prop	17	SUBJ	_	name=B-PER
+20	Appathurai	Appathurai	subst	subst	prop	19	FLAT	_	name=I-PER
 21	.	$.	clb	clb	<punkt>	4	IP	_	name=O
 
 1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	name=O
@@ -1951,8 +1951,8 @@
 19	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Venstre-leder	venstre-leder	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Lars	Lars	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Sponheim	Sponheim	subst	subst	prop	2	FLAT	_	name=O
+2	Lars	Lars	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Sponheim	Sponheim	subst	subst	prop	2	FLAT	_	name=I-PER
 4	etterlater	etterlate	verb	verb	pres	0	FINV	_	name=O
 5	ingen	ingen	det	det	mask|ent|kvant	6	DET	_	name=O
 6	tvil	tvil	subst	subst	appell|mask|ub|ent	4	DOBJ	_	name=O
@@ -1978,8 +1978,8 @@
 2	vil	ville	verb	verb	pres	0	FINV	_	name=O
 3	også	også	adv	adv	_	2	ADV	_	name=O
 4	KrF-leder	KrF-leder	subst	subst	appell|mask|ub|ent|samset	5	APP	_	name=B-DRV
-5	Dagfinn	Dagfinn	subst	subst	prop|mask	2	SUBJ	_	name=O
-6	Høybråten	Høybråten	subst	subst	prop	5	FLAT	_	name=O
+5	Dagfinn	Dagfinn	subst	subst	prop|mask	2	SUBJ	_	name=B-PER
+6	Høybråten	Høybråten	subst	subst	prop	5	FLAT	_	name=I-PER
 7	selv	selv	adv	adv	_	8	ADV	_	name=O
 8	om	om	sbu	sbu	_	11	SBU	_	name=O
 9	han	han	pron	pron	mask|ent|pers|hum|3|nom	11	SUBJ	_	name=O

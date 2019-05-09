@@ -31,8 +31,8 @@
 23	statssekretær	statssekretær	subst	subst	appell|mask|ub|ent	26	APP	_	name=O
 24	i	i	prep	prep	_	23	ATR	_	name=O
 25	Forsvarsdepartementet	Forsvarsdepartementet	subst	subst	prop	24	PUTFYLL	_	name=B-ORG
-26	Roger	Roger	subst	subst	prop|mask	22	SUBJ	_	name=O
-27	Ingebriktsen	Ingebriktsen	subst	subst	prop	26	FLAT	_	name=O
+26	Roger	Roger	subst	subst	prop|mask	22	SUBJ	_	name=B-PER
+27	Ingebriktsen	Ingebriktsen	subst	subst	prop	26	FLAT	_	name=I-PER
 28	(	$(	<parentes-beg>	<parentes-beg>	_	29	IK	_	name=O
 29	Ap	Ap	subst	subst	prop|fork	26	ATR	_	name=B-ORG
 30	)	$)	<parentes-slutt>	<parentes-slutt>	_	29	IK	_	name=O
@@ -342,8 +342,8 @@
 3	at	at	sbu	sbu	_	9	SBU	_	name=O
 4	selv	selv	adv	adv	_	6	ATR	_	name=O
 5	F-35-tilhenger	F-35-tilhenger	subst	subst	appell|mask|ub|ent|samset	6	APP	_	name=B-DRV
-6	Robert	Robert	subst	subst	prop|mask	9	SUBJ	_	name=O
-7	Gates	Gates	subst	subst	prop	6	FLAT	_	name=O
+6	Robert	Robert	subst	subst	prop|mask	9	SUBJ	_	name=B-PER
+7	Gates	Gates	subst	subst	prop	6	FLAT	_	name=I-PER
 8	nå	nå	adv	adv	_	9	ADV	_	name=O
 9	antar	anta	verb	verb	pres	2	DOBJ	_	name=O
 10	at	at	sbu	sbu	_	12	SBU	_	name=O
@@ -838,9 +838,9 @@
 8	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Midtøsten-ekspert	Midtøsten-ekspert	subst	subst	appell|mask|ub|ent	2	APP	_	name=B-DRV
-2	Knut	Knut	subst	subst	prop|mask	5	SUBJ	_	name=O
-3	S.	S.	subst	subst	prop|fork	2	FLAT	_	name=O
-4	Vikør	Vikør	subst	subst	prop	2	FLAT	_	name=O
+2	Knut	Knut	subst	subst	prop|mask	5	SUBJ	_	name=B-PER
+3	S.	S.	subst	subst	prop|fork	2	FLAT	_	name=I-PER
+4	Vikør	Vikør	subst	subst	prop	2	FLAT	_	name=I-PER
 5	frykter	frykte	verb	verb	pres	0	FINV	_	name=O
 6	at	at	sbu	sbu	_	12	SBU	_	name=O
 7	sivile	sivil	adj	adj	fl|pos	12	SUBJ	_	name=O

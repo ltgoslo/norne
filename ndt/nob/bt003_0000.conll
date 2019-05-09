@@ -599,8 +599,8 @@
 5	november	november	subst	subst	appell|mask|ubøy	4	PUTFYLL	_	name=O
 6	oppfordret	oppfordre	verb	verb	pret	0	FINV	_	name=O
 7	Tine	Tine	subst	subst	prop	6	SUBJ	_	name=B-ORG
-8	Statens	Statens	subst	subst	prop	6	DOBJ	_	name=O
-9	landbruksforvaltning	landbruksforvaltning	subst	subst	appell|fem|ub|ent|samset	8	FLAT	_	name=O
+8	Statens	Statens	subst	subst	prop	6	DOBJ	_	name=B-ORG
+9	landbruksforvaltning	landbruksforvaltning	subst	subst	appell|fem|ub|ent|samset	8	FLAT	_	name=I-ORG
 10	til	til	prep	prep	_	6	ADV	_	name=O
 11	å	å	inf-merke	inf-merke	_	10	PUTFYLL	_	name=O
 12	redusere	redusere	verb	verb	inf	11	INFV	_	name=O
@@ -1113,8 +1113,8 @@
 19	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	Unibuss-direktøren	Unibuss-direktør	subst	subst	appell|mask|be|ent|samset	2	APP	_	name=B-DRV
-2	Helge	Helge	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Leite	Leite	subst	subst	prop	2	FLAT	_	name=O
+2	Helge	Helge	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Leite	Leite	subst	subst	prop	2	FLAT	_	name=I-PER
 4	fikk	få	verb	verb	pret	0	FINV	_	name=O
 5	sparken	spark	subst	subst	appell|mask|be|ent	4	DOBJ	_	name=O
 6	etter	etter	prep	prep	_	4	ADV	_	name=O

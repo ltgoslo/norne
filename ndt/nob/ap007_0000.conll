@@ -74,7 +74,7 @@
 2	leder	leder	subst	subst	appell|mask|ub|ent	1	PUTFYLL	_	name=O
 3	av	av	prep	prep	_	2	ATR	_	name=O
 4	Arbeiderpartiets	Arbeiderpartiet	subst	subst	prop|gen	5	DET	_	name=B-ORG
-5	EU-utvalg	EU-utvalg	subst	subst	appell|nøyt|ub|ent|samset	3	PUTFYLL	_	name=O
+5	EU-utvalg	EU-utvalg	subst	subst	appell|nøyt|ub|ent|samset	3	PUTFYLL	_	name=B-DRV
 6	dempet	dempe	verb	verb	pret	0	FINV	_	name=O
 7	han	han	pron	pron	mask|ent|pers|hum|3|nom	6	SUBJ	_	name=O
 8	motsetningene	motsetning	subst	subst	appell|fem|be|fl	6	DOBJ	_	name=O
@@ -1585,12 +1585,12 @@
 19	til	til	prep	prep	_	18	ATR	_	name=O
 20	både	både	konj	konj	<ikke-clb>|<adv>	22	KONJ	_	name=O
 21	Frp-leder	Frp-leder	subst	subst	appell|mask|ub|ent|samset	22	APP	_	name=B-DRV
-22	Siv	Siv	subst	subst	prop	19	PUTFYLL	_	name=O
-23	Jensen	Jensen	subst	subst	prop	22	FLAT	_	name=O
+22	Siv	Siv	subst	subst	prop	19	PUTFYLL	_	name=B-PER
+23	Jensen	Jensen	subst	subst	prop	22	FLAT	_	name=I-PER
 24	og	og	konj	konj	<ikke-clb>	26	KONJ	_	name=O
 25	Høyre-leder	Høyre-leder	subst	subst	appell|mask|ub|ent|samset	26	APP	_	name=B-DRV
-26	Erna	Erna	subst	subst	prop	22	KOORD	_	name=O
-27	Solberg	Solberg	subst	subst	prop	26	FLAT	_	name=O
+26	Erna	Erna	subst	subst	prop	22	KOORD	_	name=B-PER
+27	Solberg	Solberg	subst	subst	prop	26	FLAT	_	name=I-PER
 28	forsøkte	forsøke	verb	verb	pret	9	ADV	_	name=O
 29	å	å	inf-merke	inf-merke	_	28	DOBJ	_	name=O
 30	holde	holde	verb	verb	inf	29	INFV	_	name=O

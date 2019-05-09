@@ -1100,7 +1100,7 @@
 7	,	$,	<komma>	<komma>	_	3	IK	_	name=O
 8	sa	si	verb	verb	pret	3	PAR	_	name=O
 9	Kasakhstans	Kasakhstan	subst	subst	prop|gen	10	DET	_	name=B-GPE_ORG
-10	London-ambassadør	London-ambassadør	subst	subst	appell|mask|ub|ent|samset	8	SUBJ	_	name=O
+10	London-ambassadør	London-ambassadør	subst	subst	appell|mask|ub|ent|samset	8	SUBJ	_	name=B-DRV
 11	om	om	prep	prep	_	8	ADV	_	name=O
 12	Borat	Borat	subst	subst	prop	11	PUTFYLL	_	name=B-PER
 13	.	$.	clb	clb	<punkt>	3	IP	_	name=O

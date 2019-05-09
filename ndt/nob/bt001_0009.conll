@@ -363,7 +363,7 @@
 2	dette	dette	pron	pron	nøyt|ent|pers|3	3	SUBJ	_	name=O
 3	kalles	kalle	verb	verb	pres|pass	6	ADV	_	name=O
 4	Seouls	Seoul	subst	subst	prop|gen	5	DET	_	name=B-GPE_LOC
-5	SoHo	SoHo	subst	subst	prop	3	SPRED	_	name=O
+5	SoHo	SoHo	subst	subst	prop	3	SPRED	_	name=B-LOC
 6	passer	passe	verb	verb	pres	0	FINV	_	name=O
 7	det	det	pron	pron	nøyt|ent|pers|3	6	FSUBJ	_	name=O
 8	å	å	inf-merke	inf-merke	_	6	DOBJ	_	name=O

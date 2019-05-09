@@ -140,8 +140,8 @@
 1	Kjell	Kjell	subst	subst	prop|mask	4	DET	_	name=B-PER
 2	Inge	Inge	subst	subst	prop	1	FLAT	_	name=I-PER
 3	Røkkes	Røkke	subst	subst	prop|gen	1	FLAT	_	name=I-PER
-4	Aker	Aker	subst	subst	prop	6	SUBJ	_	name=O
-5	Biomarine	Biomarine	subst	subst	prop	4	FLAT	_	name=O
+4	Aker	Aker	subst	subst	prop	6	SUBJ	_	name=B-ORG
+5	Biomarine	Biomarine	subst	subst	prop	4	FLAT	_	name=I-ORG
 6	er	være	verb	verb	pres	0	FINV	_	name=O
 7	nå	nå	adv	adv	_	6	ADV	_	name=O
 8	den	den	det	det	dem|mask|ent	11	DET	_	name=O

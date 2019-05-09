@@ -832,8 +832,8 @@
 10	minner	minne	verb	verb	pres	0	FINV	_	name=O
 11	om	om	prep	prep	_	10	ADV	_	name=O
 12	SA-mannen	SA-mann	subst	subst	appell|mask|be|ent|samset	13	APP	_	name=B-DRV
-13	Horst	Horst	subst	subst	prop	15	DET	_	name=O
-14	Wessels	Wessel	subst	subst	prop|gen	13	FLAT	_	name=O
+13	Horst	Horst	subst	subst	prop	15	DET	_	name=B-PER
+14	Wessels	Wessel	subst	subst	prop|gen	13	FLAT	_	name=I-PER
 15	skjebne	skjebne	subst	subst	appell|mask|ub|ent	11	PUTFYLL	_	name=O
 16	,	$,	<komma>	<komma>	_	10	IK	_	name=O
 17	og	og	konj	konj	clb	20	KONJ	_	name=O

@@ -594,8 +594,8 @@
 23	sammen	sammen	adv	adv	_	24	ADV	_	name=O
 24	med	med	prep	prep	_	20	ADV	_	name=O
 25	Hollywood-kollega	Hollywood-kollega	subst	subst	appell|mask|ub|ent|samset	26	APP	_	name=B-DRV
-26	Liam	Liam	subst	subst	prop	24	PUTFYLL	_	name=O
-27	Neeson	Neeson	subst	subst	prop	26	FLAT	_	name=O
+26	Liam	Liam	subst	subst	prop	24	PUTFYLL	_	name=B-PER
+27	Neeson	Neeson	subst	subst	prop	26	FLAT	_	name=I-PER
 28	.	$.	clb	clb	<punkt>	5	IP	_	name=O
 
 1	At	at	sbu	sbu	_	3	SBU	_	name=O

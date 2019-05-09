@@ -1368,7 +1368,7 @@
 2	!	$!	clb	clb	<utrop>	1	IP	_	name=O
 
 1	Seouls	Seoul	subst	subst	prop|gen	2	DET	_	name=B-GPE_LOC
-2	SoHo	SoHo	subst	subst	prop	0	FRAG	_	name=O
+2	SoHo	SoHo	subst	subst	prop	0	FRAG	_	name=B-LOC
 3	|	$|	clb	clb	<overskrift>	2	IP	_	name=O
 
 1	Gangnam	Gangnam	subst	subst	prop	2	SUBJ	_	name=B-LOC
@@ -1786,8 +1786,8 @@
 26	midt	midt	adv	adv	_	27	ADV	_	name=O
 27	i	i	prep	prep	_	24	APP	_	name=O
 28	Sør-Koreas	Sør-Korea	subst	subst	prop|gen	29	DET	_	name=B-GPE_LOC
-29	Beverly	Beverly	subst	subst	prop	27	PUTFYLL	_	name=O
-30	Hills	Hills	subst	subst	prop	29	FLAT	_	name=O
+29	Beverly	Beverly	subst	subst	prop	27	PUTFYLL	_	name=B-LOC
+30	Hills	Hills	subst	subst	prop	29	FLAT	_	name=I-LOC
 31	,	$,	<komma>	<komma>	_	24	IK	_	name=O
 32	kneler	knele	verb	verb	pres	2	KOORD	_	name=O
 33	vi	vi	pron	pron	fl|pers|hum|nom|1	32	SUBJ	_	name=O

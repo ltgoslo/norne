@@ -602,7 +602,7 @@
 5	,	$,	<komma>	<komma>	_	2	IK	_	name=O
 6	lover	love	verb	verb	pres	2	PAR	_	name=O
 7	Svindal	Svindal	subst	subst	prop	6	SUBJ	_	name=B-PER
-8	Dagbladet.no	Dagbladet.no	subst	subst	prop	6	IOBJ	_	name=O
+8	Dagbladet.no	Dagbladet.no	subst	subst	prop	6	IOBJ	_	name=B-ORG
 9	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Om	om	sbu	sbu	_	3	SBU	_	name=O

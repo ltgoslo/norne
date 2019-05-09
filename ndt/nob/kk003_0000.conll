@@ -29,9 +29,9 @@
 20	,	$,	<komma>	<komma>	_	10	IK	_	name=O
 21	sier	si	verb	verb	pres	10	PAR	_	name=O
 22	KrF-leder	KrF-leder	subst	subst	appell|mask|ub|ent|samset	23	APP	_	name=B-DRV
-23	Knut	Knut	subst	subst	prop|mask	21	SUBJ	_	name=O
-24	Arild	Arild	subst	subst	prop	23	FLAT	_	name=O
-25	Hareide	Hareide	subst	subst	prop	23	FLAT	_	name=O
+23	Knut	Knut	subst	subst	prop|mask	21	SUBJ	_	name=B-PER
+24	Arild	Arild	subst	subst	prop	23	FLAT	_	name=I-PER
+25	Hareide	Hareide	subst	subst	prop	23	FLAT	_	name=I-PER
 26	til	til	prep	prep	_	21	ADV	_	name=O
 27	Klassekampen	Klassekampen	subst	subst	prop	26	PUTFYLL	_	name=B-ORG
 28	.	$.	clb	clb	<punkt>	10	IP	_	name=O

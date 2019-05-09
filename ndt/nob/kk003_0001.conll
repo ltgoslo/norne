@@ -381,8 +381,8 @@
 23	.	$.	clb	clb	<punkt>	8	IP	_	name=O
 
 1	Socialdemokraternes	Socialdemokraterne	subst	subst	prop|gen	2	DET	_	name=B-ORG
-2	Helle	Helle	subst	subst	prop|fem	4	SUBJ	_	name=O
-3	Thorning-Schmidt	Thorning-Schmidt	subst	subst	prop	2	FLAT	_	name=O
+2	Helle	Helle	subst	subst	prop|fem	4	SUBJ	_	name=B-PER
+3	Thorning-Schmidt	Thorning-Schmidt	subst	subst	prop	2	FLAT	_	name=I-PER
 4	er	være	verb	verb	pres	0	FINV	_	name=O
 5	venstresidas	venstreside	subst	subst	appell|fem|be|ent|gen	6	DET	_	name=O
 6	statsministerkandidat	statsministerkandidat	subst	subst	appell|mask|ub|ent	4	SPRED	_	name=O
@@ -396,8 +396,8 @@
 14	.	$.	clb	clb	<punkt>	4	IP	_	name=O
 
 1	Enhedslistens	Enhedslisten	subst	subst	prop|gen	2	DET	_	name=B-ORG
-2	Johanne	Johanne	subst	subst	prop|fem	4	SUBJ	_	name=O
-3	Schmidt-Nielsen	Schmidt-Nielsen	subst	subst	prop	2	FLAT	_	name=O
+2	Johanne	Johanne	subst	subst	prop|fem	4	SUBJ	_	name=B-PER
+3	Schmidt-Nielsen	Schmidt-Nielsen	subst	subst	prop	2	FLAT	_	name=I-PER
 4	vil	ville	verb	verb	pres	0	FINV	_	name=O
 5	likevel	likevel	adv	adv	_	7	ADV	_	name=O
 6	ikke	ikke	adv	adv	_	7	ADV	_	name=O

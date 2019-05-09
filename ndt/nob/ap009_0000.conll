@@ -49,15 +49,15 @@
 6	den	den	det	det	dem|mask|ent	8	DET	_	name=O
 7	smilende	smile	adj	adj	<pres-part>	8	ATR	_	name=O
 8	BBC-journalisten	BBC-journalist	subst	subst	appell|mask|be|ent|samset	9	APP	_	name=B-DRV
-9	Alan	Alan	subst	subst	prop	5	PUTFYLL	_	name=O
-10	Johnston	Johnston	subst	subst	prop	9	FLAT	_	name=O
+9	Alan	Alan	subst	subst	prop	5	PUTFYLL	_	name=B-PER
+10	Johnston	Johnston	subst	subst	prop	9	FLAT	_	name=I-PER
 11	side	side	subst	subst	appell|fem|ub|ent	14	ADV	_	name=O
 12	om	om	prep	prep	_	11	ATR	_	name=O
 13	side	side	subst	subst	appell|fem|ub|ent	12	PUTFYLL	_	name=O
 14	med	med	prep	prep	_	9	ATR	_	name=O
 15	Hamas-leder	Hamas-leder	subst	subst	appell|mask|ub|ent|samset	16	APP	_	name=B-DRV
-16	Ismail	Ismail	subst	subst	prop	14	PUTFYLL	_	name=O
-17	Haniyeh	Haniyeh	subst	subst	prop	16	FLAT	_	name=O
+16	Ismail	Ismail	subst	subst	prop	14	PUTFYLL	_	name=B-PER
+17	Haniyeh	Haniyeh	subst	subst	prop	16	FLAT	_	name=I-PER
 18	verden	verden	subst	subst	appell|mask|ub|ent	19	PUTFYLL	_	name=O
 19	rundt	rundt	prep	prep	_	3	ADV	_	name=O
 20	.	$.	clb	clb	<punkt>	3	IP	_	name=O
@@ -535,8 +535,8 @@
 10	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Fatah-leder	fatah-leder	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Mahmoud	Mahmoud	subst	subst	prop	4	SUBJ	_	name=O
-3	Abbas	Abbas	subst	subst	prop	2	FLAT	_	name=O
+2	Mahmoud	Mahmoud	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Abbas	Abbas	subst	subst	prop	2	FLAT	_	name=I-PER
 4	kan	kunne	verb	verb	pres	0	FINV	_	name=O
 5	ifølge	ifølge	prep	prep	_	16	ADV	_	name=O
 6	Nils	Nils	subst	subst	prop|mask	5	PUTFYLL	_	name=B-PER

@@ -310,7 +310,7 @@
 4	jeg	jeg	pron	pron	ent|pers|hum|nom|1	3	SUBJ	_	name=O
 5	David	David	subst	subst	prop|mask	7	DET	_	name=B-PER
 6	Bowies	Bowies	subst	subst	prop	5	FLAT	_	name=I-PER
-7	Reality	Reality	subst	subst	prop	3	DOBJ	_	name=O
+7	Reality	Reality	subst	subst	prop	3	DOBJ	_	name=B-PROD
 8	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	Jeg	jeg	pron	pron	ent|pers|hum|nom|1	2	SUBJ	_	name=O

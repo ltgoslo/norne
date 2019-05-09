@@ -43,8 +43,8 @@
 7	kjent	kjent	adj	adj	nøyt|ub|ent|pos	5	SPRED	_	name=O
 8	at	at	sbu	sbu	_	12	SBU	_	name=O
 9	Notar-sjef	Notar-sjef	subst	subst	appell|mask|ub|ent|samset	10	APP	_	name=B-DRV
-10	Geir	Geir	subst	subst	prop|mask	12	SUBJ	_	name=O
-11	Hantveit	Hantveit	subst	subst	prop	10	FLAT	_	name=O
+10	Geir	Geir	subst	subst	prop|mask	12	SUBJ	_	name=B-PER
+11	Hantveit	Hantveit	subst	subst	prop	10	FLAT	_	name=I-PER
 12	har	ha	verb	verb	pres	5	PSUBJ	_	name=O
 13	sikret	sikre	verb	verb	perf-part	12	INFV	_	name=O
 14	seg	seg	pron	pron	akk|refl	13	IOBJ	_	name=O

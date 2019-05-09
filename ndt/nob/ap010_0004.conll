@@ -66,7 +66,7 @@
 2	utgifter	utgift	subst	subst	appell|fem|ub|fl	0	FRAG	_	name=O
 3	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
-1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=O
+1	Regjeringens	Regjeringen	subst	subst	prop|gen	2	DET	_	name=B-ORG
 2	utgifter	utgift	subst	subst	appell|fem|ub|fl	5	SUBJ	_	name=O
 3	til	til	prep	prep	_	2	ATR	_	name=O
 4	innvandring	innvandring	subst	subst	appell|fem|ub|ent	3	PUTFYLL	_	name=O

@@ -924,8 +924,8 @@
 7	,	$,	<komma>	<komma>	_	3	IK	_	name=O
 8	slo	slå	verb	verb	pret	3	PAR	_	name=O
 9	Rangers-trener	Rangers-trener	subst	subst	appell|mask|ub|ent|samset	10	APP	_	name=B-DRV
-10	John	John	subst	subst	prop|mask	8	SUBJ	_	name=O
-11	Tortorella	Tortorella	subst	subst	prop	10	FLAT	_	name=O
+10	John	John	subst	subst	prop|mask	8	SUBJ	_	name=B-PER
+11	Tortorella	Tortorella	subst	subst	prop	10	FLAT	_	name=I-PER
 12	fast	fast	adj	adj	nøyt|ub|ent|pos	8	ADV	_	name=O
 13	etter	etter	prep	prep	_	8	ADV	_	name=O
 14	kampen	kamp	subst	subst	appell|mask|be|ent	13	PUTFYLL	_	name=O

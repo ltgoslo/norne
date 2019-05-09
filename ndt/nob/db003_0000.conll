@@ -1036,8 +1036,8 @@
 2	|	$|	clb	clb	<overskrift>	1	IP	_	name=O
 
 1	Vamp-sjef	Vamp-sjef	subst	subst	appell|mask|ub|ent	2	APP	_	name=B-DRV
-2	Øyvind	Øyvind	subst	subst	prop|mask	0	FRAG	_	name=O
-3	Staveland	Staveland	subst	subst	prop	2	FLAT	_	name=O
+2	Øyvind	Øyvind	subst	subst	prop|mask	0	FRAG	_	name=B-PER
+3	Staveland	Staveland	subst	subst	prop	2	FLAT	_	name=I-PER
 4	(	$(	<parentes-beg>	<parentes-beg>	_	5	IK	_	name=O
 5	48	48	det	det	fl|kvant	2	ATR	_	name=O
 6	)	$)	<parentes-slutt>	<parentes-slutt>	_	5	IK	_	name=O

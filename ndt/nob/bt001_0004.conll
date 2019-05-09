@@ -207,8 +207,8 @@
 39	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	Extra-programleder	Extra-programleder	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Vibeke	Vibeke	subst	subst	prop|fem	7	SUBJ	_	name=O
-3	Klemetsen	Klemetsen	subst	subst	prop	2	FLAT	_	name=O
+2	Vibeke	Vibeke	subst	subst	prop|fem	7	SUBJ	_	name=B-PER
+3	Klemetsen	Klemetsen	subst	subst	prop	2	FLAT	_	name=I-PER
 4	(	$(	<parentes-beg>	<parentes-beg>	_	5	IK	_	name=O
 5	@vibekeklemetsen	@vibekeklemetsen	subst	subst	prop	2	APP	_	name=O
 6	)	$)	<parentes-slutt>	<parentes-slutt>	_	5	IK	_	name=O
@@ -408,7 +408,7 @@
 18	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	NTNU-forsker	NTNU-forsker	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Wold	Wold	subst	subst	prop	3	SUBJ	_	name=O
+2	Wold	Wold	subst	subst	prop	3	SUBJ	_	name=B-PER
 3	mener	mene	verb	verb	pres	0	FINV	_	name=O
 4	poenget	poeng	subst	subst	appell|nøyt|be|ent	7	SUBJ	_	name=O
 5	med	med	prep	prep	_	4	ATR	_	name=O

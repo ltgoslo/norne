@@ -10,8 +10,8 @@
 10	kan	kunne	verb	verb	pres	0	FINV	_	name=O
 11	eksempelvis	eksempelvis	adv	adv	_	13	ATR	_	name=O
 12	SIFs	SIF	subst	subst	prop|gen	13	DET	_	name=B-ORG
-13	Svein	Svein	subst	subst	prop|mask	10	SUBJ	_	name=O
-14	Slinning	Slinning	subst	subst	prop	13	FLAT	_	name=O
+13	Svein	Svein	subst	subst	prop|mask	10	SUBJ	_	name=B-PER
+14	Slinning	Slinning	subst	subst	prop	13	FLAT	_	name=I-PER
 15	være	være	verb	verb	inf	10	INFV	_	name=O
 16	et	en	det	det	nøyt|ent|kvant	18	DET	_	name=O
 17	godt	god	adj	adj	nøyt|ub|ent|pos	18	ATR	_	name=O
@@ -952,9 +952,9 @@
 9	at	at	sbu	sbu	_	15	SBU	_	name=O
 10	Tresfjord	Tresfjord	subst	subst	prop	12	DET	_	name=B-ORG
 11	ULs	UL	subst	subst	prop|gen	10	FLAT	_	name=I-ORG
-12	Anne	Anne	subst	subst	prop|fem	15	SUBJ	_	name=O
-13	Øvstedal	Øvstedal	subst	subst	prop	12	FLAT	_	name=O
-14	Iversen	Iversen	subst	subst	prop	12	FLAT	_	name=O
+12	Anne	Anne	subst	subst	prop|fem	15	SUBJ	_	name=B-PER
+13	Øvstedal	Øvstedal	subst	subst	prop	12	FLAT	_	name=I-PER
+14	Iversen	Iversen	subst	subst	prop	12	FLAT	_	name=I-PER
 15	tok	ta	verb	verb	pret	8	DOBJ	_	name=O
 16	ekte	ekte	adj	adj	ub|m/f|ent|pos	17	ATR	_	name=O
 17	hjemmeseier	hjemmeseier	subst	subst	appell|mask|ub|ent	15	DOBJ	_	name=O

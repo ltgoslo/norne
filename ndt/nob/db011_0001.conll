@@ -282,8 +282,8 @@
 10	,	$,	<komma>	<komma>	_	3	IK	_	name=O
 11	sier	si	verb	verb	pres	3	PAR	_	name=O
 12	NALs	NAL	subst	subst	prop|gen	13	DET	_	name=B-ORG
-13	Jannike	Jannike	subst	subst	prop	11	SUBJ	_	name=O
-14	Hovland	Hovland	subst	subst	prop	13	FLAT	_	name=O
+13	Jannike	Jannike	subst	subst	prop	11	SUBJ	_	name=B-PER
+14	Hovland	Hovland	subst	subst	prop	13	FLAT	_	name=I-PER
 15	,	$,	<komma>	<komma>	_	13	IK	_	name=O
 16	som	som	sbu	sbu	_	17	SBU	_	name=O
 17	berømmer	berømme	verb	verb	pres	13	ATR	_	name=O
@@ -1390,8 +1390,8 @@
 2	i	i	prep	prep	_	1	ATR	_	name=O
 3	Fritt	Fritt	subst	subst	prop	2	PUTFYLL	_	name=B-ORG
 4	Ord	Ord	subst	subst	prop	3	FLAT	_	name=I-ORG
-5	Erik	Erik	subst	subst	prop|mask	7	SUBJ	_	name=O
-6	Rudeng	Rudeng	subst	subst	prop	5	FLAT	_	name=O
+5	Erik	Erik	subst	subst	prop|mask	7	SUBJ	_	name=B-PER
+6	Rudeng	Rudeng	subst	subst	prop	5	FLAT	_	name=I-PER
 7	mener	mene	verb	verb	pres	0	FINV	_	name=O
 8	det	det	pron	pron	nøyt|ent|pers|3	9	FSUBJ	_	name=O
 9	er	være	verb	verb	pres	7	DOBJ	_	name=O

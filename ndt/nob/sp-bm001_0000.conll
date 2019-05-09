@@ -1268,9 +1268,9 @@
 10	etter	etter	prep	prep	_	4	ADV	_	name=O
 11	at	at	sbu	sbu	_	16	SBU	_	name=O
 12	Hødd-back	Hødd-back	subst	subst	appell|mask|ub|ent|samset	13	APP	_	name=B-DRV
-13	Per	Per	subst	subst	prop|mask	16	SUBJ	_	name=O
-14	Otto	Otto	subst	subst	prop|mask	13	FLAT	_	name=O
-15	Ringstad	Ringstad	subst	subst	prop	13	FLAT	_	name=O
+13	Per	Per	subst	subst	prop|mask	16	SUBJ	_	name=B-PER
+14	Otto	Otto	subst	subst	prop|mask	13	FLAT	_	name=I-PER
+15	Ringstad	Ringstad	subst	subst	prop	13	FLAT	_	name=I-PER
 16	sendte	sende	verb	verb	pret	10	PUTFYLL	_	name=O
 17	en	en	det	det	mask|ent|kvant	18	DET	_	name=O
 18	tversoverpasning	tversoverpasning	subst	subst	appell|mask|ub|ent	16	DOBJ	_	name=O
@@ -1599,8 +1599,8 @@
 37	en	en	det	det	mask|ent|kvant	39	DET	_	name=O
 38	lettet	lette	adj	adj	ub|m/f|ent|<perf-part>	39	ATR	_	name=O
 39	Vika-trener	Vika-trener	subst	subst	appell|mask|ub|ent|samset	40	APP	_	name=B-DRV
-40	Gunnar	Gunnar	subst	subst	prop|mask	36	SUBJ	_	name=O
-41	Hagen	Hagen	subst	subst	prop	40	FLAT	_	name=O
+40	Gunnar	Gunnar	subst	subst	prop|mask	36	SUBJ	_	name=B-PER
+41	Hagen	Hagen	subst	subst	prop	40	FLAT	_	name=I-PER
 42	etter	etter	prep	prep	_	36	ADV	_	name=O
 43	søndagens	søndag	subst	subst	appell|mask|be|ent|gen	45	DET	_	name=O
 44	knappe	knapp	adj	adj	be|ent|pos	45	ATR	_	name=O

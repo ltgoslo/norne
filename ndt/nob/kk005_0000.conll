@@ -516,7 +516,7 @@
 28	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	-	$-	<strek>	<strek>	_	8	IK	_	name=O
-2	Forsvaret	forsvar	subst	subst	appell|nøyt|be|ent	8	SUBJ	_	name=O
+2	Forsvaret	forsvar	subst	subst	appell|nøyt|be|ent	8	SUBJ	_	name=B-ORG
 3	i	i	prep	prep	_	2	ATR	_	name=O
 4	både	både	konj	konj	<ikke-clb>|<adv>	5	KONJ	_	name=O
 5	inn-	inn-	subst	subst	ufl	3	PUTFYLL	_	name=O
@@ -677,9 +677,9 @@
 18	,	$,	<komma>	<komma>	_	2	IK	_	name=O
 19	skrev	skrive	verb	verb	pret	2	PAR	_	name=O
 20	KrFs	Krf	subst	subst	prop|fork|gen	21	DET	_	name=B-ORG
-21	Anita	Anita	subst	subst	prop|fem	19	SUBJ	_	name=O
-22	Appelthun	Appelthun	subst	subst	prop	21	FLAT	_	name=O
-23	Sæle	Sæle	subst	subst	prop	21	FLAT	_	name=O
+21	Anita	Anita	subst	subst	prop|fem	19	SUBJ	_	name=B-PER
+22	Appelthun	Appelthun	subst	subst	prop	21	FLAT	_	name=I-PER
+23	Sæle	Sæle	subst	subst	prop	21	FLAT	_	name=I-PER
 24	-	$-	<strek>	<strek>	_	2	IK	_	name=O
 25	et	en	det	det	nøyt|ent|kvant	26	DET	_	name=O
 26	spørsmål	spørsmål	subst	subst	appell|nøyt|ub|ent	2	APP	_	name=O
@@ -1064,8 +1064,8 @@
 12	Norges	Norges	subst	subst	prop	11	PUTFYLL	_	name=B-ORG
 13	Informasjonstekniske	Informasjonstekniske	subst	subst	prop	12	FLAT	_	name=I-ORG
 14	Høyskole	Høyskole	subst	subst	prop	12	FLAT	_	name=I-ORG
-15	Faltin	Faltin	subst	subst	prop	9	SUBJ	_	name=O
-16	Karlsen	Karlsen	subst	subst	prop	15	FLAT	_	name=O
+15	Faltin	Faltin	subst	subst	prop	9	SUBJ	_	name=B-PER
+16	Karlsen	Karlsen	subst	subst	prop	15	FLAT	_	name=I-PER
 17	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	Han	han	pron	pron	mask|ent|pers|hum|3|nom	2	SUBJ	_	name=O

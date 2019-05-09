@@ -399,8 +399,8 @@
 2	dag	dag	subst	subst	appell|mask|ub|ent	3	ADV	_	name=O
 3	ringer	ringe	verb	verb	pres	0	FINV	_	name=O
 4	Relis	Relis	subst	subst	prop	3	SUBJ	_	name=B-ORG
-5	Karen	Karen	subst	subst	prop|fem	3	DOBJ	_	name=O
-6	Helene	Helene	subst	subst	prop|fem	5	FLAT	_	name=O
+5	Karen	Karen	subst	subst	prop|fem	3	DOBJ	_	name=B-PER
+6	Helene	Helene	subst	subst	prop|fem	5	FLAT	_	name=I-PER
 7	og	og	konj	konj	clb	8	KONJ	_	name=O
 8	spør	spørre	verb	verb	pres	3	KOORD	_	name=O
 9	om	om	sbu	sbu	_	12	SBU	_	name=O

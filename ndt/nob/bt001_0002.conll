@@ -16,7 +16,7 @@
 1	Kritisk	kritisk	adj	adj	ub|m/f|ent|pos	0	FRAG	_	name=O
 2	til	til	prep	prep	_	1	ADV	_	name=O
 3	NRKs	NRK	subst	subst	prop|gen	4	DET	_	name=B-ORG
-4	Breivik-dekning	Breivik-dekning	subst	subst	appell|fem|ub|ent|samset	2	PUTFYLL	_	name=O
+4	Breivik-dekning	Breivik-dekning	subst	subst	appell|fem|ub|ent|samset	2	PUTFYLL	_	name=B-DRV
 5	|	$|	clb	clb	<overskrift>	1	IP	_	name=O
 
 1	Til	til	prep	prep	_	0	FRAG	_	name=O

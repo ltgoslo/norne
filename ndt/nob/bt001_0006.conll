@@ -1189,7 +1189,7 @@
 21	Kongressen	Kongressen	subst	subst	prop	20	PUTFYLL	_	name=B-ORG
 22	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
-1	Demokratenes	Demokratene	subst	subst	prop|gen	2	DET	_	name=O
+1	Demokratenes	Demokratene	subst	subst	prop|gen	2	DET	_	name=B-ORG
 2	valgvake	valgvake	subst	subst	appell|fem|ub|ent	0	FRAG	_	name=O
 3	i	i	prep	prep	_	2	ATR	_	name=O
 4	Chicago	Chicago	subst	subst	prop	3	PUTFYLL	_	name=B-GPE_LOC
@@ -1400,8 +1400,8 @@
 7	.	$.	clb	clb	<punkt>	4	IP	_	name=O
 
 1	BT-journalist	BT-journalist	subst	subst	prop	2	APP	_	name=B-DRV
-2	Christina	Christina	subst	subst	prop	4	SUBJ	_	name=O
-3	Pletten	Pletten	subst	subst	prop	2	FLAT	_	name=O
+2	Christina	Christina	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Pletten	Pletten	subst	subst	prop	2	FLAT	_	name=I-PER
 4	rapporterer	rapportere	verb	verb	pres	0	FINV	_	name=O
 5	fra	fra	prep	prep	_	4	ADV	_	name=O
 6	Chicago	Chicago	subst	subst	prop	5	PUTFYLL	_	name=B-GPE_LOC
@@ -1684,8 +1684,8 @@
 9	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	BT-journalist	BT-journalist	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Christina	Christina	subst	subst	prop	4	SUBJ	_	name=O
-3	Pletten	Pletten	subst	subst	prop	2	FLAT	_	name=O
+2	Christina	Christina	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Pletten	Pletten	subst	subst	prop	2	FLAT	_	name=I-PER
 4	er	være	verb	verb	pres	0	FINV	_	name=O
 5	på	på	prep	prep	_	4	SPRED	_	name=O
 6	demokratenes	Demokratene	subst	subst	prop|gen|unorm	7	DET	_	name=O

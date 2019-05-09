@@ -166,9 +166,9 @@
 5	|	$|	clb	clb	<overskrift>	2	IP	_	name=O
 
 1	Tønsberg-ordfører	Tønsberg-ordfører	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Per	Per	subst	subst	prop|mask	8	SUBJ	_	name=O
-3	Arne	Arne	subst	subst	prop|mask	2	FLAT	_	name=O
-4	Olsen	Olsen	subst	subst	prop	2	FLAT	_	name=O
+2	Per	Per	subst	subst	prop|mask	8	SUBJ	_	name=B-PER
+3	Arne	Arne	subst	subst	prop|mask	2	FLAT	_	name=I-PER
+4	Olsen	Olsen	subst	subst	prop	2	FLAT	_	name=I-PER
 5	(	$(	<parentes-beg>	<parentes-beg>	_	6	IK	_	name=O
 6	Frp	Frp	subst	subst	prop|fork	2	ATR	_	name=B-ORG
 7	)	$)	<parentes-slutt>	<parentes-slutt>	_	6	IK	_	name=O
@@ -763,7 +763,7 @@
 13	at	at	sbu	sbu	_	15	SBU	_	name=O
 14	du	du	pron	pron	ent|pers|hum|nom|2	15	SUBJ	_	name=O
 15	tenkte	tenke	verb	verb	pret	6	ADV	_	name=O
-16	Norge	Norge	subst	subst	prop	17	SUBJ	_	name=O
+16	Norge	Norge	subst	subst	prop	17	SUBJ	_	name=B-GPE_LOC
 17	trenger	trenge	verb	verb	pres	15	DOBJ	_	name=O
 18	en	en	det	det	mask|ent|kvant	19	DET	_	name=O
 19	motebibel	motebibel	subst	subst	appell|mask|ub|ent|samset	17	DOBJ	_	name=O

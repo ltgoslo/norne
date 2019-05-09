@@ -99,8 +99,8 @@
 6	vi	vi	pron	pron	fl|pers|hum|nom|1	5	SUBJ	_	name=O
 7	i	i	prep	prep	_	5	ADV	_	name=O
 8	Aftenposten	Aftenposten	subst	subst	prop|mask	7	PUTFYLL	_	name=B-PROD
-9	Espen	Espen	subst	subst	prop|mask	5	DOBJ	_	name=O
-10	Thomassen	Thomassen	subst	subst	prop	9	FLAT	_	name=O
+9	Espen	Espen	subst	subst	prop|mask	5	DOBJ	_	name=B-PER
+10	Thomassen	Thomassen	subst	subst	prop	9	FLAT	_	name=I-PER
 11	på	på	prep	prep	_	9	ATR	_	name=O
 12	vei	vei	subst	subst	appell|mask|ub|ent	11	PUTFYLL	_	name=O
 13	ut	ut	prep	prep	_	12	ATR	_	name=O

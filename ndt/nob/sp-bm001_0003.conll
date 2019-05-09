@@ -735,8 +735,8 @@
 13	,	$,	<komma>	<komma>	_	3	IK	_	name=O
 14	forteller	fortelle	verb	verb	pres	3	PAR	_	name=O
 15	MFK-trener	MFK-trener	subst	subst	appell|mask|ub|ent|samset	16	APP	_	name=B-DRV
-16	Erik	Erik	subst	subst	prop|mask	14	SUBJ	_	name=O
-17	Brakstad	Brakstad	subst	subst	prop	16	FLAT	_	name=O
+16	Erik	Erik	subst	subst	prop|mask	14	SUBJ	_	name=B-PER
+17	Brakstad	Brakstad	subst	subst	prop	16	FLAT	_	name=I-PER
 18	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	-	$-	<strek>	<strek>	_	3	IK	_	name=O
@@ -1497,8 +1497,8 @@
 18	utagbart	utagbar	adj	adj	nøyt|ub|ent|pos	17	ADV	_	name=O
 19	forbi	forbi	prep	prep	_	17	ADV	_	name=O
 20	Stranda-keeper	Stranda-keeper	subst	subst	appell|mask|ub|ent|samset	21	APP	_	name=B-DRV
-21	Thomas	Thomas	subst	subst	prop|mask	19	PUTFYLL	_	name=O
-22	Hove	Hove	subst	subst	prop	21	FLAT	_	name=O
+21	Thomas	Thomas	subst	subst	prop|mask	19	PUTFYLL	_	name=B-PER
+22	Hove	Hove	subst	subst	prop	21	FLAT	_	name=I-PER
 23	.	$.	clb	clb	<punkt>	5	IP	_	name=O
 
 1	Hove	Hove	subst	subst	prop	2	SUBJ	_	name=B-PER

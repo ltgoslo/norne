@@ -585,7 +585,7 @@
 9	som	som	prep	prep	_	8	SPRED	_	name=O
 10	«	$"	<anf>	<anf>	_	12	IK	_	name=O
 11	Nord-Norges	Nord-Norge	subst	subst	prop|gen	12	DET	_	name=B-GPE_LOC
-12	Dior	Dior	subst	subst	prop	9	PUTFYLL	_	name=O
+12	Dior	Dior	subst	subst	prop	9	PUTFYLL	_	name=B-PER
 13	»	$"	<anf>	<anf>	_	12	IK	_	name=O
 14	.	$.	clb	clb	<punkt>	4	IP	_	name=O
 
@@ -1248,8 +1248,8 @@
 18	knekkebrød	knekkebrød	subst	subst	appell|nøyt|ub|fl	17	FLAT	_	name=I-PROD
 19	til	til	prep	prep	_	15	ATR	_	name=O
 20	Røkkes	Røkke	subst	subst	prop|gen	21	DET	_	name=B-PER
-21	Aker	Aker	subst	subst	prop	19	PUTFYLL	_	name=O
-22	Kværner	Kværner	subst	subst	prop	21	FLAT	_	name=O
+21	Aker	Aker	subst	subst	prop	19	PUTFYLL	_	name=B-ORG
+22	Kværner	Kværner	subst	subst	prop	21	FLAT	_	name=I-ORG
 23	.	$.	clb	clb	<punkt>	4	IP	_	name=O
 
 1	Få	få	adj	adj	fl|pos	6	ATR	_	name=O

@@ -1329,7 +1329,7 @@
 22	går	gå	verb	verb	pres	15	ATR	_	name=O
 23	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
-1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	2	DET	_	name=O
+1	Regjeringens	regjering	subst	subst	appell|mask|be|ent|gen	2	DET	_	name=B-ORG
 2	skolereform	skolereform	subst	subst	appell|mask|ub|ent	3	APP	_	name=O
 3	Kunnskapsløftet	Kunnskapsløftet	subst	subst	prop	4	SUBJ	_	name=B-PROD
 4	skal	skulle	verb	verb	pres	0	FINV	_	name=O

@@ -1248,7 +1248,7 @@
 15	at	at	sbu	sbu	_	27	SBU	_	name=O
 16	Silvio	Silvio	subst	subst	prop	18	DET	_	name=B-PER
 17	Berlusconis	Berlusconi	subst	subst	prop|gen	16	FLAT	_	name=I-PER
-18	Italia	Italia	subst	subst	prop	27	SUBJ	_	name=O
+18	Italia	Italia	subst	subst	prop	27	SUBJ	_	name=B-GPE_ORG
 19	,	$,	<komma>	<komma>	_	18	IK	_	name=O
 20	et	en	det	det	nøyt|ent|kvant	18	APP	_	name=O
 21	av	av	prep	prep	_	20	ATR	_	name=O

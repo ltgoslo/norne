@@ -195,7 +195,7 @@
 3	er	være	verb	verb	pres	0	FINV	_	name=O
 4	rørende	rørende	adj	adj	nøyt|ub|ent|pos	3	SPRED	_	name=O
 5	at	at	sbu	sbu	_	7	SBU	_	name=O
-6	Kongen	Kongen	subst	subst	prop	7	SUBJ	_	name=O
+6	Kongen	Kongen	subst	subst	prop	7	SUBJ	_	name=B-PER
 7	har	ha	verb	verb	pres	3	PSUBJ	_	name=O
 8	gitt	gi	verb	verb	perf-part	7	INFV	_	name=O
 9	fødselsdagshjelp	fødselsdagshjelp	subst	subst	appell|fem|ub|ent|samset	8	DOBJ	_	name=O
@@ -320,7 +320,7 @@
 30	har	ha	verb	verb	pres	0	FINV	_	name=O
 31	seilt	seile	verb	verb	perf-part	30	INFV	_	name=O
 32	med	med	prep	prep	_	31	ADV	_	name=O
-33	Kongen	Kongen	subst	subst	prop	32	PUTFYLL	_	name=O
+33	Kongen	Kongen	subst	subst	prop	32	PUTFYLL	_	name=B-PER
 34	i	i	prep	prep	_	31	ADV	_	name=O
 35	en	en	det	det	mask|ent|kvant	36	DET	_	name=O
 36	årrekke	årrekke	subst	subst	appell|mask|ub|ent	34	PUTFYLL	_	name=O

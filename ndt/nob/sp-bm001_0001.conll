@@ -538,9 +538,9 @@
 13	,	$,	<komma>	<komma>	_	7	IK	_	name=O
 14	sier	si	verb	verb	pres	7	PAR	_	name=O
 15	Volda-trener	Volda-trener	subst	subst	appell|mask|ub|ent|samset	16	APP	_	name=B-DRV
-16	Roy	Roy	subst	subst	prop|mask	14	SUBJ	_	name=O
-17	Inge	Inge	subst	subst	prop	16	FLAT	_	name=O
-18	Råheim	Råheim	subst	subst	prop	16	FLAT	_	name=O
+16	Roy	Roy	subst	subst	prop|mask	14	SUBJ	_	name=B-PER
+17	Inge	Inge	subst	subst	prop	16	FLAT	_	name=I-PER
+18	Råheim	Råheim	subst	subst	prop	16	FLAT	_	name=I-PER
 19	.	$.	clb	clb	<punkt>	7	IP	_	name=O
 
 1	Rutine	rutine	subst	subst	appell|mask|ub|ent	2	SUBJ	_	name=O

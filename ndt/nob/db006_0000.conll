@@ -260,8 +260,8 @@
 7	og	og	konj	konj	<ikke-clb>	9	KONJ	_	name=O
 8	EA	EA	subst	subst	prop	9	FLAT	_	name=B-DRV
 9	Sports-sjef	Sports-sjef	subst	subst	appell|mask|ub|ent|samset	6	KOORD	_	name=I-DRV
-10	Peter	Peter	subst	subst	prop|mask	4	PUTFYLL	_	name=O
-11	Moore	Moore	subst	subst	prop	10	FLAT	_	name=O
+10	Peter	Peter	subst	subst	prop|mask	4	PUTFYLL	_	name=B-PER
+11	Moore	Moore	subst	subst	prop	10	FLAT	_	name=I-PER
 12	,	$,	<komma>	<komma>	_	10	IK	_	name=O
 13	som	som	sbu	sbu	_	14	SBU	_	name=O
 14	hevder	hevde	verb	verb	pres	10	ATR	_	name=O

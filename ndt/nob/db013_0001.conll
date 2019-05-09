@@ -341,8 +341,8 @@
 19	på	på	prep	prep	_	13	ADV	_	name=O
 20	Nottingham	Nottingham	subst	subst	prop	22	DET	_	name=B-ORG
 21	Forests	Forests	subst	subst	prop	20	FLAT	_	name=I-ORG
-22	City	City	subst	subst	prop	19	PUTFYLL	_	name=O
-23	Ground	Ground	subst	subst	prop	22	FLAT	_	name=O
+22	City	City	subst	subst	prop	19	PUTFYLL	_	name=B-LOC
+23	Ground	Ground	subst	subst	prop	22	FLAT	_	name=I-LOC
 24	.	$.	clb	clb	<punkt>	3	IP	_	name=O
 
 1	Forventningene	forventning	subst	subst	appell|fem|be|fl	2	SUBJ	_	name=O
@@ -1094,7 +1094,7 @@
 2	morgen	morgen	subst	subst	appell|mask|ub|ent	3	ADV	_	name=O
 3	suspenderte	suspendere	verb	verb	pret	0	FINV	_	name=O
 4	Clough	Clough	subst	subst	prop	3	SUBJ	_	name=B-PER
-5	Fashanu	Fashanu	subst	subst	prop	3	DOBJ	_	name=O
+5	Fashanu	Fashanu	subst	subst	prop	3	DOBJ	_	name=B-PER
 6	fra	fra	prep	prep	_	3	ADV	_	name=O
 7	Forests	Forest	subst	subst	prop|gen	8	DET	_	name=B-ORG
 8	trening	trening	subst	subst	appell|fem|ub|ent	6	PUTFYLL	_	name=O

@@ -110,8 +110,8 @@
 13	,	$,	<komma>	<komma>	_	2	IK	_	name=O
 14	svarer	svare	verb	verb	pres	2	PAR	_	name=O
 15	PST-sjef	PST-sjef	subst	subst	appell|mask|ub|ent|samset	16	APP	_	name=B-DRV
-16	Janne	Janne	subst	subst	prop	14	SUBJ	_	name=O
-17	Kristiansen	Kristiansen	subst	subst	prop	16	FLAT	_	name=O
+16	Janne	Janne	subst	subst	prop	14	SUBJ	_	name=B-PER
+17	Kristiansen	Kristiansen	subst	subst	prop	16	FLAT	_	name=I-PER
 18	.	$.	clb	clb	<punkt>	2	IP	_	name=O
 
 1	13.20	13.20	det	det	kvant	0	FRAG	_	name=O
@@ -522,8 +522,8 @@
 2	:	$:	clb	clb	<kolon>	1	IP	_	name=O
 
 1	PST-sjef	PST-sjef	subst	subst	appell|mask|ub|ent|samset	2	APP	_	name=B-DRV
-2	Janne	Janne	subst	subst	prop	4	SUBJ	_	name=O
-3	Kristiansen	Kristiansen	subst	subst	prop	2	FLAT	_	name=O
+2	Janne	Janne	subst	subst	prop	4	SUBJ	_	name=B-PER
+3	Kristiansen	Kristiansen	subst	subst	prop	2	FLAT	_	name=I-PER
 4	holder	holde	verb	verb	pres	0	FINV	_	name=O
 5	sitt	sin	det	det	nøyt|ent|poss	6	DET	_	name=O
 6	innlegg	innlegg	subst	subst	appell|nøyt|ub|ent	4	DOBJ	_	name=O

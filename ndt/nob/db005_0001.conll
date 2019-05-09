@@ -1060,8 +1060,8 @@
 32	år	år	subst	subst	appell|nøyt|ub|fl	33	ADV	_	name=O
 33	eldre	gammel	adj	adj	komp	34	ATR	_	name=O
 34	NRK-mannen	NRK-mann	subst	subst	appell|mask|be|ent|samset	35	APP	_	name=B-DRV
-35	Martin	Martin	subst	subst	prop|mask	29	PUTFYLL	_	name=O
-36	Gaarder	Gaarder	subst	subst	prop	35	FLAT	_	name=O
+35	Martin	Martin	subst	subst	prop|mask	29	PUTFYLL	_	name=B-PER
+36	Gaarder	Gaarder	subst	subst	prop	35	FLAT	_	name=I-PER
 37	.	$.	clb	clb	<punkt>	26	IP	_	name=O
 
 1	-	$-	<strek>	<strek>	_	3	IK	_	name=O

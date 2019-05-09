@@ -703,7 +703,7 @@
 8	lanseringen	lansering	subst	subst	appell|mask|be|ent	7	PUTFYLL	_	name=O
 9	av	av	prep	prep	_	8	ATR	_	name=O
 10	Modems	Modem	subst	subst	prop|gen	11	DET	_	name=B-ORG
-11	EU-valgkampanje	EU-valgkampanje	subst	subst	appell|mask|ub|ent|samset	9	PUTFYLL	_	name=O
+11	EU-valgkampanje	EU-valgkampanje	subst	subst	appell|mask|ub|ent|samset	9	PUTFYLL	_	name=B-DRV
 12	i	i	prep	prep	_	11	ATR	_	name=O
 13	Paris	Paris	subst	subst	prop	12	PUTFYLL	_	name=B-GPE_LOC
 14	.	$.	clb	clb	<punkt>	5	IP	_	name=O

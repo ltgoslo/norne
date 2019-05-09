@@ -9,8 +9,8 @@
 2	:	$:	clb	clb	<kolon>	1	IP	_	name=O
 
 1	LO-leder	LO-leder	subst	subst	appell|mask|ub|ent	2	APP	_	name=B-DRV
-2	Roar	Roar	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Flåthen	Flåthen	subst	subst	prop	2	FLAT	_	name=O
+2	Roar	Roar	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Flåthen	Flåthen	subst	subst	prop	2	FLAT	_	name=I-PER
 4	åpner	åpne	verb	verb	pres	0	FINV	_	name=O
 5	nå	nå	adv	adv	_	4	ADV	_	name=O
 6	for	for	prep	prep	_	4	ADV	_	name=O
@@ -35,8 +35,8 @@
 3	:	$:	clb	clb	<kolon>	1	IP	_	name=O
 
 1	LO-leder	LO-leder	subst	subst	appell|mask|ub|ent	2	APP	_	name=B-DRV
-2	Roar	Roar	subst	subst	prop|mask	4	SUBJ	_	name=O
-3	Flaathen	Flaathen	subst	subst	prop	2	FLAT	_	name=O
+2	Roar	Roar	subst	subst	prop|mask	4	SUBJ	_	name=B-PER
+3	Flaathen	Flaathen	subst	subst	prop	2	FLAT	_	name=I-PER
 4	ser	se	verb	verb	pres	0	FINV	_	name=O
 5	på	på	prep	prep	_	4	ADV	_	name=O
 6	KrF	KrF	subst	subst	prop|fork	5	PUTFYLL	_	name=B-ORG
@@ -589,8 +589,8 @@
 15	med	med	prep	prep	_	14	ADV	_	name=O
 16	at	at	sbu	sbu	_	20	SBU	_	name=O
 17	LO-leder	LO-leder	subst	subst	appell|mask|ub|ent	18	APP	_	name=B-DRV
-18	Roar	Roar	subst	subst	prop|mask	20	SUBJ	_	name=O
-19	Flåthen	Flåthen	subst	subst	prop	18	FLAT	_	name=O
+18	Roar	Roar	subst	subst	prop|mask	20	SUBJ	_	name=B-PER
+19	Flåthen	Flåthen	subst	subst	prop	18	FLAT	_	name=I-PER
 20	inviterer	invitere	verb	verb	pres	15	PUTFYLL	_	name=O
 21	KrF	KrF	subst	subst	prop|fork	20	DOBJ	_	name=B-ORG
 22	med	med	prep	prep	_	20	ADV	_	name=O
@@ -985,8 +985,8 @@
 15	om	om	prep	prep	_	12	ADV	_	name=O
 16	at	at	sbu	sbu	_	23	SBU	_	name=O
 17	LO-leder	LO-leder	subst	subst	appell|mask|ub|ent	18	APP	_	name=B-DRV
-18	Roar	Roar	subst	subst	prop|mask	23	SUBJ	_	name=O
-19	Flåthen	Flåthen	subst	subst	prop	18	FLAT	_	name=O
+18	Roar	Roar	subst	subst	prop|mask	23	SUBJ	_	name=B-PER
+19	Flåthen	Flåthen	subst	subst	prop	18	FLAT	_	name=I-PER
 20	i	i	prep	prep	_	23	ADV	_	name=O
 21	gårsdagens	gårsdag	subst	subst	appell|mask|be|ent|gen	22	DET	_	name=O
 22	Klassekampen	Klassekampen	subst	subst	prop	20	PUTFYLL	_	name=B-PROD
@@ -1749,7 +1749,7 @@
 4	oppfordret	oppfordre	verb	verb	pret	0	FINV	_	name=O
 5	Antirasistisk	Antirasistisk	subst	subst	prop	4	SUBJ	_	name=B-ORG
 6	Senter	Senter	subst	subst	prop	5	FLAT	_	name=I-ORG
-7	PST	PST	subst	subst	fork	4	DOBJ	_	name=O
+7	PST	PST	subst	subst	fork	4	DOBJ	_	name=B-ORG
 8	til	til	prep	prep	_	4	ADV	_	name=O
 9	å	å	inf-merke	inf-merke	_	8	PUTFYLL	_	name=O
 10	bli	bli	verb	verb	inf	9	INFV	_	name=O

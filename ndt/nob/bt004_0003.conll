@@ -1178,7 +1178,7 @@
 9	er	være	verb	verb	pres	0	FINV	_	name=O
 10	Olav	Olav	subst	subst	prop|mask	9	SUBJ	_	name=B-PER
 11	Mulelid	Mulelid	subst	subst	prop	10	FLAT	_	name=I-PER
-12	Cathrines	Cathrine	subst	subst	prop|gen	13	DET	_	name=O
+12	Cathrines	Cathrine	subst	subst	prop|gen	13	DET	_	name=B-PER
 13	klasseforstander	klasseforstander	subst	subst	appell|mask|ub|ent	9	SPRED	_	name=O
 14	.	$.	clb	clb	<punkt>	9	IP	_	name=O
 

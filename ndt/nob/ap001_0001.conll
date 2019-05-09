@@ -690,7 +690,7 @@
 2	tillegg	tillegg	subst	subst	appell|nøyt|ub|ent	1	PUTFYLL	_	name=O
 3	har	ha	verb	verb	pres	0	FINV	_	name=O
 4	FN-organet	FN-organ	subst	subst	appell|nøyt|be|ent	5	APP	_	name=B-DRV
-5	UNRWA	UNRWA	subst	subst	prop	3	SUBJ	_	name=O
+5	UNRWA	UNRWA	subst	subst	prop	3	SUBJ	_	name=B-ORG
 6	ansvaret	ansvar	subst	subst	appell|nøyt|be|ent	3	DOBJ	_	name=O
 7	for	for	prep	prep	_	6	ATR	_	name=O
 8	3,8	3,8	det	det	fl|kvant	9	DET	_	name=O
