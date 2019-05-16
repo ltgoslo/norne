@@ -64,7 +64,7 @@ def assert_equal(filenames, inputdir, outputdir):
         with open(path) as f:
             return [x.strip() for x in f.readlines()]
 
-    name_re = re.compile('[ ]?name=(O|[BI]-\w+)')
+    name_re = re.compile('\|?name=(O|[BI]-\w+)')
 
     def remove_name(i, o):
         if i.split('\t')[-1] == '_':
@@ -215,7 +215,7 @@ def merge_data(ud, ndt, merged):
             if ud_line[-1] == '_':
                 ud_line[-1] = 'name={}'.format(ndt_line[1])
             else:
-                ud_line[-1] += ' name={}'.format(ndt_line[1])
+                ud_line[-1] += '|name={}'.format(ndt_line[1])
             merged.append(ud_line)
             merged_count += 1
             ud_i += 1
