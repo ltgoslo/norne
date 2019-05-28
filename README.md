@@ -2,7 +2,7 @@
 
 ## The resource
 
-Named entity annotations on top of Norwegian Dependency Treebank. Created as a collaboration between [Schibsted Media Group](https://schibsted.com/), [Språkbanken](https://www.nb.no/forskning/sprakbanken/) and the [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/) at the University of Oslo.
+Named entity annotations on top of Norwegian Dependency Treebank. Created as a collaboration between [Schibsted Media Group](https://schibsted.com/), [Språkbanken](https://www.nb.no/forskning/sprakbanken/) at the [National Library of Norway](https://www.nb.no) and the [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/) at the University of Oslo.
 
 The NorNE corpus is published under the same [license](LICENSE_NDT.txt) as the Norwegian Dependency Treebank
 
