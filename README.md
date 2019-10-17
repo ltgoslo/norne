@@ -22,8 +22,7 @@ See the [NDT webpage](https://www.nb.no/sprakbanken/show?serial=sbr-10) for more
  
 ### About the Named Entity annotations
 
-NDT has been extended with NER annotations. Currently, only the Norwegian Bokmål data are available.
-The texts, tokenization and syntactic annotations from the original NDT has not been changed in any way. 
+NDT has been extended with NER annotations. The texts, tokenization and syntactic annotations from the original NDT has not been changed in any way. 
  
  The annotated files are distributed in two different collections:
  
