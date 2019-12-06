@@ -1,26 +1,22 @@
-# Norwegian Named Entities
+# NorNE: Norwegian Named Entities
+This dataset is described in the paper _NorNE: Annotating Named Entities for Norwegian_ by
+Fredrik Jørgensen, Tobias Aasmoe, Anne-Stine Ruud Husevåg, Lilja Øvrelid, and Erik Velldal, currently pending review for LREC 2020, available as pre-print here: https://arxiv.org/abs/1911.12146 
 
-## The resource
-
-Named entity annotations on top of Norwegian Dependency Treebank. Created as a collaboration between [Schibsted Media Group](https://schibsted.com/), [Språkbanken](https://www.nb.no/forskning/sprakbanken/) at the [National Library of Norway](https://www.nb.no) and the [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/) at the University of Oslo.
+NorNE ads named entity annotations on top of the Norwegian Dependency Treebank and was created as a collaboration between [Schibsted Media Group](https://schibsted.com/), [Språkbanken](https://www.nb.no/forskning/sprakbanken/) at the [National Library of Norway](https://www.nb.no) and the [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/) at the University of Oslo.
 
 The NorNE corpus is published under the same [license](LICENSE_NDT.txt) as the Norwegian Dependency Treebank
 
-### About the Norwegian Dependency Treebank (NDT)
+## About the Norwegian Dependency Treebank (NDT)
 
-The Norwegian Dependency Treebank (NDT)
-consists of text which is manually annotated with morphological features, syntactic functions 
+The texts in the Norwegian Dependency Treebank (NDT) are manually annotated with morphological features, syntactic functions 
 and hierarchical structure. The formalism used for the syntactic annotation is dependency grammar. 
-With a few exceptions, the syntactic analysis follows Norsk referensegrammatikk "Norwegian Reference Grammar".
-
 
 The treebanks consists of two parts, one part in Norwegian Bokmål (`nob`) and one part in Norwegian Nynorsk (`nno`).
 Both parts contain around 300.000 tokens, and are a mix of different non-fictional genres. 
 
-
 See the [NDT webpage](https://www.nb.no/sprakbanken/show?serial=sbr-10) for more details.
  
-### About the Named Entity annotations
+## About the Named Entity annotations
 
 NDT has been extended with NER annotations. The texts, tokenization and syntactic annotations from the original NDT has not been changed in any way. 
  
