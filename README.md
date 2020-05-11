@@ -1,6 +1,6 @@
 # NorNE: Norwegian Named Entities
 This dataset is described in the paper _NorNE: Annotating Named Entities for Norwegian_ by
-Fredrik Jørgensen, Tobias Aasmoe, Anne-Stine Ruud Husevåg, Lilja Øvrelid, and Erik Velldal, currently pending review for LREC 2020, available as pre-print here: https://arxiv.org/abs/1911.12146 
+Fredrik Jørgensen, Tobias Aasmoe, Anne-Stine Ruud Husevåg, Lilja Øvrelid, and Erik Velldal, accepted for LREC 2020 and available as pre-print here: https://arxiv.org/abs/1911.12146 
 
 NorNE ads named entity annotations on top of the Norwegian Dependency Treebank and was created as a collaboration between [Schibsted Media Group](https://schibsted.com/), [Språkbanken](https://www.nb.no/forskning/sprakbanken/) at the [National Library of Norway](https://www.nb.no) and the [Language Technology Group](https://www.mn.uio.no/ifi/english/research/groups/ltg/) at the University of Oslo.
 
